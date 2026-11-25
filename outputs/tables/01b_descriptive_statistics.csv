@@ -1,0 +1,22 @@
+location,variable,variable_label,observations,missing_values,mean,standard_deviation,median,minimum,first_quartile,third_quartile,ninetieth_percentile,ninety_fifth_percentile,maximum
+Abuja,apparent_temperature,Apparent temperature (°C),43824,0,30.015213125228186,4.905069165791332,30,14.4,27.3,33.3,36.3,37.9,43.8
+Abuja,relative_humidity_2m,Relative humidity (%),43824,0,64.25499726177436,23.726307499539153,69,9,44,85,93,95,100
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),43824,0,228.86664841182915,306.4859456985574,14,0,0,441,760,863,1060
+Abuja,temperature_2m,Air temperature (°C),43824,0,27.111671686746988,4.135766080629802,26.4,17.3,23.8,29.9,33.4,34.8,39.6
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),43824,0,21.565808689302663,3.2791404313286034,22.6,9.6,20.5,23.7,24.7,25.2,28.3
+Abuja,wind_direction_10m,Wind direction (degrees),43824,0,176.76686290617013,86.9846516478966,195,1,117,235,275,315,360
+Abuja,wind_speed_10m,Wind speed (km/h),43824,0,5.784444596568091,2.8857684561386496,5.4,0,3.6,7.7,9.8,11,17.2
+Ilorin,apparent_temperature,Apparent temperature (°C),43824,0,30.723724443227454,4.876848951831444,30.2,13.1,27.7,33.8,37.6,39.3,46.1
+Ilorin,relative_humidity_2m,Relative humidity (%),43824,0,66.06478185469149,24.954559750757344,72,7,45,88,94,96,100
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),43824,0,228.82285962029937,307.7285184411446,8,0,0,455,764,861,1042
+Ilorin,temperature_2m,Air temperature (°C),43824,0,27.78169267981015,4.3116384040247855,26.7,16,24.4,30.8,34.5,35.9,41.2
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),43824,0,22.341009492515518,3.208373972861537,23.3,8.5,21.9,24.3,25.2,25.6,28.1
+Ilorin,wind_direction_10m,Wind direction (degrees),43824,0,174.42928532311063,75.7718127793932,204,1,155,217,231,248,360
+Ilorin,wind_speed_10m,Wind speed (km/h),43824,0,8.435628879152976,3.3792260474998645,8.45,0,6,10.7,12.8,14.1,21.9
+Lagos,apparent_temperature,Apparent temperature (°C),43824,0,32.26887550200803,2.42696454612021,32.4,22.5,30.5,33.8,35.4,36.5,40.7
+Lagos,relative_humidity_2m,Relative humidity (%),43824,0,84.34574662285506,7.914630829899527,86,23,81,89,91,92,98
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),43824,0,199.67522362175976,267.46915489108363,7,0,0,395,655,745,988
+Lagos,temperature_2m,Air temperature (°C),43824,0,27.41847389558233,1.7208732732098406,27.3,22.1,26.1,28.6,29.9,30.5,32.7
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),43824,0,25.228310971157356,1.2518547003241662,25.3,16.3,24.4,26.2,26.7,27,28.4
+Lagos,wind_direction_10m,Wind direction (degrees),43824,0,225.37091548010224,44.06881355721548,226,1,210,243,268,293,360
+Lagos,wind_speed_10m,Wind speed (km/h),43824,0,11.611199342825849,4.2393736095113095,11.8,0,8.5,14.7,16.9,18.3,28.2

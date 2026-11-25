@@ -1,0 +1,19 @@
+location,threshold,training_observations,task,frequency,percentile
+Abuja,36,35063,Hourly apparent temperature,hourly,0.9
+Ilorin,37.4,35063,Hourly apparent temperature,hourly,0.9
+Lagos,35.4,35063,Hourly apparent temperature,hourly,0.9
+Abuja,24.7,35063,Hourly wet-bulb temperature,hourly,0.9
+Ilorin,25.2,35063,Hourly wet-bulb temperature,hourly,0.9
+Lagos,26.7,35063,Hourly wet-bulb temperature,hourly,0.9
+Abuja,33.2,35063,Hourly air temperature,hourly,0.9
+Ilorin,34.4,35063,Hourly air temperature,hourly,0.9
+Lagos,29.9,35063,Hourly air temperature,hourly,0.9
+Abuja,39.81000000000001,1460,Daily maximum apparent temperature,daily,0.9
+Ilorin,41.7,1460,Daily maximum apparent temperature,daily,0.9
+Lagos,38,1460,Daily maximum apparent temperature,daily,0.9
+Abuja,25.7,1460,Daily maximum wet-bulb temperature,daily,0.9
+Ilorin,26.2,1460,Daily maximum wet-bulb temperature,daily,0.9
+Lagos,27.3,1460,Daily maximum wet-bulb temperature,daily,0.9
+Abuja,36.2,1460,Daily maximum air temperature,daily,0.9
+Ilorin,37.7,1460,Daily maximum air temperature,daily,0.9
+Lagos,31.3,1460,Daily maximum air temperature,daily,0.9

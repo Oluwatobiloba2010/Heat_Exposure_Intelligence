@@ -1,0 +1,109 @@
+location,variable_1,variable_2,correlation
+Abuja,Air temperature (°C),Air temperature (°C),1
+Abuja,Relative humidity (%),Air temperature (°C),-0.6039202112170347
+Abuja,Wind speed (km/h),Air temperature (°C),-0.08108728274627865
+Abuja,Incoming solar radiation (W/m²),Air temperature (°C),0.6723439136802165
+Abuja,Wet-bulb temperature (°C),Air temperature (°C),0.35015183834945574
+Abuja,Apparent temperature (°C),Air temperature (°C),0.8732457847654763
+Abuja,Air temperature (°C),Relative humidity (%),-0.6039202112170347
+Abuja,Relative humidity (%),Relative humidity (%),1
+Abuja,Wind speed (km/h),Relative humidity (%),-0.20938100609839874
+Abuja,Incoming solar radiation (W/m²),Relative humidity (%),-0.4264566559929468
+Abuja,Wet-bulb temperature (°C),Relative humidity (%),0.5188499923845806
+Abuja,Apparent temperature (°C),Relative humidity (%),-0.15912721892394943
+Abuja,Air temperature (°C),Wind speed (km/h),-0.08108728274627865
+Abuja,Relative humidity (%),Wind speed (km/h),-0.20938100609839874
+Abuja,Wind speed (km/h),Wind speed (km/h),1
+Abuja,Incoming solar radiation (W/m²),Wind speed (km/h),0.022929227943901686
+Abuja,Wet-bulb temperature (°C),Wind speed (km/h),-0.28988503977480196
+Abuja,Apparent temperature (°C),Wind speed (km/h),-0.27294717580333216
+Abuja,Air temperature (°C),Incoming solar radiation (W/m²),0.6723439136802165
+Abuja,Relative humidity (%),Incoming solar radiation (W/m²),-0.4264566559929468
+Abuja,Wind speed (km/h),Incoming solar radiation (W/m²),0.022929227943901686
+Abuja,Incoming solar radiation (W/m²),Incoming solar radiation (W/m²),1
+Abuja,Wet-bulb temperature (°C),Incoming solar radiation (W/m²),0.1999769437131129
+Abuja,Apparent temperature (°C),Incoming solar radiation (W/m²),0.6257500178997591
+Abuja,Air temperature (°C),Wet-bulb temperature (°C),0.35015183834945574
+Abuja,Relative humidity (%),Wet-bulb temperature (°C),0.5188499923845806
+Abuja,Wind speed (km/h),Wet-bulb temperature (°C),-0.28988503977480196
+Abuja,Incoming solar radiation (W/m²),Wet-bulb temperature (°C),0.1999769437131129
+Abuja,Wet-bulb temperature (°C),Wet-bulb temperature (°C),1
+Abuja,Apparent temperature (°C),Wet-bulb temperature (°C),0.7437628675848862
+Abuja,Air temperature (°C),Apparent temperature (°C),0.8732457847654763
+Abuja,Relative humidity (%),Apparent temperature (°C),-0.15912721892394943
+Abuja,Wind speed (km/h),Apparent temperature (°C),-0.27294717580333216
+Abuja,Incoming solar radiation (W/m²),Apparent temperature (°C),0.6257500178997591
+Abuja,Wet-bulb temperature (°C),Apparent temperature (°C),0.7437628675848862
+Abuja,Apparent temperature (°C),Apparent temperature (°C),1
+Ilorin,Air temperature (°C),Air temperature (°C),1
+Ilorin,Relative humidity (%),Air temperature (°C),-0.6775186347604749
+Ilorin,Wind speed (km/h),Air temperature (°C),-0.22235826204358636
+Ilorin,Incoming solar radiation (W/m²),Air temperature (°C),0.7246358115032419
+Ilorin,Wet-bulb temperature (°C),Air temperature (°C),0.2657825760925843
+Ilorin,Apparent temperature (°C),Air temperature (°C),0.8806687327731243
+Ilorin,Air temperature (°C),Relative humidity (%),-0.6775186347604749
+Ilorin,Relative humidity (%),Relative humidity (%),1
+Ilorin,Wind speed (km/h),Relative humidity (%),0.25751963055089144
+Ilorin,Incoming solar radiation (W/m²),Relative humidity (%),-0.4983981740836979
+Ilorin,Wet-bulb temperature (°C),Relative humidity (%),0.511313712496554
+Ilorin,Apparent temperature (°C),Relative humidity (%),-0.2788222710568508
+Ilorin,Air temperature (°C),Wind speed (km/h),-0.22235826204358636
+Ilorin,Relative humidity (%),Wind speed (km/h),0.25751963055089144
+Ilorin,Wind speed (km/h),Wind speed (km/h),1
+Ilorin,Incoming solar radiation (W/m²),Wind speed (km/h),-0.25519702908504405
+Ilorin,Wet-bulb temperature (°C),Wind speed (km/h),0.07090029584921118
+Ilorin,Apparent temperature (°C),Wind speed (km/h),-0.24114568592362523
+Ilorin,Air temperature (°C),Incoming solar radiation (W/m²),0.7246358115032419
+Ilorin,Relative humidity (%),Incoming solar radiation (W/m²),-0.4983981740836979
+Ilorin,Wind speed (km/h),Incoming solar radiation (W/m²),-0.25519702908504405
+Ilorin,Incoming solar radiation (W/m²),Incoming solar radiation (W/m²),1
+Ilorin,Wet-bulb temperature (°C),Incoming solar radiation (W/m²),0.20189545251985447
+Ilorin,Apparent temperature (°C),Incoming solar radiation (W/m²),0.7058372294162946
+Ilorin,Air temperature (°C),Wet-bulb temperature (°C),0.2657825760925843
+Ilorin,Relative humidity (%),Wet-bulb temperature (°C),0.511313712496554
+Ilorin,Wind speed (km/h),Wet-bulb temperature (°C),0.07090029584921118
+Ilorin,Incoming solar radiation (W/m²),Wet-bulb temperature (°C),0.20189545251985447
+Ilorin,Wet-bulb temperature (°C),Wet-bulb temperature (°C),1
+Ilorin,Apparent temperature (°C),Wet-bulb temperature (°C),0.6656721503147398
+Ilorin,Air temperature (°C),Apparent temperature (°C),0.8806687327731243
+Ilorin,Relative humidity (%),Apparent temperature (°C),-0.2788222710568508
+Ilorin,Wind speed (km/h),Apparent temperature (°C),-0.24114568592362523
+Ilorin,Incoming solar radiation (W/m²),Apparent temperature (°C),0.7058372294162946
+Ilorin,Wet-bulb temperature (°C),Apparent temperature (°C),0.6656721503147398
+Ilorin,Apparent temperature (°C),Apparent temperature (°C),1
+Lagos,Air temperature (°C),Air temperature (°C),1
+Lagos,Relative humidity (%),Air temperature (°C),-0.687479544218659
+Lagos,Wind speed (km/h),Air temperature (°C),0.04315759686005081
+Lagos,Incoming solar radiation (W/m²),Air temperature (°C),0.6011818278924931
+Lagos,Wet-bulb temperature (°C),Air temperature (°C),0.6799943094037197
+Lagos,Apparent temperature (°C),Air temperature (°C),0.9180833574424013
+Lagos,Air temperature (°C),Relative humidity (%),-0.687479544218659
+Lagos,Relative humidity (%),Relative humidity (%),1
+Lagos,Wind speed (km/h),Relative humidity (%),-0.010125018985604708
+Lagos,Incoming solar radiation (W/m²),Relative humidity (%),-0.6584472828812333
+Lagos,Wet-bulb temperature (°C),Relative humidity (%),0.06130866851214934
+Lagos,Apparent temperature (°C),Relative humidity (%),-0.4361343030031541
+Lagos,Air temperature (°C),Wind speed (km/h),0.04315759686005081
+Lagos,Relative humidity (%),Wind speed (km/h),-0.010125018985604708
+Lagos,Wind speed (km/h),Wind speed (km/h),1
+Lagos,Incoming solar radiation (W/m²),Wind speed (km/h),0.030989632560837962
+Lagos,Wet-bulb temperature (°C),Wind speed (km/h),0.058531705345115696
+Lagos,Apparent temperature (°C),Wind speed (km/h),-0.21644738723959933
+Lagos,Air temperature (°C),Incoming solar radiation (W/m²),0.6011818278924931
+Lagos,Relative humidity (%),Incoming solar radiation (W/m²),-0.6584472828812333
+Lagos,Wind speed (km/h),Incoming solar radiation (W/m²),0.030989632560837962
+Lagos,Incoming solar radiation (W/m²),Incoming solar radiation (W/m²),1
+Lagos,Wet-bulb temperature (°C),Incoming solar radiation (W/m²),0.1705451660266521
+Lagos,Apparent temperature (°C),Incoming solar radiation (W/m²),0.5106994641460569
+Lagos,Air temperature (°C),Wet-bulb temperature (°C),0.6799943094037197
+Lagos,Relative humidity (%),Wet-bulb temperature (°C),0.06130866851214934
+Lagos,Wind speed (km/h),Wet-bulb temperature (°C),0.058531705345115696
+Lagos,Incoming solar radiation (W/m²),Wet-bulb temperature (°C),0.1705451660266521
+Lagos,Wet-bulb temperature (°C),Wet-bulb temperature (°C),1
+Lagos,Apparent temperature (°C),Wet-bulb temperature (°C),0.8192525640805789
+Lagos,Air temperature (°C),Apparent temperature (°C),0.9180833574424013
+Lagos,Relative humidity (%),Apparent temperature (°C),-0.4361343030031541
+Lagos,Wind speed (km/h),Apparent temperature (°C),-0.21644738723959933
+Lagos,Incoming solar radiation (W/m²),Apparent temperature (°C),0.5106994641460569
+Lagos,Wet-bulb temperature (°C),Apparent temperature (°C),0.8192525640805789
+Lagos,Apparent temperature (°C),Apparent temperature (°C),1

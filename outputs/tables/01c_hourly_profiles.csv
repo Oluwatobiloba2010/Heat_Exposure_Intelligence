@@ -1,0 +1,505 @@
+location,variable,variable_label,hour,observations,mean_value,median_value,ninetieth_percentile
+Abuja,apparent_temperature,Apparent temperature (°C),0,1826,27.626779846659364,28.1,31.7
+Abuja,apparent_temperature,Apparent temperature (°C),1,1826,27.092332968236583,27.8,31.4
+Abuja,apparent_temperature,Apparent temperature (°C),2,1826,26.55815991237678,27.4,30.8
+Abuja,apparent_temperature,Apparent temperature (°C),3,1826,25.97595837897043,27.1,30.2
+Abuja,apparent_temperature,Apparent temperature (°C),4,1826,25.572179627601315,26.9,29.8
+Abuja,apparent_temperature,Apparent temperature (°C),5,1826,25.525575027382256,26.8,29.8
+Abuja,apparent_temperature,Apparent temperature (°C),6,1826,25.5578860898138,26.8,30
+Abuja,apparent_temperature,Apparent temperature (°C),7,1826,25.92984665936473,27.2,30.5
+Abuja,apparent_temperature,Apparent temperature (°C),8,1826,26.610514786418403,27.5,31
+Abuja,apparent_temperature,Apparent temperature (°C),9,1826,28.454271631982476,28.5,32.4
+Abuja,apparent_temperature,Apparent temperature (°C),10,1826,29.6250273822563,29.5,33.6
+Abuja,apparent_temperature,Apparent temperature (°C),11,1826,33.2092004381161,33.1,37.55
+Abuja,apparent_temperature,Apparent temperature (°C),12,1826,34.331872946330776,34.3,38.8
+Abuja,apparent_temperature,Apparent temperature (°C),13,1826,35.27541073384447,35.5,39.8
+Abuja,apparent_temperature,Apparent temperature (°C),14,1826,35.46078860898138,35.7,39.8
+Abuja,apparent_temperature,Apparent temperature (°C),15,1826,35.317305585980286,35.4,39.5
+Abuja,apparent_temperature,Apparent temperature (°C),16,1826,34.477327491785324,34.4,38.5
+Abuja,apparent_temperature,Apparent temperature (°C),17,1826,33.88543263964951,33.8,37.7
+Abuja,apparent_temperature,Apparent temperature (°C),18,1826,33.10465498357065,33,36.8
+Abuja,apparent_temperature,Apparent temperature (°C),19,1826,31.974644030668127,31.6,35.8
+Abuja,apparent_temperature,Apparent temperature (°C),20,1826,31.185049288061336,30.8,34.8
+Abuja,apparent_temperature,Apparent temperature (°C),21,1826,30.05865279299014,29.8,33.8
+Abuja,apparent_temperature,Apparent temperature (°C),22,1826,29.416100766703178,29.3,33.3
+Abuja,apparent_temperature,Apparent temperature (°C),23,1826,28.140142387732748,28.4,32
+Abuja,relative_humidity_2m,Relative humidity (%),0,1826,71.37075575027382,77,94
+Abuja,relative_humidity_2m,Relative humidity (%),1,1826,72.13307776560788,79,95
+Abuja,relative_humidity_2m,Relative humidity (%),2,1826,72.70098576122672,80,96
+Abuja,relative_humidity_2m,Relative humidity (%),3,1826,73.6631982475356,82,96
+Abuja,relative_humidity_2m,Relative humidity (%),4,1826,74.67688937568455,84,96
+Abuja,relative_humidity_2m,Relative humidity (%),5,1826,75.12924424972618,85,96
+Abuja,relative_humidity_2m,Relative humidity (%),6,1826,75.4052573932092,85,96
+Abuja,relative_humidity_2m,Relative humidity (%),7,1826,74.37458926615552,85,95
+Abuja,relative_humidity_2m,Relative humidity (%),8,1826,72.23329682365826,83,94
+Abuja,relative_humidity_2m,Relative humidity (%),9,1826,67.40635268346112,77,91
+Abuja,relative_humidity_2m,Relative humidity (%),10,1826,64.50766703176342,73,88
+Abuja,relative_humidity_2m,Relative humidity (%),11,1826,56.20427163198247,63,81
+Abuja,relative_humidity_2m,Relative humidity (%),12,1826,54.1013143483023,59,80
+Abuja,relative_humidity_2m,Relative humidity (%),13,1826,51.84775465498357,56,77
+Abuja,relative_humidity_2m,Relative humidity (%),14,1826,50.52464403066813,53,76
+Abuja,relative_humidity_2m,Relative humidity (%),15,1826,49.09145673603505,51,76
+Abuja,relative_humidity_2m,Relative humidity (%),16,1826,49.1960569550931,50,76
+Abuja,relative_humidity_2m,Relative humidity (%),17,1826,50.03669222343921,51,77.5
+Abuja,relative_humidity_2m,Relative humidity (%),18,1826,55.66922234392114,58,81
+Abuja,relative_humidity_2m,Relative humidity (%),19,1826,61.4671412924425,65,86
+Abuja,relative_humidity_2m,Relative humidity (%),20,1826,64.02847754654984,68,88
+Abuja,relative_humidity_2m,Relative humidity (%),21,1826,67.29791894852136,73,91
+Abuja,relative_humidity_2m,Relative humidity (%),22,1826,68.41018619934283,75,92
+Abuja,relative_humidity_2m,Relative humidity (%),23,1826,70.6434830230011,77,94
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),0,1826,0,0,0
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),1,1826,0,0,0
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),2,1826,0,0,0
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),3,1826,0,0,0
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),4,1826,0,0,0
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),5,1826,0,0,0
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),6,1826,0,0,0
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),7,1826,13.599671412924424,12,28
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),8,1826,134.44687842278205,131,202
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),9,1826,322.09912376779846,334,431.5
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),10,1826,500.5805038335159,546,648.5
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),11,1826,641.3001095290252,722,819
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),12,1826,733.3389923329682,830,927
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),13,1826,772.4808324205915,865,970
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),14,1826,742.1998904709748,812.5,934
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),15,1826,651.158817086528,700,818
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),16,1826,507.87404162102956,531,645.5
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),17,1826,324.1872946330778,327,425
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),18,1826,135.06626506024097,139,194
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),19,1826,14.467141292442497,16.5,27
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),20,1826,0,0,0
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),21,1826,0,0,0
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),22,1826,0,0,0
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),23,1826,0,0,0
+Abuja,temperature_2m,Air temperature (°C),0,1826,24.899890470974807,24.4,28.4
+Abuja,temperature_2m,Air temperature (°C),1,1826,24.496440306681272,24,27.9
+Abuja,temperature_2m,Air temperature (°C),2,1826,24.092935377875136,23.6,27.4
+Abuja,temperature_2m,Air temperature (°C),3,1826,23.605366922234392,23.3,26.7
+Abuja,temperature_2m,Air temperature (°C),4,1826,23.232968236582696,23,26.3
+Abuja,temperature_2m,Air temperature (°C),5,1826,23.152081051478643,23,26.2
+Abuja,temperature_2m,Air temperature (°C),6,1826,23.13039430449069,23,26
+Abuja,temperature_2m,Air temperature (°C),7,1826,23.471796276013144,23.4,26.3
+Abuja,temperature_2m,Air temperature (°C),8,1826,24.180449069003284,24,26.8
+Abuja,temperature_2m,Air temperature (°C),9,1826,25.93472070098576,25.9,28.7
+Abuja,temperature_2m,Air temperature (°C),10,1826,26.9236582694414,27,29.9
+Abuja,temperature_2m,Air temperature (°C),11,1826,29.734830230010953,30,33.4
+Abuja,temperature_2m,Air temperature (°C),12,1826,30.37316538882804,30.9,34.1
+Abuja,temperature_2m,Air temperature (°C),13,1826,31.122124863088718,31.7,35.1
+Abuja,temperature_2m,Air temperature (°C),14,1826,31.516538882803943,32.1,35.6
+Abuja,temperature_2m,Air temperature (°C),15,1826,31.94841182913472,32.7,36.2
+Abuja,temperature_2m,Air temperature (°C),16,1826,31.80487404162103,32.4,36.2
+Abuja,temperature_2m,Air temperature (°C),17,1826,31.385761226725084,31.9,35.8
+Abuja,temperature_2m,Air temperature (°C),18,1826,30.20569550930997,30.4,34.7
+Abuja,temperature_2m,Air temperature (°C),19,1826,28.81856516976999,28.75,33
+Abuja,temperature_2m,Air temperature (°C),20,1826,28.027820372398686,27.9,32.3
+Abuja,temperature_2m,Air temperature (°C),21,1826,26.931653888280394,26.6,30.9
+Abuja,temperature_2m,Air temperature (°C),22,1826,26.40180722891566,26,30.3
+Abuja,temperature_2m,Air temperature (°C),23,1826,25.288170865279298,24.9,28.8
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),0,1826,20.875575027382258,22.2,23.7
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),1,1826,20.61933187294633,22.1,23.5
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),2,1826,20.335432639649508,21.9,23.4
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),3,1826,20.03526834611172,21.8,23.2
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),4,1826,19.84550930996714,21.7,23.2
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),5,1826,19.83882803943045,21.7,23.2
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),6,1826,19.869550930996713,21.8,23.4
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),7,1826,20.036418400876233,22,23.6
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),8,1826,20.365388828039432,22.2,23.8
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),9,1826,21.134775465498358,22.5,24.3
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),10,1826,21.53461117196057,22.7,24.5
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),11,1826,22.50065717415115,23.5,25.2
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),12,1826,22.695564074479737,23.6,25.2
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),13,1826,22.910076670317633,23.8,25.4
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),14,1826,22.993647316538883,23.8,25.5
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),15,1826,23.058488499452356,23.8,25.5
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),16,1826,22.96144578313253,23.7,25.4
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),17,1826,22.776506024096385,23.4,25.1
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),18,1826,22.94698795180723,23.3,24.8
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),19,1826,22.79802847754655,23.2,24.9
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),20,1826,22.517743702081052,23,24.6
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),21,1826,22.066757940854327,22.8,24.3
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),22,1826,21.750273822562978,22.6,24.15
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),23,1826,21.112541073384445,22.3,23.8
+Abuja,wind_direction_10m,Wind direction (degrees),0,1826,160.84446878422781,180,325
+Abuja,wind_direction_10m,Wind direction (degrees),1,1826,154.30339539978095,176,319
+Abuja,wind_direction_10m,Wind direction (degrees),2,1826,151.25465498357065,178,304
+Abuja,wind_direction_10m,Wind direction (degrees),3,1826,151.36801752464402,180,292
+Abuja,wind_direction_10m,Wind direction (degrees),4,1826,151.10350492880613,180,270
+Abuja,wind_direction_10m,Wind direction (degrees),5,1826,151.4802847754655,180,261
+Abuja,wind_direction_10m,Wind direction (degrees),6,1826,149.59145673603504,177,253
+Abuja,wind_direction_10m,Wind direction (degrees),7,1826,149.92880613362541,174,245.5
+Abuja,wind_direction_10m,Wind direction (degrees),8,1826,156.45564074479736,185,238
+Abuja,wind_direction_10m,Wind direction (degrees),9,1826,169.60624315443593,196,242
+Abuja,wind_direction_10m,Wind direction (degrees),10,1826,180.92442497261774,198,248
+Abuja,wind_direction_10m,Wind direction (degrees),11,1826,188.0947426067908,200,263
+Abuja,wind_direction_10m,Wind direction (degrees),12,1826,187.8236582694414,193,262
+Abuja,wind_direction_10m,Wind direction (degrees),13,1826,186.30503833515883,189.5,261
+Abuja,wind_direction_10m,Wind direction (degrees),14,1826,184.78806133625412,190,260.5
+Abuja,wind_direction_10m,Wind direction (degrees),15,1826,188.99561883899233,198,266.5
+Abuja,wind_direction_10m,Wind direction (degrees),16,1826,195.67798466593646,209,276
+Abuja,wind_direction_10m,Wind direction (degrees),17,1826,202.00164293537787,216,283
+Abuja,wind_direction_10m,Wind direction (degrees),18,1826,206.5,212,283.5
+Abuja,wind_direction_10m,Wind direction (degrees),19,1826,203.90032858707556,209,276
+Abuja,wind_direction_10m,Wind direction (degrees),20,1826,204.75027382256297,213,276.5
+Abuja,wind_direction_10m,Wind direction (degrees),21,1826,199.87075575027382,213,288
+Abuja,wind_direction_10m,Wind direction (degrees),22,1826,191.95290251916757,209,315
+Abuja,wind_direction_10m,Wind direction (degrees),23,1826,174.8828039430449,193,333
+Abuja,wind_speed_10m,Wind speed (km/h),0,1826,5.376834611171961,4.65,9.9
+Abuja,wind_speed_10m,Wind speed (km/h),1,1826,5.752464403066813,4.9,10.5
+Abuja,wind_speed_10m,Wind speed (km/h),2,1826,5.998630887185104,5.2,11
+Abuja,wind_speed_10m,Wind speed (km/h),3,1826,6.083789704271632,5.5,10.8
+Abuja,wind_speed_10m,Wind speed (km/h),4,1826,6.081763417305586,5.65,10.7
+Abuja,wind_speed_10m,Wind speed (km/h),5,1826,6.021412924424973,5.6,10.5
+Abuja,wind_speed_10m,Wind speed (km/h),6,1826,5.912595837897043,5.5,10.4
+Abuja,wind_speed_10m,Wind speed (km/h),7,1826,6.044906900328587,5.75,10.350000000000001
+Abuja,wind_speed_10m,Wind speed (km/h),8,1826,6.619441401971523,6.45,10.9
+Abuja,wind_speed_10m,Wind speed (km/h),9,1826,6.691018619934282,6.5,10.5
+Abuja,wind_speed_10m,Wind speed (km/h),10,1826,6.821248630887185,6.8,10.3
+Abuja,wind_speed_10m,Wind speed (km/h),11,1826,6.283461117196057,6.2,10
+Abuja,wind_speed_10m,Wind speed (km/h),12,1826,6.143318729463307,6,9.7
+Abuja,wind_speed_10m,Wind speed (km/h),13,1826,6.030722891566265,5.9,9.649999999999999
+Abuja,wind_speed_10m,Wind speed (km/h),14,1826,5.896385542168675,5.7,9.5
+Abuja,wind_speed_10m,Wind speed (km/h),15,1826,5.718181818181818,5.6,9.3
+Abuja,wind_speed_10m,Wind speed (km/h),16,1826,5.426944140197152,5.2,9.1
+Abuja,wind_speed_10m,Wind speed (km/h),17,1826,5.197809419496166,5,8.5
+Abuja,wind_speed_10m,Wind speed (km/h),18,1826,5.245071193866375,5.2,8.3
+Abuja,wind_speed_10m,Wind speed (km/h),19,1826,5.256900328587076,5.15,8.3
+Abuja,wind_speed_10m,Wind speed (km/h),20,1826,5.153395399780942,5.1,8.3
+Abuja,wind_speed_10m,Wind speed (km/h),21,1826,4.999452354874042,4.7,8
+Abuja,wind_speed_10m,Wind speed (km/h),22,1826,5.09934282584885,4.7,8.4
+Abuja,wind_speed_10m,Wind speed (km/h),23,1826,4.97157721796276,4.5,8.7
+Ilorin,apparent_temperature,Apparent temperature (°C),0,1826,27.643975903614457,28.1,31.15
+Ilorin,apparent_temperature,Apparent temperature (°C),1,1826,27.59660460021906,28.1,31.1
+Ilorin,apparent_temperature,Apparent temperature (°C),2,1826,27.507283680175245,28,30.9
+Ilorin,apparent_temperature,Apparent temperature (°C),3,1826,27.0407995618839,27.7,30.45
+Ilorin,apparent_temperature,Apparent temperature (°C),4,1826,26.90197152245345,27.6,30.2
+Ilorin,apparent_temperature,Apparent temperature (°C),5,1826,26.962979189485214,27.6,30.3
+Ilorin,apparent_temperature,Apparent temperature (°C),6,1826,26.80958378970427,27.6,30.2
+Ilorin,apparent_temperature,Apparent temperature (°C),7,1826,27.015498357064622,27.8,30.5
+Ilorin,apparent_temperature,Apparent temperature (°C),8,1826,27.14096385542169,27.7,30.3
+Ilorin,apparent_temperature,Apparent temperature (°C),9,1826,29.179627601314348,29.7,32.4
+Ilorin,apparent_temperature,Apparent temperature (°C),10,1826,30.080613362541072,30.6,33.4
+Ilorin,apparent_temperature,Apparent temperature (°C),11,1826,34.150109529025194,34.4,38.3
+Ilorin,apparent_temperature,Apparent temperature (°C),12,1826,35.59315443592552,35.95,40.05
+Ilorin,apparent_temperature,Apparent temperature (°C),13,1826,36.59288061336254,36.9,41.2
+Ilorin,apparent_temperature,Apparent temperature (°C),14,1826,36.864786418400875,37.1,41.55
+Ilorin,apparent_temperature,Apparent temperature (°C),15,1826,36.91078860898138,36.9,41.4
+Ilorin,apparent_temperature,Apparent temperature (°C),16,1826,35.929846659364735,35.8,40.1
+Ilorin,apparent_temperature,Apparent temperature (°C),17,1826,35.08718510405257,35,39.1
+Ilorin,apparent_temperature,Apparent temperature (°C),18,1826,33.26856516976999,33.1,37.1
+Ilorin,apparent_temperature,Apparent temperature (°C),19,1826,31.74457831325301,31.7,35.4
+Ilorin,apparent_temperature,Apparent temperature (°C),20,1826,31.06736035049288,31,34.6
+Ilorin,apparent_temperature,Apparent temperature (°C),21,1826,29.53236582694414,29.6,33
+Ilorin,apparent_temperature,Apparent temperature (°C),22,1826,29.009638554216867,29.3,32.5
+Ilorin,apparent_temperature,Apparent temperature (°C),23,1826,27.738225629791895,28.2,31.2
+Ilorin,relative_humidity_2m,Relative humidity (%),0,1826,73.46714129244249,83,94
+Ilorin,relative_humidity_2m,Relative humidity (%),1,1826,76.56243154435926,86,95
+Ilorin,relative_humidity_2m,Relative humidity (%),2,1826,79.35980284775465,88,96
+Ilorin,relative_humidity_2m,Relative humidity (%),3,1826,82.65772179627601,90,96
+Ilorin,relative_humidity_2m,Relative humidity (%),4,1826,84.66374589266155,91,97
+Ilorin,relative_humidity_2m,Relative humidity (%),5,1826,85.42387732749178,92,97
+Ilorin,relative_humidity_2m,Relative humidity (%),6,1826,86.1856516976999,92,97
+Ilorin,relative_humidity_2m,Relative humidity (%),7,1826,85.55695509309967,91,96
+Ilorin,relative_humidity_2m,Relative humidity (%),8,1826,82.97261774370209,88,94
+Ilorin,relative_humidity_2m,Relative humidity (%),9,1826,74.36911281489594,79,88
+Ilorin,relative_humidity_2m,Relative humidity (%),10,1826,68.14184008762322,72,84
+Ilorin,relative_humidity_2m,Relative humidity (%),11,1826,55.211391018619935,57,76
+Ilorin,relative_humidity_2m,Relative humidity (%),12,1826,51.70427163198247,53,73
+Ilorin,relative_humidity_2m,Relative humidity (%),13,1826,49.01588170865279,50,71
+Ilorin,relative_humidity_2m,Relative humidity (%),14,1826,47.278203723986856,48,70
+Ilorin,relative_humidity_2m,Relative humidity (%),15,1826,44.697152245345016,44,68
+Ilorin,relative_humidity_2m,Relative humidity (%),16,1826,44.93592552026287,44,70
+Ilorin,relative_humidity_2m,Relative humidity (%),17,1826,45.9277108433735,46,74
+Ilorin,relative_humidity_2m,Relative humidity (%),18,1826,51.965498357064625,54,81
+Ilorin,relative_humidity_2m,Relative humidity (%),19,1826,55.61555312157722,60,85
+Ilorin,relative_humidity_2m,Relative humidity (%),20,1826,58.19879518072289,64,87
+Ilorin,relative_humidity_2m,Relative humidity (%),21,1826,63.74753559693319,72,91
+Ilorin,relative_humidity_2m,Relative humidity (%),22,1826,67.2710843373494,77,92
+Ilorin,relative_humidity_2m,Relative humidity (%),23,1826,70.62486308871851,80,94
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),0,1826,0,0,0
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),1,1826,0,0,0
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),2,1826,0,0,0
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),3,1826,0,0,0
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),4,1826,0,0,0
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),5,1826,0,0,0
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),6,1826,0,0,0
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),7,1826,4.707009857612268,4,11
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),8,1826,86.1829134720701,82,134
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),9,1826,261.7130339539978,268,348
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),10,1826,457.3247535596933,489,574.5
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),11,1826,626.1664841182914,685,774
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),12,1826,745.0443592552026,818,906
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),13,1826,791.934282584885,863.5,962.5
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),14,1826,771.3658269441402,832.5,941
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),15,1826,679.6883899233297,720,832
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),16,1826,532.2415115005476,556,664
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),17,1826,348.9852135815991,357,452
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),18,1826,159.71741511500548,160,223.5
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),19,1826,26.677437020810515,29,47
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),20,1826,0,0,0
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),21,1826,0,0,0
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),22,1826,0,0,0
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),23,1826,0,0,0
+Ilorin,temperature_2m,Air temperature (°C),0,1826,25.104326396495072,24.8,27.6
+Ilorin,temperature_2m,Air temperature (°C),1,1826,24.842387732749177,24.6,27.1
+Ilorin,temperature_2m,Air temperature (°C),2,1826,24.571796276013142,24.3,26.8
+Ilorin,temperature_2m,Air temperature (°C),3,1826,24.00273822562979,23.9,26.1
+Ilorin,temperature_2m,Air temperature (°C),4,1826,23.75487404162103,23.8,25.8
+Ilorin,temperature_2m,Air temperature (°C),5,1826,23.721905805038336,23.8,25.75
+Ilorin,temperature_2m,Air temperature (°C),6,1826,23.547480832420593,23.7,25.7
+Ilorin,temperature_2m,Air temperature (°C),7,1826,23.7302847754655,23.9,25.95
+Ilorin,temperature_2m,Air temperature (°C),8,1826,24.17475355969332,24.2,26.2
+Ilorin,temperature_2m,Air temperature (°C),9,1826,26.186144578313254,26.2,28.4
+Ilorin,temperature_2m,Air temperature (°C),10,1826,27.19857612267251,27.2,29.6
+Ilorin,temperature_2m,Air temperature (°C),11,1826,30.671303395399782,31.1,33.8
+Ilorin,temperature_2m,Air temperature (°C),12,1826,31.53614457831325,32.2,34.8
+Ilorin,temperature_2m,Air temperature (°C),13,1826,32.32437020810515,33,35.8
+Ilorin,temperature_2m,Air temperature (°C),14,1826,32.805969331872944,33.5,36.5
+Ilorin,temperature_2m,Air temperature (°C),15,1826,33.568346111719606,34.3,37.6
+Ilorin,temperature_2m,Air temperature (°C),16,1826,33.39375684556408,33.9,37.7
+Ilorin,temperature_2m,Air temperature (°C),17,1826,32.911555312157724,33.3,37.349999999999994
+Ilorin,temperature_2m,Air temperature (°C),18,1826,30.946495071193866,30.9,35.6
+Ilorin,temperature_2m,Air temperature (°C),19,1826,29.568127053669222,29.4,33.5
+Ilorin,temperature_2m,Air temperature (°C),20,1826,28.91462212486309,28.7,32.7
+Ilorin,temperature_2m,Air temperature (°C),21,1826,27.302190580503833,27,30.5
+Ilorin,temperature_2m,Air temperature (°C),22,1826,26.600109529025193,26.3,29.5
+Ilorin,temperature_2m,Air temperature (°C),23,1826,25.38236582694414,25.1,27.95
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),0,1826,21.331489594742607,22.7,24.4
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),1,1826,21.55580503833516,22.8,24.5
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),2,1826,21.721686746987952,22.9,24.6
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),3,1826,21.66725082146769,22.7,24.5
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),4,1826,21.714238773274918,22.8,24.5
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),5,1826,21.797535596933187,22.8,24.45
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),6,1826,21.746440306681272,22.8,24.4
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),7,1826,21.848740416210294,22.9,24.4
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),8,1826,21.90629791894852,22.9,24.3
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),9,1826,22.550602409638554,23.4,24.8
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),10,1826,22.537458926615553,23.4,24.8
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),11,1826,23.375629791894852,24.2,25.7
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),12,1826,23.446495071193866,24.2,25.7
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),13,1826,23.55766703176342,24.3,25.9
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),14,1826,23.586856516976997,24.3,25.9
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),15,1826,23.61527929901424,24.3,25.9
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),16,1826,23.47738225629792,24.2,25.8
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),17,1826,23.177272727272726,24,25.6
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),18,1826,22.697042716319825,23.7,25.2
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),19,1826,22.238170865279297,23.4,25
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),20,1826,22.109802847754654,23.4,25
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),21,1826,21.700711938663744,23.1,24.7
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),22,1826,21.678477546549836,23.1,24.8
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),23,1826,21.145892661555312,22.6,24.2
+Ilorin,wind_direction_10m,Wind direction (degrees),0,1826,187.84008762322014,202,223
+Ilorin,wind_direction_10m,Wind direction (degrees),1,1826,197.77272727272728,207,225
+Ilorin,wind_direction_10m,Wind direction (degrees),2,1826,201.86692223439212,209,226
+Ilorin,wind_direction_10m,Wind direction (degrees),3,1826,203.3170865279299,212,228
+Ilorin,wind_direction_10m,Wind direction (degrees),4,1826,202.68838992332968,213,229
+Ilorin,wind_direction_10m,Wind direction (degrees),5,1826,202.57667031763418,213,229
+Ilorin,wind_direction_10m,Wind direction (degrees),6,1826,201.34665936473166,214,229
+Ilorin,wind_direction_10m,Wind direction (degrees),7,1826,200.7984665936473,214,230
+Ilorin,wind_direction_10m,Wind direction (degrees),8,1826,202.2223439211391,216,234
+Ilorin,wind_direction_10m,Wind direction (degrees),9,1826,203.3526834611172,219,238
+Ilorin,wind_direction_10m,Wind direction (degrees),10,1826,201.3882803943045,218,243
+Ilorin,wind_direction_10m,Wind direction (degrees),11,1826,191.84392113910187,215,254
+Ilorin,wind_direction_10m,Wind direction (degrees),12,1826,173.0761226725082,205,248
+Ilorin,wind_direction_10m,Wind direction (degrees),13,1826,156.7130339539978,187,240
+Ilorin,wind_direction_10m,Wind direction (degrees),14,1826,146.8357064622125,170.5,236
+Ilorin,wind_direction_10m,Wind direction (degrees),15,1826,142.39978094194961,158,237
+Ilorin,wind_direction_10m,Wind direction (degrees),16,1826,137.7579408543264,146.5,233
+Ilorin,wind_direction_10m,Wind direction (degrees),17,1826,134.1790799561884,150,222.5
+Ilorin,wind_direction_10m,Wind direction (degrees),18,1826,136.4884994523549,167,216
+Ilorin,wind_direction_10m,Wind direction (degrees),19,1826,139.78587075575027,180,214
+Ilorin,wind_direction_10m,Wind direction (degrees),20,1826,142.46330777656078,185,213.5
+Ilorin,wind_direction_10m,Wind direction (degrees),21,1826,148.84063526834612,190,213
+Ilorin,wind_direction_10m,Wind direction (degrees),22,1826,158.2081051478642,193,213
+Ilorin,wind_direction_10m,Wind direction (degrees),23,1826,172.5405257393209,197,219
+Ilorin,wind_speed_10m,Wind speed (km/h),0,1826,8.964238773274918,9,12.9
+Ilorin,wind_speed_10m,Wind speed (km/h),1,1826,9.140690032858707,9.3,13
+Ilorin,wind_speed_10m,Wind speed (km/h),2,1826,9.223877327491785,9.3,12.850000000000001
+Ilorin,wind_speed_10m,Wind speed (km/h),3,1826,9.161829134720701,9.2,12.7
+Ilorin,wind_speed_10m,Wind speed (km/h),4,1826,9.04249726177437,9,12.6
+Ilorin,wind_speed_10m,Wind speed (km/h),5,1826,8.884665936473166,8.9,12.5
+Ilorin,wind_speed_10m,Wind speed (km/h),6,1826,8.767524644030669,8.7,12.4
+Ilorin,wind_speed_10m,Wind speed (km/h),7,1826,8.885761226725082,8.9,12.4
+Ilorin,wind_speed_10m,Wind speed (km/h),8,1826,10.554983570646222,10.7,15
+Ilorin,wind_speed_10m,Wind speed (km/h),9,1826,10.464676889375685,10.5,15.6
+Ilorin,wind_speed_10m,Wind speed (km/h),10,1826,9.535432639649507,9.7,14.4
+Ilorin,wind_speed_10m,Wind speed (km/h),11,1826,8.144030668127053,8.2,13.1
+Ilorin,wind_speed_10m,Wind speed (km/h),12,1826,7.2665936473165385,7.2,12
+Ilorin,wind_speed_10m,Wind speed (km/h),13,1826,6.793044906900328,6.6,11.2
+Ilorin,wind_speed_10m,Wind speed (km/h),14,1826,6.5748083242059145,6.4,10.7
+Ilorin,wind_speed_10m,Wind speed (km/h),15,1826,6.530668127053669,6.3,10.7
+Ilorin,wind_speed_10m,Wind speed (km/h),16,1826,6.625082146768894,6.4,10.8
+Ilorin,wind_speed_10m,Wind speed (km/h),17,1826,6.986473165388828,6.9,11.2
+Ilorin,wind_speed_10m,Wind speed (km/h),18,1826,7.064074479737131,6.8,11.1
+Ilorin,wind_speed_10m,Wind speed (km/h),19,1826,8.1052573932092,8.1,11.8
+Ilorin,wind_speed_10m,Wind speed (km/h),20,1826,8.88488499452355,8.9,12.7
+Ilorin,wind_speed_10m,Wind speed (km/h),21,1826,9.085377875136912,9,13.2
+Ilorin,wind_speed_10m,Wind speed (km/h),22,1826,9.064895947426068,8.9,13.3
+Ilorin,wind_speed_10m,Wind speed (km/h),23,1826,8.703723986856517,8.6,12.9
+Lagos,apparent_temperature,Apparent temperature (°C),0,1826,31.676013143483022,32.1,33.8
+Lagos,apparent_temperature,Apparent temperature (°C),1,1826,31.580613362541072,32,33.75
+Lagos,apparent_temperature,Apparent temperature (°C),2,1826,31.46549835706462,31.8,33.7
+Lagos,apparent_temperature,Apparent temperature (°C),3,1826,31.198630887185104,31.6,33.4
+Lagos,apparent_temperature,Apparent temperature (°C),4,1826,31.075958378970427,31.4,33.3
+Lagos,apparent_temperature,Apparent temperature (°C),5,1826,31.02946330777656,31.3,33.3
+Lagos,apparent_temperature,Apparent temperature (°C),6,1826,30.94025191675794,31.2,33.2
+Lagos,apparent_temperature,Apparent temperature (°C),7,1826,31.089047097480833,31.4,33.4
+Lagos,apparent_temperature,Apparent temperature (°C),8,1826,31.174041621029573,31.5,33.5
+Lagos,apparent_temperature,Apparent temperature (°C),9,1826,31.843209200438118,32.2,34.3
+Lagos,apparent_temperature,Apparent temperature (°C),10,1826,32.08625410733845,32.6,34.6
+Lagos,apparent_temperature,Apparent temperature (°C),11,1826,33.82475355969332,34.5,36.7
+Lagos,apparent_temperature,Apparent temperature (°C),12,1826,34.313143483023,35,37.3
+Lagos,apparent_temperature,Apparent temperature (°C),13,1826,34.51215772179628,35.2,37.8
+Lagos,apparent_temperature,Apparent temperature (°C),14,1826,34.24961664841183,34.7,37.5
+Lagos,apparent_temperature,Apparent temperature (°C),15,1826,33.864786418400875,34.3,36.9
+Lagos,apparent_temperature,Apparent temperature (°C),16,1826,33.16199342825849,33.7,35.7
+Lagos,apparent_temperature,Apparent temperature (°C),17,1826,32.95213581599124,33.45,35.4
+Lagos,apparent_temperature,Apparent temperature (°C),18,1826,32.383187294633075,32.8,34.7
+Lagos,apparent_temperature,Apparent temperature (°C),19,1826,32.32031763417306,32.8,34.6
+Lagos,apparent_temperature,Apparent temperature (°C),20,1826,32.30328587075575,32.8,34.5
+Lagos,apparent_temperature,Apparent temperature (°C),21,1826,31.938335158817086,32.3,34.2
+Lagos,apparent_temperature,Apparent temperature (°C),22,1826,31.772453450164292,32.2,33.9
+Lagos,apparent_temperature,Apparent temperature (°C),23,1826,31.69786418400876,32.1,33.8
+Lagos,relative_humidity_2m,Relative humidity (%),0,1826,88.21631982475355,89,91
+Lagos,relative_humidity_2m,Relative humidity (%),1,1826,88.40744797371303,89,91
+Lagos,relative_humidity_2m,Relative humidity (%),2,1826,88.61062431544359,89,92
+Lagos,relative_humidity_2m,Relative humidity (%),3,1826,89.29956188389923,90,92
+Lagos,relative_humidity_2m,Relative humidity (%),4,1826,89.62814895947426,90,92
+Lagos,relative_humidity_2m,Relative humidity (%),5,1826,89.75848849945235,90,92
+Lagos,relative_humidity_2m,Relative humidity (%),6,1826,89.98795180722891,90,93
+Lagos,relative_humidity_2m,Relative humidity (%),7,1826,89.60843373493977,90,93
+Lagos,relative_humidity_2m,Relative humidity (%),8,1826,89.27710843373494,90,93
+Lagos,relative_humidity_2m,Relative humidity (%),9,1826,86.16593647316539,87,91
+Lagos,relative_humidity_2m,Relative humidity (%),10,1826,84.54819277108433,85,91
+Lagos,relative_humidity_2m,Relative humidity (%),11,1826,78.03285870755751,79,87
+Lagos,relative_humidity_2m,Relative humidity (%),12,1826,77.28860898138007,79,87
+Lagos,relative_humidity_2m,Relative humidity (%),13,1826,76.97480832420591,79,86
+Lagos,relative_humidity_2m,Relative humidity (%),14,1826,77.04819277108433,79,86
+Lagos,relative_humidity_2m,Relative humidity (%),15,1826,76.70427163198248,79,86
+Lagos,relative_humidity_2m,Relative humidity (%),16,1826,77.74972617743703,79,86
+Lagos,relative_humidity_2m,Relative humidity (%),17,1826,78.37568455640745,80,86
+Lagos,relative_humidity_2m,Relative humidity (%),18,1826,81.16429353778751,82,87
+Lagos,relative_humidity_2m,Relative humidity (%),19,1826,83.30010952902519,84,88
+Lagos,relative_humidity_2m,Relative humidity (%),20,1826,83.96330777656078,85,88
+Lagos,relative_humidity_2m,Relative humidity (%),21,1826,85.59748083242059,86,89
+Lagos,relative_humidity_2m,Relative humidity (%),22,1826,86.399780941949615,87,90
+Lagos,relative_humidity_2m,Relative humidity (%),23,1826,88.19058050383352,89,91
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),0,1826,0,0,0
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),1,1826,0,0,0
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),2,1826,0,0,0
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),3,1826,0,0,0
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),4,1826,0,0,0
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),5,1826,0,0,0
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),6,1826,0,0,0
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),7,1826,3.1511500547645124,3,7
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),8,1826,79.77546549835706,79,124
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),9,1826,235.921139101862,243,320
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),10,1826,397.3192771084337,416,509
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),11,1826,539.9107338444688,572.5,680
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),12,1826,632.9249726177437,673,798.5
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),13,1826,674.2146768893757,711.5,861
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),14,1826,661.60460021905806,694,858
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),15,1826,589.9381161007667,621,773
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),16,1826,468.2168674698795,484,624
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),17,1826,316.96111719605693,325,431.5
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),18,1826,160.91073384446878,162,230
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),19,1826,31.356516976998904,34,52
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),20,1826,0,0,0
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),21,1826,0,0,0
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),22,1826,0,0,0
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),23,1826,0,0,0
+Lagos,temperature_2m,Air temperature (°C),0,1826,26.78187294633078,27,28.2
+Lagos,temperature_2m,Air temperature (°C),1,1826,26.69644030668127,26.9,28.1
+Lagos,temperature_2m,Air temperature (°C),2,1826,26.597918948521357,26.8,28.1
+Lagos,temperature_2m,Air temperature (°C),3,1826,26.363910186199345,26.5,27.8
+Lagos,temperature_2m,Air temperature (°C),4,1826,26.235213581599123,26.4,27.7
+Lagos,temperature_2m,Air temperature (°C),5,1826,26.159912376779847,26.2,27.6
+Lagos,temperature_2m,Air temperature (°C),6,1826,26.051752464403066,26.1,27.5
+Lagos,temperature_2m,Air temperature (°C),7,1826,26.14523548740416,26.2,27.7
+Lagos,temperature_2m,Air temperature (°C),8,1826,26.230010952902518,26.2,27.8
+Lagos,temperature_2m,Air temperature (°C),9,1826,26.957009857612267,27,28.6
+Lagos,temperature_2m,Air temperature (°C),10,1826,27.25328587075575,27.4,29
+Lagos,temperature_2m,Air temperature (°C),11,1826,28.674534501642935,29,30.5
+Lagos,temperature_2m,Air temperature (°C),12,1826,28.797480832420593,29.2,30.7
+Lagos,temperature_2m,Air temperature (°C),13,1826,28.903450164293538,29.3,30.9
+Lagos,temperature_2m,Air temperature (°C),14,1826,28.896768893756846,29.2,31
+Lagos,temperature_2m,Air temperature (°C),15,1826,28.98472070098576,29.2,31.2
+Lagos,temperature_2m,Air temperature (°C),16,1826,28.77119386637459,29,30.9
+Lagos,temperature_2m,Air temperature (°C),17,1826,28.678751369112813,29,30.6
+Lagos,temperature_2m,Air temperature (°C),18,1826,28.054545454545455,28.3,29.8
+Lagos,temperature_2m,Air temperature (°C),19,1826,27.778203723986856,28,29.4
+Lagos,temperature_2m,Air temperature (°C),20,1826,27.70027382256298,28,29.2
+Lagos,temperature_2m,Air temperature (°C),21,1826,27.349397590361445,27.6,28.8
+Lagos,temperature_2m,Air temperature (°C),22,1826,27.181161007667033,27.4,28.6
+Lagos,temperature_2m,Air temperature (°C),23,1826,26.800328587075576,27,28.2
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),0,1826,25.190580503833516,25.3,26.6
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),1,1826,25.13696604600219,25.2,26.5
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),2,1826,25.065060240963856,25.2,26.4
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),3,1826,24.932256297918947,25,26.3
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),4,1826,24.851095290251916,24.95,26.2
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),5,1826,24.797590361445785,24.8,26.2
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),6,1826,24.718400876232202,24.7,26.1
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),7,1826,24.758598028477547,24.8,26.1
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),8,1826,24.795071193866374,24.9,26.2
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),9,1826,25.069441401971524,25.2,26.5
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),10,1826,25.120098576122672,25.3,26.5
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),11,1826,25.510679079956187,25.8,27
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),12,1826,25.503395399780942,25.8,27
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),13,1826,25.5473713033954,25.8,27.1
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),14,1826,25.549069003285872,25.75,27.1
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),15,1826,25.58433734939759,25.8,27
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),16,1826,25.550985761226727,25.8,26.9
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),17,1826,25.57157721796276,25.8,27
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),18,1826,25.399178532311062,25.6,26.8
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),19,1826,25.453723986856517,25.6,26.8
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),20,1826,25.474644030668127,25.6,26.8
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),21,1826,25.370427163198247,25.5,26.7
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),22,1826,25.323220153340635,25.5,26.6
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),23,1826,25.20569550930997,25.3,26.6
+Lagos,wind_direction_10m,Wind direction (degrees),0,1826,223.79134720700986,226,250
+Lagos,wind_direction_10m,Wind direction (degrees),1,1826,227.8893756845564,230,255
+Lagos,wind_direction_10m,Wind direction (degrees),2,1826,233.08926615553122,235,264
+Lagos,wind_direction_10m,Wind direction (degrees),3,1826,238.5684556407448,240,274
+Lagos,wind_direction_10m,Wind direction (degrees),4,1826,243.8751369112815,244,287.5
+Lagos,wind_direction_10m,Wind direction (degrees),5,1826,247.65443592552026,248,297
+Lagos,wind_direction_10m,Wind direction (degrees),6,1826,249.24151150054763,251,304
+Lagos,wind_direction_10m,Wind direction (degrees),7,1826,249.39649507119387,252,311
+Lagos,wind_direction_10m,Wind direction (degrees),8,1826,247.86527929901425,251,314
+Lagos,wind_direction_10m,Wind direction (degrees),9,1826,241.77382256297918,245,304
+Lagos,wind_direction_10m,Wind direction (degrees),10,1826,233.26232201533406,237,288
+Lagos,wind_direction_10m,Wind direction (degrees),11,1826,225.72124863088717,233,283
+Lagos,wind_direction_10m,Wind direction (degrees),12,1826,213.62541073384446,224,259
+Lagos,wind_direction_10m,Wind direction (degrees),13,1826,206.9802847754655,216,241
+Lagos,wind_direction_10m,Wind direction (degrees),14,1826,205.7579408543264,211,235
+Lagos,wind_direction_10m,Wind direction (degrees),15,1826,206.3274917853231,211,234
+Lagos,wind_direction_10m,Wind direction (degrees),16,1826,208.37458926615554,212,233
+Lagos,wind_direction_10m,Wind direction (degrees),17,1826,210.0591456736035,213,233
+Lagos,wind_direction_10m,Wind direction (degrees),18,1826,211.23822562979188,213.5,232
+Lagos,wind_direction_10m,Wind direction (degrees),19,1826,212.57995618838993,214,233
+Lagos,wind_direction_10m,Wind direction (degrees),20,1826,214.69112814895948,216,234
+Lagos,wind_direction_10m,Wind direction (degrees),21,1826,216.68236582694414,218,236
+Lagos,wind_direction_10m,Wind direction (degrees),22,1826,218.76998904709748,219,238
+Lagos,wind_direction_10m,Wind direction (degrees),23,1826,221.6867469879518,223,246
+Lagos,wind_speed_10m,Wind speed (km/h),0,1826,11.195837897042717,11.5,15.7
+Lagos,wind_speed_10m,Wind speed (km/h),1,1826,11.076560788608981,11.3,15.7
+Lagos,wind_speed_10m,Wind speed (km/h),2,1826,10.913636363636364,11,15.6
+Lagos,wind_speed_10m,Wind speed (km/h),3,1826,10.71631982475356,10.7,15.5
+Lagos,wind_speed_10m,Wind speed (km/h),4,1826,10.394414019715224,10.350000000000001,15.3
+Lagos,wind_speed_10m,Wind speed (km/h),5,1826,9.986363636363636,9.7,15.149999999999999
+Lagos,wind_speed_10m,Wind speed (km/h),6,1826,9.54446878422782,9.2,14.9
+Lagos,wind_speed_10m,Wind speed (km/h),7,1826,9.261281489594742,9,14.45
+Lagos,wind_speed_10m,Wind speed (km/h),8,1826,9.357667031763418,9.1,14.4
+Lagos,wind_speed_10m,Wind speed (km/h),9,1826,10.263745892661555,10,16.3
+Lagos,wind_speed_10m,Wind speed (km/h),10,1826,10.487842278203724,10.1,16.6
+Lagos,wind_speed_10m,Wind speed (km/h),11,1826,10.090470974808325,9.6,16.4
+Lagos,wind_speed_10m,Wind speed (km/h),12,1826,10.311883899233298,10,16.6
+Lagos,wind_speed_10m,Wind speed (km/h),13,1826,11.124424972617744,11.1,17.1
+Lagos,wind_speed_10m,Wind speed (km/h),14,1826,12.325520262869661,12.3,17.7
+Lagos,wind_speed_10m,Wind speed (km/h),15,1826,13.346221248630886,13.3,18.4
+Lagos,wind_speed_10m,Wind speed (km/h),16,1826,14.181051478641841,14.3,19
+Lagos,wind_speed_10m,Wind speed (km/h),17,1826,14.603066812705366,14.8,19
+Lagos,wind_speed_10m,Wind speed (km/h),18,1826,14.242004381161008,14.5,18.5
+Lagos,wind_speed_10m,Wind speed (km/h),19,1826,13.60449069003286,13.9,17.6
+Lagos,wind_speed_10m,Wind speed (km/h),20,1826,13.452847754654984,13.8,17.3
+Lagos,wind_speed_10m,Wind speed (km/h),21,1826,13.48526834611172,13.8,17.3
+Lagos,wind_speed_10m,Wind speed (km/h),22,1826,13.451369112814897,13.8,17.3
+Lagos,wind_speed_10m,Wind speed (km/h),23,1826,11.252026286966046,11.6,15.6

@@ -1,0 +1,4 @@
+location,observations,first_observation,last_observation,unique_dates,unique_years
+Abuja,43824,2020-12-31T23:00:00Z,2025-12-31T22:00:00Z,1826,5
+Ilorin,43824,2020-12-31T23:00:00Z,2025-12-31T22:00:00Z,1826,5
+Lagos,43824,2020-12-31T23:00:00Z,2025-12-31T22:00:00Z,1826,5

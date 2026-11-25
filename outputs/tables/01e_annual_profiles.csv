@@ -1,0 +1,106 @@
+location,variable,variable_label,year,observations,mean_value,median_value,ninetieth_percentile
+Abuja,apparent_temperature,Apparent temperature (°C),2021,8760,29.694280821917808,29.6,35.9
+Abuja,apparent_temperature,Apparent temperature (°C),2022,8760,29.041084474885846,29.1,35.2
+Abuja,apparent_temperature,Apparent temperature (°C),2023,8760,30.251050228310504,30.2,36.3
+Abuja,apparent_temperature,Apparent temperature (°C),2024,8784,30.39073315118397,30.6,36.7
+Abuja,apparent_temperature,Apparent temperature (°C),2025,8760,30.697888127853883,30.3,37.2
+Abuja,relative_humidity_2m,Relative humidity (%),2021,8760,62.62819634703197,68,92
+Abuja,relative_humidity_2m,Relative humidity (%),2022,8760,63.30125570776256,68,93
+Abuja,relative_humidity_2m,Relative humidity (%),2023,8760,66.20262557077625,71,93
+Abuja,relative_humidity_2m,Relative humidity (%),2024,8784,63.3584927140255,68,93
+Abuja,relative_humidity_2m,Relative humidity (%),2025,8760,65.78687214611872,70,93
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),2021,8760,236.39840182648402,15,783
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),2022,8760,227.23424657534247,14,762.1000000000004
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),2023,8760,227.45662100456622,14,747.1000000000004
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),2024,8784,227.98110200364297,14,755
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),2025,8760,225.26529680365297,14,748
+Abuja,temperature_2m,Air temperature (°C),2021,8760,27.0264497716895,26.3,33.2
+Abuja,temperature_2m,Air temperature (°C),2022,8760,26.542089041095892,25.8,32.9
+Abuja,temperature_2m,Air temperature (°C),2023,8760,27.074486301369863,26.4,33
+Abuja,temperature_2m,Air temperature (°C),2024,8784,27.460553278688526,26.9,33.9
+Abuja,temperature_2m,Air temperature (°C),2025,8760,27.453824200913242,26.65,34.2
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),2021,8760,21.181769406392693,22.3,24.4
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),2022,8760,20.876324200913242,22,24.1
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),2023,8760,21.88502283105023,22.8,24.8
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),2024,8784,21.75450819672131,22.9,25.1
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),2025,8760,22.130901826484017,22.7,24.8
+Abuja,wind_direction_10m,Wind direction (degrees),2021,8760,175.22876712328767,191,276
+Abuja,wind_direction_10m,Wind direction (degrees),2022,8760,173.81849315068493,192,275
+Abuja,wind_direction_10m,Wind direction (degrees),2023,8760,178.09543378995434,194,274
+Abuja,wind_direction_10m,Wind direction (degrees),2024,8784,172.81682604735883,196,271
+Abuja,wind_direction_10m,Wind direction (degrees),2025,8760,183.88561643835615,202,277.10000000000036
+Abuja,wind_speed_10m,Wind speed (km/h),2021,8760,5.775810502283105,5.4,9.7
+Abuja,wind_speed_10m,Wind speed (km/h),2022,8760,5.94892694063927,5.6,9.9
+Abuja,wind_speed_10m,Wind speed (km/h),2023,8760,5.61486301369863,5.3,9.3
+Abuja,wind_speed_10m,Wind speed (km/h),2024,8784,6.091541438979964,5.8,10.3
+Abuja,wind_speed_10m,Wind speed (km/h),2025,8760,5.490239726027397,5.1,9.4
+Ilorin,apparent_temperature,Apparent temperature (°C),2021,8760,30.688219178082193,29.9,37.5
+Ilorin,apparent_temperature,Apparent temperature (°C),2022,8760,29.81639269406393,29.3,36.7
+Ilorin,apparent_temperature,Apparent temperature (°C),2023,8760,30.889851598173514,30.3,37.7
+Ilorin,apparent_temperature,Apparent temperature (°C),2024,8784,30.896675774134792,30.7,37.9
+Ilorin,apparent_temperature,Apparent temperature (°C),2025,8760,31.32700913242009,30.4,38.2
+Ilorin,relative_humidity_2m,Relative humidity (%),2021,8760,65.99223744292237,72,94
+Ilorin,relative_humidity_2m,Relative humidity (%),2022,8760,65.29509132420091,72,94
+Ilorin,relative_humidity_2m,Relative humidity (%),2023,8760,66.9236301369863,74,94
+Ilorin,relative_humidity_2m,Relative humidity (%),2024,8784,62.98724954462659,68,92
+Ilorin,relative_humidity_2m,Relative humidity (%),2025,8760,69.13413242009132,76,94
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),2021,8760,234.287100456621,8,783
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),2022,8760,227.1400684931507,8,762
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),2023,8760,226.71244292237444,8,759
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),2024,8784,231.25933515482697,8,769
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),2025,8760,224.70867579908676,8,747.1000000000004
+Ilorin,temperature_2m,Air temperature (°C),2021,8760,27.74769406392694,26.6,34.3
+Ilorin,temperature_2m,Air temperature (°C),2022,8760,27.221769406392696,26.2,33.9
+Ilorin,temperature_2m,Air temperature (°C),2023,8760,27.79818493150685,26.7,34.2
+Ilorin,temperature_2m,Air temperature (°C),2024,8784,28.15768442622951,27.2,35
+Ilorin,temperature_2m,Air temperature (°C),2025,8760,27.982100456621005,26.8,35
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),2021,8760,22.27793378995434,23.1,25
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),2022,8760,21.695319634703196,22.7,24.8
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),2023,8760,22.526095890410957,23.6,25.3
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),2024,8784,22.17551229508197,23.4,25.6
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),2025,8760,23.030639269406393,23.4,25.3
+Ilorin,wind_direction_10m,Wind direction (degrees),2021,8760,174.6054794520548,204,232.10000000000036
+Ilorin,wind_direction_10m,Wind direction (degrees),2022,8760,170.3353881278539,203,232
+Ilorin,wind_direction_10m,Wind direction (degrees),2023,8760,173.89143835616437,203,228
+Ilorin,wind_direction_10m,Wind direction (degrees),2024,8784,168.8016848816029,204,231
+Ilorin,wind_direction_10m,Wind direction (degrees),2025,8760,184.52785388127853,208,232
+Ilorin,wind_speed_10m,Wind speed (km/h),2021,8760,8.200787671232877,8.2,12.6
+Ilorin,wind_speed_10m,Wind speed (km/h),2022,8760,8.347340182648402,8.3,12.7
+Ilorin,wind_speed_10m,Wind speed (km/h),2023,8760,8.415650684931506,8.5,12.6
+Ilorin,wind_speed_10m,Wind speed (km/h),2024,8784,8.658800091074681,8.7,13
+Ilorin,wind_speed_10m,Wind speed (km/h),2025,8760,8.554954337899543,8.6,13.2
+Lagos,apparent_temperature,Apparent temperature (°C),2021,8760,32.295399543379,32.3,35
+Lagos,apparent_temperature,Apparent temperature (°C),2022,8760,31.704406392694064,31.9,34.8
+Lagos,apparent_temperature,Apparent temperature (°C),2023,8760,32.492682648401825,32.5,35.4
+Lagos,apparent_temperature,Apparent temperature (°C),2024,8784,32.72580828779599,32.9,36.2
+Lagos,apparent_temperature,Apparent temperature (°C),2025,8760,32.12482876712329,32.4,35.4
+Lagos,relative_humidity_2m,Relative humidity (%),2021,8760,84.59269406392694,86,91
+Lagos,relative_humidity_2m,Relative humidity (%),2022,8760,84.16404109589041,87,91
+Lagos,relative_humidity_2m,Relative humidity (%),2023,8760,83.89166666666667,86,91
+Lagos,relative_humidity_2m,Relative humidity (%),2024,8784,83.84847449908925,86,91
+Lagos,relative_humidity_2m,Relative humidity (%),2025,8760,85.2332191780822,87,91
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),2021,8760,196.88949771689497,7,649
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),2022,8760,199.08767123287672,7,652
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),2023,8760,199.9587899543379,7,656
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),2024,8784,205.11281876138435,7,677
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),2025,8760,197.31244292237443,7,637
+Lagos,temperature_2m,Air temperature (°C),2021,8760,27.386244292237443,27.3,29.6
+Lagos,temperature_2m,Air temperature (°C),2022,8760,27.06882420091324,27,29.6
+Lagos,temperature_2m,Air temperature (°C),2023,8760,27.566997716894978,27.4,30
+Lagos,temperature_2m,Air temperature (°C),2024,8784,27.7418602003643,27.6,30.5
+Lagos,temperature_2m,Air temperature (°C),2025,8760,27.32755707762557,27.3,29.8
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),2021,8760,25.239748858447488,25.3,26.6
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),2022,8760,24.8575799086758,25,26.4
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),2023,8760,25.303984018264842,25.4,26.6
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),2024,8784,25.459540072859745,25.5,27.2
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),2025,8760,25.280068493150686,25.5,26.8
+Lagos,wind_direction_10m,Wind direction (degrees),2021,8760,224.97522831050227,225,270
+Lagos,wind_direction_10m,Wind direction (degrees),2022,8760,224.1296803652968,226,272
+Lagos,wind_direction_10m,Wind direction (degrees),2023,8760,224.18778538812785,225,268
+Lagos,wind_direction_10m,Wind direction (degrees),2024,8784,225.96846539162112,227,275
+Lagos,wind_direction_10m,Wind direction (degrees),2025,8760,227.5917808219178,227,259
+Lagos,wind_speed_10m,Wind speed (km/h),2021,8760,11.26170091324201,11.5,16.4
+Lagos,wind_speed_10m,Wind speed (km/h),2022,8760,11.431963470319635,11.5,16.710000000000036
+Lagos,wind_speed_10m,Wind speed (km/h),2023,8760,11.306449771689497,11.5,16.5
+Lagos,wind_speed_10m,Wind speed (km/h),2024,8784,11.726024590163934,12,17.3
+Lagos,wind_speed_10m,Wind speed (km/h),2025,8760,12.329543378995433,12.5,17.6

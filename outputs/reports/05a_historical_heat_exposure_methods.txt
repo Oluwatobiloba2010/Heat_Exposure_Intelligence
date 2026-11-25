@@ -1,0 +1,61 @@
+HEAT EXPOSURE INTELLIGENCE
+SCRIPT 09: HISTORICAL HEAT EXPOSURE INTELLIGENCE
+
+PURPOSE
+Examine historical environmental temperature conditions
+across Abuja, Ilorin and Lagos from 2021 to 2025.
+
+DATA SOURCE
+Open-Meteo Historical Weather API - ERA5 reanalysis.
+
+ANALYSIS INDICATORS
+Air temperature.
+Apparent temperature.
+Wet-bulb temperature.
+Daily maximum values of these indicators.
+
+HISTORICAL BENCHMARKS
+Location-specific 90th and 95th percentiles were calculated
+from the complete 2021-2025 historical record.
+These percentiles identify unusually high conditions relative
+to each location's historical distribution.
+They are not occupational exposure or safety limits.
+
+HOURLY EPISODES
+An hourly episode consists of consecutive hourly observations
+at or above the relevant location-specific threshold.
+A non-exceedance or missing hourly observation ends an episode.
+
+DAILY EPISODES
+A daily episode consists of consecutive days on which the
+daily maximum indicator equals or exceeds its threshold.
+
+TEMPORAL ANALYSIS
+Monthly, annual and hour-of-day patterns were examined.
+Daily summaries were derived from the hourly observations.
+
+SUPPORTING ENVIRONMENTAL CONTEXT
+Humidity, solar radiation and wind speed are retained as
+contextual environmental variables where available.
+
+IMPORTANT LIMITATIONS
+ERA5 is gridded reanalysis, not direct workplace measurement.
+The three locations do not represent all of Nigeria.
+Apparent temperature and wet-bulb temperature are distinct
+environmental indicators.
+Wet-bulb temperature is not WBGT.
+Historical percentiles do not establish workplace safety.
+No individual worker exposure, workload, clothing, shade,
+hydration, illness or productivity data were analysed.
+The analysis does not establish causal relationships.
+Smoothed trends are descriptive and are not formal climate
+trend attribution.
+
+POTENTIAL OPERATIONAL RELEVANCE
+The results can inform further assessment of work scheduling,
+hydration planning, rest periods and shade provision.
+Site-specific occupational measurements and relevant safety
+guidance are required before making workplace safety decisions.
+
+OUTPUT TABLES ARE STORED IN OUTPUTS/TABLES.
+FIGURES ARE STORED IN OUTPUTS/FIGURES.

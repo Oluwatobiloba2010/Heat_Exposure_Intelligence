@@ -1,0 +1,7 @@
+task,frequency,prediction_records,source_matches,unmatched_records,mismatched_actual_values,maximum_absolute_difference,first_forecast_origin,last_forecast_origin,alignment_status
+Hourly apparent temperature,hourly,26277,26277,0,0,0,2025-01-01 01:00:00,2025-12-31 23:00:00,PASS
+Hourly wet-bulb temperature,hourly,26277,26277,0,0,0,2025-01-01 01:00:00,2025-12-31 23:00:00,PASS
+Hourly air temperature,hourly,26277,26277,0,0,0,2025-01-01 01:00:00,2025-12-31 23:00:00,PASS
+Daily maximum apparent temperature,daily,1092,1092,0,0,0,2025-01-01,2025-12-30,PASS
+Daily maximum wet-bulb temperature,daily,1092,1092,0,0,0,2025-01-01,2025-12-30,PASS
+Daily maximum air temperature,daily,1092,1092,0,0,0,2025-01-01,2025-12-30,PASS

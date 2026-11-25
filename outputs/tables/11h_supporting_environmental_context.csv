@@ -1,0 +1,4 @@
+location,relative_humidity_2m_mean,relative_humidity_2m_median,relative_humidity_2m_P90,shortwave_radiation_mean,shortwave_radiation_median,shortwave_radiation_P90,wind_speed_10m_mean,wind_speed_10m_median,wind_speed_10m_P90
+Abuja,64.25499726177436,69,93,228.86664841182915,14,760,5.784444596568091,5.4,9.8
+Ilorin,66.06478185469149,72,94,228.82285962029937,8,764,8.435628879152976,8.45,12.8
+Lagos,84.34574662285506,86,91,199.67522362175976,7,655,11.611199342825849,11.8,16.9

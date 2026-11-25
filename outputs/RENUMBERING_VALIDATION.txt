@@ -1,0 +1,19 @@
+HEAT EXPOSURE INTELLIGENCE - FINAL OUTPUT RENUMBERING VALIDATION
+
+Table files present: 68
+Figure files present: 57
+Method reports present: 6
+EDA output register: 49 entries (18 tables + 31 figures).
+
+Tables: sequential thematic groups 01a-12i.
+Figures: sequential thematic groups 01a-20e.
+16a: predictive model performance.
+17a-17f: six feature-importance figures.
+18a-18h: model validation figures.
+19a-19f: historical heat-exposure figures.
+20a-20e: interpretation and decision-support figures.
+Method reports: independent sequence 01a-06a, corresponding respectively to Scripts 05-10.
+
+Static validation: all 131 registered output files exist; IDs are unique within each output category; figure groups 16-20 are populated; and changed legacy output filenames are absent from R scripts.
+Runtime execution was not performed because raw/processed datasets and model RDS files were not included.
+No analytical calculations or model logic were intentionally changed.

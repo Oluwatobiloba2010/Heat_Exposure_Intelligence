@@ -1,0 +1,19 @@
+location,indicator,threshold_level,episode_count,total_exceedance_hours,mean_episode_duration_hours,median_episode_duration_hours,longest_episode_hours,longest_episode_peak_temperature
+Abuja,Air temperature,P90,819,4513,5.51037851037851,6,12,38.8
+Abuja,Air temperature,P95,500,2194,4.388,4,10,39.6
+Abuja,Apparent temperature,P90,913,4428,4.849945235487404,5,13,42
+Abuja,Apparent temperature,P95,550,2291,4.165454545454545,4,11,42
+Abuja,Wet-bulb temperature,P90,991,4653,4.695257315842583,4,44,26.7
+Abuja,Wet-bulb temperature,P95,638,2317,3.6316614420062696,2,33,27.1
+Ilorin,Air temperature,P90,917,4459,4.862595419847328,5,11,39.2
+Ilorin,Air temperature,P95,598,2235,3.737458193979933,3,10,40
+Ilorin,Apparent temperature,P90,952,4471,4.696428571428571,5,11,45.5
+Ilorin,Apparent temperature,P95,598,2260,3.779264214046823,4,8,43.3
+Ilorin,Wet-bulb temperature,P90,1074,4701,4.377094972067039,3,31,27.5
+Ilorin,Wet-bulb temperature,P95,721,2556,3.545076282940361,3,19,27.1
+Lagos,Air temperature,P90,955,4580,4.795811518324608,5,14,32.2
+Lagos,Air temperature,P95,650,2360,3.6307692307692307,3,11,32
+Lagos,Apparent temperature,P90,1097,4557,4.154056517775752,4,19,38.3
+Lagos,Apparent temperature,P95,750,2206,2.941333333333333,3,10,38.1
+Lagos,Wet-bulb temperature,P90,880,4926,5.597727272727273,3,128,28.2
+Lagos,Wet-bulb temperature,P95,545,2527,4.636697247706422,3,88,28.3

@@ -1,0 +1,58 @@
+HEAT EXPOSURE INTELLIGENCE
+SCRIPT 07: PREDICTIVE MODELLING
+
+DATA SOURCE
+Open-Meteo Historical Weather API - ERA5.
+
+TRAINING PERIOD
+2021-2024.
+
+TEST PERIOD
+2025.
+
+TIME STANDARD
+Africa/Lagos local time.
+
+MODELS
+Persistence baseline.
+Multiple linear regression.
+Random forest.
+
+PREDICTION TASKS
+Next-hour apparent temperature.
+Next-hour wet-bulb temperature.
+Next-hour air temperature.
+Next-day maximum apparent temperature.
+Next-day maximum wet-bulb temperature.
+Next-day maximum air temperature.
+
+PREDICTION ALIGNMENT
+Hourly predictions use the current hour's available
+features to forecast the following hour.
+Daily predictions use completed daily summaries to
+forecast the following day's maximum temperature.
+Saved timestamps identify forecast origins, not target times.
+
+PERFORMANCE METRICS
+Mean Absolute Error (MAE).
+Root Mean Squared Error (RMSE).
+R-squared.
+Prediction bias.
+MAE and RMSE skill relative to persistence.
+
+VALIDATION
+A chronological split reserves 2025 for testing.
+Training records whose future targets cross the
+training/testing boundary are excluded.
+Missing required modelling fields are not imputed.
+Prediction completeness and duplicate forecast origins
+are checked before outputs are saved.
+
+LIMITATIONS
+The models predict environmental conditions, not
+individual worker exposure, illness or productivity.
+The three study locations do not represent every
+Nigerian location.
+Performance on this historical test period does not
+guarantee performance under future climate conditions.
+Feature importance does not establish causation.

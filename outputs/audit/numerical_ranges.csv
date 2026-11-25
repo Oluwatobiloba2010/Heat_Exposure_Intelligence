@@ -1,0 +1,4 @@
+location,temperature_2m_minimum,temperature_2m_median,temperature_2m_maximum,relative_humidity_2m_minimum,relative_humidity_2m_median,relative_humidity_2m_maximum,wind_speed_10m_minimum,wind_speed_10m_median,wind_speed_10m_maximum,wind_direction_10m_minimum,wind_direction_10m_median,wind_direction_10m_maximum,shortwave_radiation_minimum,shortwave_radiation_median,shortwave_radiation_maximum,wet_bulb_temperature_2m_minimum,wet_bulb_temperature_2m_median,wet_bulb_temperature_2m_maximum,apparent_temperature_minimum,apparent_temperature_median,apparent_temperature_maximum
+Abuja,17.3,26.4,39.6,9,69,100,0,5.4,17.2,1,195,360,0,14,1060,9.6,22.6,28.3,14.4,30,43.8
+Ilorin,16,26.7,41.2,7,72,100,0,8.45,21.9,1,204,360,0,8,1042,8.5,23.3,28.1,13.1,30.2,46.1
+Lagos,22.1,27.3,32.7,23,86,98,0,11.8,28.2,1,226,360,0,7,988,16.3,25.3,28.4,22.5,32.4,40.7

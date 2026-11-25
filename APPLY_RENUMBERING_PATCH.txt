@@ -1,0 +1,26 @@
+HEAT EXPOSURE INTELLIGENCE - FINAL RENUMBERING PATCH
+
+WHAT THIS PATCH DOES
+- Supplies corrected R/ scripts 00-10 and the supplementary script.
+- Supplies all 68 renamed tables, 57 renamed figures and six renamed method reports.
+- Updates output paths, downstream input paths, printed output lists, report paths, EDA register entries and documentation included in this patch.
+- Provides the master output register and old-to-new filename mapping.
+
+NUMBERING RULES
+- Tables: sequential thematic groups 01a-12i.
+- Figures: sequential thematic groups 01a-20e. There are no unexplained gaps: 16a is predictive performance; 17a-17f feature importance; 18a-18h validation; 19a-19f historical heat; 16a-20e interpretation.
+- Method reports: 01a-06a, in the order of Scripts 05-10. Each report still identifies the script it documents.
+- Main R script identifiers 00-10 remain unchanged.
+
+HOW TO INSTALL
+1. Close RStudio or ensure no project scripts are running.
+2. Make a full backup of the current Heat_Exposure_Intelligence project folder.
+3. Extract this ZIP into the existing project root, preserving folders. Merge and replace the supplied R/ and outputs/ folders.
+4. Do not merge this patch with the earlier Renumbering_Patch ZIP. Discard that earlier patch; this ZIP supersedes it.
+5. Open the project in RStudio and run the included static validation script: VALIDATE_RENUMBERING.R from the project root.
+6. If validation passes, continue with Script 11 (project-wide QA and consolidation). Do not rerun Scripts 00-10 merely to rename files.
+
+IMPORTANT
+- The patch includes updated generating scripts; it is not merely a batch of renamed output files.
+- Script references are updated for future regenerations, and existing outputs are supplied under their corrected names.
+- Runtime execution of Scripts 00-10 was not possible without the full project data and model files.

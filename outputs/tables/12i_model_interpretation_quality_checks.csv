@@ -1,0 +1,10 @@
+check,result
+Prediction records available,TRUE
+Six forecasting tasks available,TRUE
+Three model types available,TRUE
+Three locations available,TRUE
+No missing actual values,TRUE
+No missing predictions,TRUE
+All model performance metrics finite,TRUE
+All model tasks have persistence baseline,TRUE
+All model tasks have selected models,TRUE

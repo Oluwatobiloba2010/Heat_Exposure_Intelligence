@@ -1,0 +1,10 @@
+location,indicator,observations,historical_mean,historical_P90,historical_P95,historical_maximum
+Abuja,Daily maximum air temperature,1826,32.22814895947426,36.4,37.1,39.6
+Abuja,Daily maximum apparent temperature,1826,35.98444687842278,40.1,41.2,43.8
+Abuja,Daily maximum wet-bulb temperature,1826,23.780339539978094,25.8,26.1,28.3
+Ilorin,Daily maximum air temperature,1826,33.86538882803943,37.9,38.7,41.2
+Ilorin,Daily maximum apparent temperature,1826,37.476341730558595,41.9,42.77499999999999,46.1
+Ilorin,Daily maximum wet-bulb temperature,1826,24.310679079956188,26.2,26.5,28.1
+Lagos,Daily maximum air temperature,1826,29.364403066812706,31.3,31.6,32.7
+Lagos,Daily maximum apparent temperature,1826,35.0263964950712,37.95,38.3,40.7
+Lagos,Daily maximum wet-bulb temperature,1826,26.04802847754655,27.3,27.6,28.4

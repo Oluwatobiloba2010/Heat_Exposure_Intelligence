@@ -1,0 +1,4 @@
+location,total_observations,calm_hours,directional_wind_hours,calm_percentage
+Abuja,43824,163,43661,0.37194231471339906
+Ilorin,43824,53,43771,0.12093829864914202
+Lagos,43824,19,43805,0.04335523913837167

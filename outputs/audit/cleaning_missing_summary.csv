@@ -1,0 +1,14 @@
+variable,missing_values
+location,0
+latitude,0
+longitude,0
+timestamp,0
+temperature_2m,0
+relative_humidity_2m,0
+wind_speed_10m,0
+wind_direction_10m,0
+shortwave_radiation,0
+wet_bulb_temperature_2m,0
+apparent_temperature,0
+model,0
+data_source,0

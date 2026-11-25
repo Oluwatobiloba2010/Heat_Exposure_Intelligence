@@ -1,0 +1,4 @@
+location,temperature_2m_missing,relative_humidity_2m_missing,wind_speed_10m_missing,wind_direction_10m_missing,shortwave_radiation_missing,wet_bulb_temperature_2m_missing,apparent_temperature_missing
+Abuja,0,0,0,0,0,0,0
+Ilorin,0,0,0,0,0,0,0
+Lagos,0,0,0,0,0,0,0

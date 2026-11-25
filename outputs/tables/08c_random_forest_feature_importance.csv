@@ -1,0 +1,379 @@
+task,feature,importance
+Hourly apparent temperature,apparent_temperature,5.168560543031444
+Hourly apparent temperature,temperature_2m,2.179812710514143
+Hourly apparent temperature,apparent_temperature_lag_1h,1.447634088683059
+Hourly apparent temperature,wet_bulb_temperature_2m,1.2071380727969523
+Hourly apparent temperature,shortwave_radiation,1.1998067348609056
+Hourly apparent temperature,hour_cos,0.9215119611057034
+Hourly apparent temperature,temperature_2m_lag_1h,0.7372531772938697
+Hourly apparent temperature,shortwave_radiation_lag_1h,0.6859156652466901
+Hourly apparent temperature,shortwave_radiation_lag_20h,0.6733737075089131
+Hourly apparent temperature,wet_bulb_temperature_2m_lag_1h,0.5720143113900731
+Hourly apparent temperature,apparent_temperature_prior_3h_mean,0.5097456763928231
+Hourly apparent temperature,hour,0.47079912893643755
+Hourly apparent temperature,shortwave_radiation_prior_3h_mean,0.469054773910766
+Hourly apparent temperature,wet_bulb_temperature_2m_prior_3h_mean,0.38155745240925304
+Hourly apparent temperature,apparent_temperature_lag_20h,0.34459110143929716
+Hourly apparent temperature,relative_humidity_2m,0.3287518041812655
+Hourly apparent temperature,hour_sin,0.29128138890490907
+Hourly apparent temperature,shortwave_radiation_lag_6h,0.24823677405317943
+Hourly apparent temperature,temperature_2m_lag_20h,0.24582272373554093
+Hourly apparent temperature,shortwave_radiation_prior_6h_mean,0.22413695658685587
+Hourly apparent temperature,shortwave_radiation_lag_3h,0.21099276169000183
+Hourly apparent temperature,apparent_temperature_prior_20h_mean,0.20948407997228852
+Hourly apparent temperature,wet_bulb_temperature_2m_prior_20h_mean,0.209187821765134
+Hourly apparent temperature,wet_bulb_temperature_2m_lag_3h,0.16291772034034416
+Hourly apparent temperature,wet_bulb_temperature_2m_prior_6h_mean,0.15495412750408752
+Hourly apparent temperature,temperature_2m_prior_20h_mean,0.14574335847640474
+Hourly apparent temperature,relative_humidity_2m_lag_1h,0.1434608412269116
+Hourly apparent temperature,temperature_2m_prior_3h_mean,0.1358013788555173
+Hourly apparent temperature,relative_humidity_2m_prior_20h_mean,0.12884454300461534
+Hourly apparent temperature,apparent_temperature_prior_6h_mean,0.11711410953559413
+Hourly apparent temperature,apparent_temperature_lag_3h,0.11048929470890764
+Hourly apparent temperature,wind_v_component,0.11044159114741005
+Hourly apparent temperature,temperature_2m_prior_6h_mean,0.1021410747401844
+Hourly apparent temperature,wet_bulb_temperature_2m_lag_20h,0.10055800323077774
+Hourly apparent temperature,relative_humidity_2m_lag_6h,0.09621107210682214
+Hourly apparent temperature,temperature_2m_lag_6h,0.09431619432285791
+Hourly apparent temperature,relative_humidity_2m_prior_3h_mean,0.09309599748426764
+Hourly apparent temperature,relative_humidity_2m_prior_6h_mean,0.09158360499086059
+Hourly apparent temperature,temperature_2m_lag_3h,0.07973721663781018
+Hourly apparent temperature,apparent_temperature_lag_6h,0.07654087921060591
+Hourly apparent temperature,longitude,0.07618452372602885
+Hourly apparent temperature,relative_humidity_2m_lag_3h,0.07434735552987547
+Hourly apparent temperature,day_of_year_cos,0.06957279237414156
+Hourly apparent temperature,latitude,0.06895403889963467
+Hourly apparent temperature,wind_speed_10m,0.06768212176366088
+Hourly apparent temperature,location,0.06684122969164596
+Hourly apparent temperature,relative_humidity_2m_lag_20h,0.06269138087652952
+Hourly apparent temperature,day_of_year_sin,0.06141912193582766
+Hourly apparent temperature,wind_direction_cos,0.05889075247985563
+Hourly apparent temperature,wet_bulb_temperature_2m_lag_6h,0.053866300474209594
+Hourly apparent temperature,day_of_year,0.053446520298380096
+Hourly apparent temperature,wind_u_component,0.04898828544970271
+Hourly apparent temperature,shortwave_radiation_prior_20h_mean,0.041899107697140704
+Hourly apparent temperature,wind_speed_10m_lag_1h,0.03652376554413637
+Hourly apparent temperature,wind_direction_sin,0.02759601233053536
+Hourly apparent temperature,month,0.027112979151180612
+Hourly apparent temperature,wind_speed_10m_lag_3h,0.023341787938783862
+Hourly apparent temperature,wind_speed_10m_lag_6h,0.017599049561403752
+Hourly apparent temperature,wind_speed_10m_lag_20h,0.015194830249744471
+Hourly apparent temperature,quarter,0.014596116401902485
+Hourly apparent temperature,year,0.007319641855932707
+Hourly apparent temperature,day,0.002613871338494247
+Hourly apparent temperature,day_of_week,0.0012329400602662543
+Hourly apparent temperature,is_weekend,3.6979818581695857e-4
+Hourly wet-bulb temperature,wet_bulb_temperature_2m,2.876315419314691
+Hourly wet-bulb temperature,wet_bulb_temperature_2m_lag_1h,1.170824054459731
+Hourly wet-bulb temperature,wet_bulb_temperature_2m_prior_3h_mean,0.7068508058774334
+Hourly wet-bulb temperature,apparent_temperature,0.43301215744435984
+Hourly wet-bulb temperature,wet_bulb_temperature_2m_prior_6h_mean,0.375188972766302
+Hourly wet-bulb temperature,wet_bulb_temperature_2m_prior_20h_mean,0.3178170044234936
+Hourly wet-bulb temperature,relative_humidity_2m,0.2918976555818316
+Hourly wet-bulb temperature,wet_bulb_temperature_2m_lag_3h,0.1970562704551148
+Hourly wet-bulb temperature,wind_v_component,0.14072654151283895
+Hourly wet-bulb temperature,relative_humidity_2m_lag_1h,0.1362274822802116
+Hourly wet-bulb temperature,apparent_temperature_lag_1h,0.12397821630818931
+Hourly wet-bulb temperature,temperature_2m,0.11685382498868484
+Hourly wet-bulb temperature,relative_humidity_2m_prior_20h_mean,0.11549891861413586
+Hourly wet-bulb temperature,wet_bulb_temperature_2m_lag_20h,0.11471771953862785
+Hourly wet-bulb temperature,shortwave_radiation,0.09893530596477278
+Hourly wet-bulb temperature,relative_humidity_2m_prior_3h_mean,0.09539737358811368
+Hourly wet-bulb temperature,hour_cos,0.08697712841384336
+Hourly wet-bulb temperature,wind_direction_cos,0.08389936152644015
+Hourly wet-bulb temperature,shortwave_radiation_lag_20h,0.08269706269771732
+Hourly wet-bulb temperature,shortwave_radiation_lag_1h,0.07342899412517062
+Hourly wet-bulb temperature,relative_humidity_2m_prior_6h_mean,0.07069840033817437
+Hourly wet-bulb temperature,apparent_temperature_lag_20h,0.06591699261181844
+Hourly wet-bulb temperature,wet_bulb_temperature_2m_lag_6h,0.06372609126978868
+Hourly wet-bulb temperature,shortwave_radiation_prior_3h_mean,0.06261230473591076
+Hourly wet-bulb temperature,apparent_temperature_prior_20h_mean,0.06008696684814009
+Hourly wet-bulb temperature,apparent_temperature_prior_3h_mean,0.06003579041425894
+Hourly wet-bulb temperature,hour,0.058761942618083304
+Hourly wet-bulb temperature,relative_humidity_2m_lag_3h,0.04802646542580043
+Hourly wet-bulb temperature,wind_u_component,0.047546885566809693
+Hourly wet-bulb temperature,temperature_2m_lag_1h,0.04525640940352131
+Hourly wet-bulb temperature,longitude,0.04438375000097024
+Hourly wet-bulb temperature,shortwave_radiation_prior_6h_mean,0.042531146863907396
+Hourly wet-bulb temperature,location,0.04042451057041028
+Hourly wet-bulb temperature,relative_humidity_2m_lag_20h,0.03741994710354039
+Hourly wet-bulb temperature,relative_humidity_2m_lag_6h,0.035962988645360607
+Hourly wet-bulb temperature,latitude,0.03428243314062472
+Hourly wet-bulb temperature,day_of_year_cos,0.03335311837561115
+Hourly wet-bulb temperature,hour_sin,0.031900708358403085
+Hourly wet-bulb temperature,apparent_temperature_prior_6h_mean,0.031694332467915046
+Hourly wet-bulb temperature,temperature_2m_lag_20h,0.02902544409151207
+Hourly wet-bulb temperature,shortwave_radiation_lag_3h,0.02872199878628043
+Hourly wet-bulb temperature,wind_direction_sin,0.027984859364140975
+Hourly wet-bulb temperature,apparent_temperature_lag_6h,0.027458398016237055
+Hourly wet-bulb temperature,temperature_2m_lag_6h,0.026681296846118287
+Hourly wet-bulb temperature,temperature_2m_prior_6h_mean,0.02569125866969516
+Hourly wet-bulb temperature,wind_speed_10m,0.024724616332677002
+Hourly wet-bulb temperature,apparent_temperature_lag_3h,0.02317907243436638
+Hourly wet-bulb temperature,shortwave_radiation_lag_6h,0.023080003409239366
+Hourly wet-bulb temperature,temperature_2m_prior_20h_mean,0.022699160628239103
+Hourly wet-bulb temperature,temperature_2m_prior_3h_mean,0.022252916175260703
+Hourly wet-bulb temperature,temperature_2m_lag_3h,0.0197165283278298
+Hourly wet-bulb temperature,wind_speed_10m_lag_1h,0.017866677590014597
+Hourly wet-bulb temperature,day_of_year,0.014799554808319886
+Hourly wet-bulb temperature,day_of_year_sin,0.012503503681176283
+Hourly wet-bulb temperature,shortwave_radiation_prior_20h_mean,0.01033496704589542
+Hourly wet-bulb temperature,month,0.008429022448379111
+Hourly wet-bulb temperature,wind_speed_10m_lag_3h,0.007629862000968563
+Hourly wet-bulb temperature,wind_speed_10m_lag_20h,0.00621279284002899
+Hourly wet-bulb temperature,wind_speed_10m_lag_6h,0.005645410043960928
+Hourly wet-bulb temperature,quarter,0.0032235045329231282
+Hourly wet-bulb temperature,year,0.0021307540416586044
+Hourly wet-bulb temperature,day,0.0013672794697918436
+Hourly wet-bulb temperature,day_of_week,6.869652514639694e-4
+Hourly wet-bulb temperature,is_weekend,2.1591353458416318e-4
+Hourly air temperature,temperature_2m,3.512121724762225
+Hourly air temperature,temperature_2m_lag_1h,1.224348233554482
+Hourly air temperature,apparent_temperature,1.1180843822724045
+Hourly air temperature,shortwave_radiation,1.0629390526248443
+Hourly air temperature,relative_humidity_2m,0.8053826249146667
+Hourly air temperature,shortwave_radiation_lag_1h,0.6936354519738034
+Hourly air temperature,hour_cos,0.6800455263993026
+Hourly air temperature,shortwave_radiation_lag_20h,0.5954926359906446
+Hourly air temperature,shortwave_radiation_prior_3h_mean,0.5631085375641154
+Hourly air temperature,hour,0.44853419412715745
+Hourly air temperature,apparent_temperature_lag_1h,0.3239421675897549
+Hourly air temperature,temperature_2m_lag_20h,0.3052459594930058
+Hourly air temperature,temperature_2m_prior_3h_mean,0.2847882220005005
+Hourly air temperature,relative_humidity_2m_lag_1h,0.2375523570969129
+Hourly air temperature,relative_humidity_2m_prior_20h_mean,0.2203903226826248
+Hourly air temperature,shortwave_radiation_lag_3h,0.21349417467955453
+Hourly air temperature,hour_sin,0.2007037777518434
+Hourly air temperature,wet_bulb_temperature_2m,0.19336492503787672
+Hourly air temperature,shortwave_radiation_prior_6h_mean,0.18893929616616736
+Hourly air temperature,apparent_temperature_prior_3h_mean,0.1523759027567885
+Hourly air temperature,temperature_2m_prior_20h_mean,0.15157136077686215
+Hourly air temperature,relative_humidity_2m_lag_20h,0.11552769892948003
+Hourly air temperature,temperature_2m_prior_6h_mean,0.11483254321530402
+Hourly air temperature,shortwave_radiation_lag_6h,0.10285577579444581
+Hourly air temperature,temperature_2m_lag_3h,0.1024224219331216
+Hourly air temperature,relative_humidity_2m_prior_3h_mean,0.10180281732381233
+Hourly air temperature,apparent_temperature_lag_20h,0.09294362370428348
+Hourly air temperature,apparent_temperature_prior_20h_mean,0.08868598917924457
+Hourly air temperature,apparent_temperature_prior_6h_mean,0.08313616148979347
+Hourly air temperature,wet_bulb_temperature_2m_prior_20h_mean,0.07867201078117941
+Hourly air temperature,latitude,0.07311846349416516
+Hourly air temperature,wet_bulb_temperature_2m_lag_1h,0.07048590945786254
+Hourly air temperature,apparent_temperature_lag_3h,0.0671192946582996
+Hourly air temperature,temperature_2m_lag_6h,0.06693257500702966
+Hourly air temperature,day_of_year_cos,0.06382784110385828
+Hourly air temperature,longitude,0.060116322258262085
+Hourly air temperature,apparent_temperature_lag_6h,0.05982629374653814
+Hourly air temperature,wet_bulb_temperature_2m_prior_3h_mean,0.05901075214987173
+Hourly air temperature,day_of_year,0.058804886124519826
+Hourly air temperature,relative_humidity_2m_prior_6h_mean,0.05653935531450903
+Hourly air temperature,day_of_year_sin,0.05329395101743373
+Hourly air temperature,relative_humidity_2m_lag_6h,0.051372752591697435
+Hourly air temperature,wet_bulb_temperature_2m_prior_6h_mean,0.047645542660452136
+Hourly air temperature,relative_humidity_2m_lag_3h,0.044577827997285574
+Hourly air temperature,wet_bulb_temperature_2m_lag_6h,0.040922253612036955
+Hourly air temperature,wet_bulb_temperature_2m_lag_20h,0.040833426186961314
+Hourly air temperature,wet_bulb_temperature_2m_lag_3h,0.0398322685744838
+Hourly air temperature,shortwave_radiation_prior_20h_mean,0.036839186866908374
+Hourly air temperature,month,0.036049948270295035
+Hourly air temperature,location,0.03546075524170132
+Hourly air temperature,wind_v_component,0.028469864627546776
+Hourly air temperature,wind_u_component,0.021116148760453996
+Hourly air temperature,wind_speed_10m,0.02041763110058339
+Hourly air temperature,wind_speed_10m_lag_1h,0.016880318405240183
+Hourly air temperature,wind_direction_cos,0.014611374906284993
+Hourly air temperature,quarter,0.014206028109628214
+Hourly air temperature,wind_direction_sin,0.013457798707316067
+Hourly air temperature,wind_speed_10m_lag_3h,0.011962244602821344
+Hourly air temperature,wind_speed_10m_lag_6h,0.009793329821951647
+Hourly air temperature,wind_speed_10m_lag_20h,0.008950175419503388
+Hourly air temperature,year,0.003167441995327771
+Hourly air temperature,day,0.0014888297201161972
+Hourly air temperature,day_of_week,7.681990555188194e-4
+Hourly air temperature,is_weekend,2.1173119038498677e-4
+Daily maximum apparent temperature,apparent_temperature_90th_percentile,1.1480776465177522
+Daily maximum apparent temperature,maximum_apparent_temperature,0.9558965864777261
+Daily maximum apparent temperature,maximum_temperature_prior_7d_mean,0.8560526293907506
+Daily maximum apparent temperature,maximum_temperature_prior_3d_mean,0.6198447723557332
+Daily maximum apparent temperature,mean_temperature_prior_3d_mean,0.517554048130552
+Daily maximum apparent temperature,mean_apparent_temperature,0.5076691012099466
+Daily maximum apparent temperature,temperature_90th_percentile,0.5011900901447448
+Daily maximum apparent temperature,mean_temperature,0.46278620054389635
+Daily maximum apparent temperature,maximum_apparent_temperature_lag_1d,0.45278778922019774
+Daily maximum apparent temperature,maximum_temperature,0.3902173586466276
+Daily maximum apparent temperature,mean_temperature_prior_7d_mean,0.35280266721288506
+Daily maximum apparent temperature,mean_apparent_temperature_prior_3d_mean,0.3047447393891408
+Daily maximum apparent temperature,mean_relative_humidity,0.2908001928239178
+Daily maximum apparent temperature,mean_temperature_lag_1d,0.28449061389558655
+Daily maximum apparent temperature,day_of_year_cos,0.2826504105307447
+Daily maximum apparent temperature,maximum_temperature_lag_1d,0.2825556219250472
+Daily maximum apparent temperature,temperature_standard_deviation,0.2786739098894715
+Daily maximum apparent temperature,mean_apparent_temperature_prior_7d_mean,0.26193267083481475
+Daily maximum apparent temperature,daily_solar_energy_mj_prior_7d_mean,0.25655419191887585
+Daily maximum apparent temperature,mean_wet_bulb_temperature,0.25254826146052833
+Daily maximum apparent temperature,day_of_year_sin,0.23690615782850505
+Daily maximum apparent temperature,maximum_apparent_temperature_lag_3d,0.23593182857331743
+Daily maximum apparent temperature,mean_relative_humidity_prior_7d_mean,0.2212939463589309
+Daily maximum apparent temperature,maximum_apparent_temperature_lag_7d,0.2083503018415264
+Daily maximum apparent temperature,maximum_temperature_lag_3d,0.2009423246344164
+Daily maximum apparent temperature,mean_relative_humidity_prior_3d_mean,0.19922829743001752
+Daily maximum apparent temperature,wet_bulb_temperature_90th_percentile,0.1976279078675663
+Daily maximum apparent temperature,maximum_temperature_lag_7d,0.1892824898652011
+Daily maximum apparent temperature,mean_temperature_lag_3d,0.181548055089576
+Daily maximum apparent temperature,mean_apparent_temperature_lag_1d,0.18112196979052955
+Daily maximum apparent temperature,mean_relative_humidity_lag_3d,0.17576433376278533
+Daily maximum apparent temperature,day_of_year,0.1719037066726228
+Daily maximum apparent temperature,mean_wet_bulb_temperature_prior_3d_mean,0.1639959790241856
+Daily maximum apparent temperature,mean_relative_humidity_lag_7d,0.1543087174511984
+Daily maximum apparent temperature,mean_wet_bulb_temperature_prior_7d_mean,0.15430427781924885
+Daily maximum apparent temperature,mean_temperature_lag_7d,0.14979455121098348
+Daily maximum apparent temperature,mean_wet_bulb_temperature_lag_1d,0.13354128284950093
+Daily maximum apparent temperature,mean_relative_humidity_lag_1d,0.13273990489336285
+Daily maximum apparent temperature,mean_wet_bulb_temperature_lag_3d,0.12611548321588384
+Daily maximum apparent temperature,mean_apparent_temperature_lag_3d,0.12335626105939973
+Daily maximum apparent temperature,maximum_wet_bulb_temperature,0.1190150430677466
+Daily maximum apparent temperature,mean_wind_speed,0.11791831202105608
+Daily maximum apparent temperature,maximum_wind_speed,0.10651653841857432
+Daily maximum apparent temperature,maximum_wet_bulb_temperature_lag_1d,0.10505601783479554
+Daily maximum apparent temperature,daily_solar_energy_mj_prior_3d_mean,0.09905172067939672
+Daily maximum apparent temperature,mean_solar_radiation,0.09216143827620771
+Daily maximum apparent temperature,maximum_wet_bulb_temperature_lag_3d,0.09135677960003322
+Daily maximum apparent temperature,mean_apparent_temperature_lag_7d,0.08960008133655578
+Daily maximum apparent temperature,mean_wet_bulb_temperature_lag_7d,0.08868132557253247
+Daily maximum apparent temperature,daily_solar_energy_mj,0.08370527346184925
+Daily maximum apparent temperature,daily_solar_energy_mj_lag_1d,0.07562579256520822
+Daily maximum apparent temperature,location,0.0734857935246604
+Daily maximum apparent temperature,month,0.07310248954253115
+Daily maximum apparent temperature,daily_solar_energy_mj_lag_3d,0.0717781037241214
+Daily maximum apparent temperature,daily_solar_energy_mj_lag_7d,0.06330609548091905
+Daily maximum apparent temperature,maximum_wet_bulb_temperature_lag_7d,0.06280934002207203
+Daily maximum apparent temperature,maximum_relative_humidity,0.06053817746033722
+Daily maximum apparent temperature,quarter,0.02378149939965318
+Daily maximum apparent temperature,hours_with_positive_solar_radiation,0.006842612918998103
+Daily maximum apparent temperature,year,0.006582940991851419
+Daily maximum apparent temperature,day_of_week,3.45240831939968e-5
+Daily maximum apparent temperature,is_weekend,-2.3673403203735787e-4
+Daily maximum wet-bulb temperature,mean_wet_bulb_temperature,0.7627370082705682
+Daily maximum wet-bulb temperature,wet_bulb_temperature_90th_percentile,0.6609360652896765
+Daily maximum wet-bulb temperature,maximum_wet_bulb_temperature,0.4448891261925788
+Daily maximum wet-bulb temperature,mean_relative_humidity,0.32426745840808996
+Daily maximum wet-bulb temperature,mean_wet_bulb_temperature_lag_1d,0.2950249933429012
+Daily maximum wet-bulb temperature,mean_apparent_temperature,0.2936578381530784
+Daily maximum wet-bulb temperature,mean_wet_bulb_temperature_prior_3d_mean,0.270000620568323
+Daily maximum wet-bulb temperature,mean_wet_bulb_temperature_prior_7d_mean,0.1799886985987781
+Daily maximum wet-bulb temperature,mean_wet_bulb_temperature_lag_3d,0.14782310939401233
+Daily maximum wet-bulb temperature,maximum_relative_humidity,0.13622230734019983
+Daily maximum wet-bulb temperature,mean_relative_humidity_lag_1d,0.1312077880269397
+Daily maximum wet-bulb temperature,apparent_temperature_90th_percentile,0.12805228795797735
+Daily maximum wet-bulb temperature,mean_relative_humidity_prior_7d_mean,0.11228764265910875
+Daily maximum wet-bulb temperature,maximum_apparent_temperature,0.10895861890493487
+Daily maximum wet-bulb temperature,mean_relative_humidity_prior_3d_mean,0.10873004686346827
+Daily maximum wet-bulb temperature,mean_apparent_temperature_prior_3d_mean,0.09823202987864392
+Daily maximum wet-bulb temperature,maximum_wet_bulb_temperature_lag_1d,0.09555123001540579
+Daily maximum wet-bulb temperature,mean_apparent_temperature_prior_7d_mean,0.0809075758498229
+Daily maximum wet-bulb temperature,mean_apparent_temperature_lag_1d,0.07329722981106876
+Daily maximum wet-bulb temperature,temperature_standard_deviation,0.06748273811327969
+Daily maximum wet-bulb temperature,maximum_wet_bulb_temperature_lag_3d,0.05987644005316659
+Daily maximum wet-bulb temperature,mean_wet_bulb_temperature_lag_7d,0.05776534090654379
+Daily maximum wet-bulb temperature,mean_relative_humidity_lag_3d,0.05609828283815324
+Daily maximum wet-bulb temperature,day_of_year_cos,0.05406735607462521
+Daily maximum wet-bulb temperature,location,0.049584067233401925
+Daily maximum wet-bulb temperature,mean_wind_speed,0.04889915191580099
+Daily maximum wet-bulb temperature,mean_temperature,0.04329995492182316
+Daily maximum wet-bulb temperature,mean_apparent_temperature_lag_3d,0.03910394321532857
+Daily maximum wet-bulb temperature,temperature_90th_percentile,0.03610819909491981
+Daily maximum wet-bulb temperature,mean_temperature_prior_3d_mean,0.035198526125562464
+Daily maximum wet-bulb temperature,maximum_apparent_temperature_lag_1d,0.03508318323328025
+Daily maximum wet-bulb temperature,mean_relative_humidity_lag_7d,0.03426543064294791
+Daily maximum wet-bulb temperature,maximum_wind_speed,0.03351347725599918
+Daily maximum wet-bulb temperature,maximum_temperature,0.03299439871710861
+Daily maximum wet-bulb temperature,mean_temperature_prior_7d_mean,0.031882101314024316
+Daily maximum wet-bulb temperature,mean_solar_radiation,0.0290692532237676
+Daily maximum wet-bulb temperature,maximum_temperature_prior_7d_mean,0.028730000217978603
+Daily maximum wet-bulb temperature,day_of_year,0.02822379480054162
+Daily maximum wet-bulb temperature,day_of_year_sin,0.027896874151430162
+Daily maximum wet-bulb temperature,mean_temperature_lag_1d,0.02502883524733619
+Daily maximum wet-bulb temperature,daily_solar_energy_mj_prior_7d_mean,0.024862401487287567
+Daily maximum wet-bulb temperature,daily_solar_energy_mj,0.024619267585661866
+Daily maximum wet-bulb temperature,mean_apparent_temperature_lag_7d,0.023906047640470607
+Daily maximum wet-bulb temperature,mean_temperature_lag_3d,0.02175174413189535
+Daily maximum wet-bulb temperature,maximum_temperature_prior_3d_mean,0.021075401784724616
+Daily maximum wet-bulb temperature,mean_temperature_lag_7d,0.020714336343890378
+Daily maximum wet-bulb temperature,daily_solar_energy_mj_lag_1d,0.019744055755972333
+Daily maximum wet-bulb temperature,maximum_wet_bulb_temperature_lag_7d,0.019486339644895732
+Daily maximum wet-bulb temperature,daily_solar_energy_mj_prior_3d_mean,0.016633783334347917
+Daily maximum wet-bulb temperature,maximum_apparent_temperature_lag_3d,0.016472788529545774
+Daily maximum wet-bulb temperature,maximum_temperature_lag_1d,0.01635223554547758
+Daily maximum wet-bulb temperature,maximum_temperature_lag_3d,0.01621066292365129
+Daily maximum wet-bulb temperature,daily_solar_energy_mj_lag_3d,0.013851560656903416
+Daily maximum wet-bulb temperature,month,0.012434272464860051
+Daily maximum wet-bulb temperature,daily_solar_energy_mj_lag_7d,0.011692679030508597
+Daily maximum wet-bulb temperature,maximum_apparent_temperature_lag_7d,0.01158988766839174
+Daily maximum wet-bulb temperature,maximum_temperature_lag_7d,0.009144652163586965
+Daily maximum wet-bulb temperature,quarter,0.006319567420091009
+Daily maximum wet-bulb temperature,hours_with_positive_solar_radiation,0.0034777742834779016
+Daily maximum wet-bulb temperature,year,0.003144336357565966
+Daily maximum wet-bulb temperature,is_weekend,9.662345889623313e-5
+Daily maximum wet-bulb temperature,day_of_week,-1.0577173549435681e-4
+Daily maximum air temperature,maximum_temperature_prior_7d_mean,1.7991816372388207
+Daily maximum air temperature,maximum_temperature_prior_3d_mean,1.1173069514491414
+Daily maximum air temperature,temperature_90th_percentile,0.9920962908934955
+Daily maximum air temperature,maximum_temperature,0.825278054111614
+Daily maximum air temperature,mean_relative_humidity,0.8133965414157817
+Daily maximum air temperature,mean_relative_humidity_prior_7d_mean,0.755760645095795
+Daily maximum air temperature,maximum_temperature_lag_1d,0.618659118746785
+Daily maximum air temperature,mean_relative_humidity_prior_3d_mean,0.5639501979781056
+Daily maximum air temperature,temperature_standard_deviation,0.48599971442521545
+Daily maximum air temperature,maximum_temperature_lag_3d,0.30736682793723574
+Daily maximum air temperature,mean_relative_humidity_lag_1d,0.30627826666151214
+Daily maximum air temperature,mean_temperature,0.27030047897447096
+Daily maximum air temperature,mean_relative_humidity_lag_3d,0.2693110899371915
+Daily maximum air temperature,maximum_temperature_lag_7d,0.2416132224432236
+Daily maximum air temperature,mean_relative_humidity_lag_7d,0.21608996037375547
+Daily maximum air temperature,mean_temperature_prior_3d_mean,0.21593218660461377
+Daily maximum air temperature,apparent_temperature_90th_percentile,0.16037723997335052
+Daily maximum air temperature,day_of_year_cos,0.14516260917641705
+Daily maximum air temperature,day_of_year,0.13878541342694442
+Daily maximum air temperature,mean_wet_bulb_temperature,0.13790390576432945
+Daily maximum air temperature,daily_solar_energy_mj_prior_7d_mean,0.12978359232208472
+Daily maximum air temperature,location,0.12596938982446837
+Daily maximum air temperature,maximum_apparent_temperature,0.11705564343095474
+Daily maximum air temperature,mean_wet_bulb_temperature_lag_1d,0.11477257983959101
+Daily maximum air temperature,mean_temperature_prior_7d_mean,0.1124877702892976
+Daily maximum air temperature,mean_temperature_lag_1d,0.11093799755356538
+Daily maximum air temperature,mean_apparent_temperature_prior_7d_mean,0.1094308114713948
+Daily maximum air temperature,mean_wet_bulb_temperature_prior_3d_mean,0.10692686660134189
+Daily maximum air temperature,wet_bulb_temperature_90th_percentile,0.10565580702760874
+Daily maximum air temperature,mean_wet_bulb_temperature_prior_7d_mean,0.10448342273858734
+Daily maximum air temperature,maximum_apparent_temperature_lag_1d,0.09764082165094531
+Daily maximum air temperature,mean_apparent_temperature,0.0953475669374067
+Daily maximum air temperature,maximum_wet_bulb_temperature,0.09432655376144047
+Daily maximum air temperature,mean_apparent_temperature_prior_3d_mean,0.08488591825484662
+Daily maximum air temperature,mean_wet_bulb_temperature_lag_7d,0.08322302612884414
+Daily maximum air temperature,daily_solar_energy_mj,0.0808672477564251
+Daily maximum air temperature,mean_solar_radiation,0.08017384242451536
+Daily maximum air temperature,daily_solar_energy_mj_prior_3d_mean,0.07885874286990133
+Daily maximum air temperature,mean_wet_bulb_temperature_lag_3d,0.07779329879948829
+Daily maximum air temperature,mean_apparent_temperature_lag_1d,0.07639516238158686
+Daily maximum air temperature,mean_temperature_lag_3d,0.06749867128799397
+Daily maximum air temperature,maximum_apparent_temperature_lag_7d,0.06551766592361875
+Daily maximum air temperature,maximum_wet_bulb_temperature_lag_3d,0.06273991564913577
+Daily maximum air temperature,maximum_apparent_temperature_lag_3d,0.06247751888269063
+Daily maximum air temperature,daily_solar_energy_mj_lag_1d,0.06119006243424776
+Daily maximum air temperature,mean_temperature_lag_7d,0.06029430180183197
+Daily maximum air temperature,day_of_year_sin,0.05901739832039747
+Daily maximum air temperature,maximum_wet_bulb_temperature_lag_1d,0.05897340444494325
+Daily maximum air temperature,daily_solar_energy_mj_lag_3d,0.057536042823077324
+Daily maximum air temperature,mean_apparent_temperature_lag_3d,0.05152516266567972
+Daily maximum air temperature,mean_apparent_temperature_lag_7d,0.04920680023997054
+Daily maximum air temperature,maximum_wind_speed,0.04852086952236562
+Daily maximum air temperature,mean_wind_speed,0.047365599730158026
+Daily maximum air temperature,month,0.04483016812538928
+Daily maximum air temperature,maximum_relative_humidity,0.04151031004042092
+Daily maximum air temperature,maximum_wet_bulb_temperature_lag_7d,0.03913943474478292
+Daily maximum air temperature,daily_solar_energy_mj_lag_7d,0.03446628663586029
+Daily maximum air temperature,quarter,0.017547469810719512
+Daily maximum air temperature,hours_with_positive_solar_radiation,0.009511707974158866
+Daily maximum air temperature,year,0.0048212391239559555
+Daily maximum air temperature,day_of_week,0.0017326678424906205
+Daily maximum air temperature,is_weekend,3.6359240097884007e-4

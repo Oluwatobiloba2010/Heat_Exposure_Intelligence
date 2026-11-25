@@ -1,0 +1,45 @@
+HEAT EXPOSURE INTELLIGENCE
+SCRIPT 06: FEATURE ENGINEERING
+
+SOURCE
+Open-Meteo Historical Weather API - ERA5.
+
+TEMPORAL FEATURES
+Calendar and cyclical features represent the timing
+of observations, including hour, month and annual position.
+
+WIND FEATURES
+Wind direction is encoded using sine and cosine
+transformations because direction is circular.
+Wind components represent east-west and north-south
+movement based on meteorological wind direction.
+
+HOURLY HISTORICAL FEATURES
+Lag variables represent earlier observations.
+Rolling means use only observations preceding the
+current observation.
+
+DAILY FEATURES
+Daily summaries include means, maxima, variability,
+percentiles and accumulated incoming solar energy.
+
+PREDICTION TARGETS
+Next-hour and next-day environmental conditions are
+stored as target variables, not historical predictors.
+
+MISSING VALUES
+Initial lag and rolling features are naturally missing
+because earlier observations are unavailable.
+Final future-target observations are also missing.
+These values are not automatically imputed.
+
+MODELLING SAFEGUARD
+Training and testing must be separated chronologically.
+Future target columns must never be included as predictors.
+Historical features must be constructed without using
+future observations.
+
+SCIENTIFIC LIMITATIONS
+Derived environmental features do not represent
+direct worker exposure or measured health outcomes.
+Wet-bulb temperature is not WBGT.

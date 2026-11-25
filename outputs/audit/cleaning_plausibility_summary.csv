@@ -1,0 +1,7 @@
+check,flagged_records
+invalid_humidity,0
+negative_wind_speed,0
+invalid_wind_direction,0
+negative_solar_radiation,0
+wet_bulb_above_air_temperature,0
+non_finite_numeric_value,0

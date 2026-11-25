@@ -1,0 +1,63 @@
+HEAT EXPOSURE INTELLIGENCE
+SCRIPT 08: MODEL VALIDATION AND DIAGNOSTIC ANALYSIS
+
+PURPOSE
+Evaluate the predictive performance and reliability of
+the six forecasting tasks developed in Script 07.
+
+DATA SOURCE
+Open-Meteo Historical Weather API - ERA5 reanalysis.
+
+TRAINING PERIOD
+2021-2024.
+
+TEST PERIOD
+2025.
+
+VALIDATION APPROACH
+Existing predictions from Script 07 were evaluated.
+Models were not retrained.
+The chronological training/testing boundary was preserved.
+Actual target values were checked against the original
+feature datasets using their forecast-origin keys.
+
+RESIDUAL DEFINITION
+Residual = predicted value - actual value.
+Positive residuals indicate overprediction.
+Negative residuals indicate underprediction.
+
+DIAGNOSTIC EVALUATION
+Actual versus predicted values.
+Residual distributions.
+Residuals versus actual temperatures.
+Location-specific performance.
+Monthly and quarterly performance.
+Hour-of-day performance.
+Prediction bias.
+
+EXTREME-CONDITION EVALUATION
+Historical 90th-percentile thresholds were calculated
+separately by location and prediction task.
+Thresholds were derived from training-period targets.
+Precision, recall, specificity and F1-score were calculated.
+These thresholds are historical statistical benchmarks,
+not occupational safety or exposure limits.
+
+MODEL SELECTION
+Models were ranked by mean absolute error.
+Overall rankings and location-specific rankings were
+evaluated separately.
+
+IMPORTANT LIMITATIONS
+The predictions concern environmental temperatures,
+not individual worker exposure or health outcomes.
+ERA5 is gridded reanalysis, not direct workplace measurement.
+Three study locations do not represent all of Nigeria.
+Historical model performance does not guarantee future
+forecast performance.
+Prediction errors may be temporally dependent.
+Extreme-condition detection does not establish workplace safety.
+
+SCRIPT 07 OUTPUTS WERE NOT MODIFIED.
+VALIDATION RESULTS ARE STORED IN OUTPUTS/TABLES.
+DIAGNOSTIC FIGURES ARE STORED IN OUTPUTS/FIGURES.

@@ -1,0 +1,23 @@
+# RStudio and R temporary files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Local environment and credentials
+.Renviron
+.env
+.env.*
+!.env.example
+
+# Regenerable processed datasets
+data/processed/
+
+# Large saved model objects
+outputs/models/*.rds
+
+# Incorrectly named API metadata CSV exports
+data/raw/*.csv.csv
+
+# Nested project retained as backup
+/Heat_Exposure_Intelligence/

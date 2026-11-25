@@ -1,0 +1,75 @@
+HEAT EXPOSURE INTELLIGENCE
+SCRIPT 10: MODEL INTERPRETATION AND DECISION SUPPORT
+
+1. PURPOSE
+This analysis interprets the existing predictive models using
+their held-out 2025 test predictions.
+
+2. MODEL DESIGN
+Three forecasting approaches were evaluated:
+- Persistence baseline
+- Multiple linear regression
+- Random forest
+The six prediction tasks cover hourly and daily temperature
+forecasting for apparent temperature, wet-bulb temperature
+and air temperature.
+
+3. PERFORMANCE INTERPRETATION
+Mean absolute error measures average absolute forecast error.
+Root mean squared error gives greater weight to larger errors.
+Mean bias measures systematic overprediction or underprediction.
+Positive bias indicates overprediction.
+Negative bias indicates underprediction.
+MAE skill relative to persistence is calculated as:
+1 - (model MAE / persistence MAE).
+Positive values indicate improvement over persistence.
+Negative values indicate worse MAE than persistence.
+
+4. SEASONAL AND LOCATION-SPECIFIC ASSESSMENT
+Performance is assessed separately by location and by four
+calendar-month groupings using the 2025 test period.
+These results describe the evaluated test year and should not
+be interpreted as definitive long-term seasonal performance.
+
+5. FEATURE IMPORTANCE
+Random forest permutation importance describes the relative
+predictive contribution of variables within each fitted model.
+It does not establish causation.
+Correlated predictors may share or redistribute importance.
+Importance values should not be compared directly across tasks.
+
+6. OPERATIONAL INTERPRETATION
+Forecasts may help organisations identify periods and locations
+requiring closer environmental monitoring and operational review.
+Potential responses may include reviewing work schedules,
+hydration provision, rest opportunities and access to shade.
+These outputs do not independently determine whether a worksite
+is safe or unsafe.
+
+7. SCIENTIFIC LIMITATIONS
+The environmental dataset is based on ERA5 reanalysis obtained
+through the Open-Meteo Historical Weather API.
+It is not direct measurement of conditions at individual worksites.
+Wet-bulb temperature is not Wet-Bulb Globe Temperature (WBGT).
+No worker health, workload, clothing, acclimatisation or
+individual exposure data were available.
+Consequently, the models do not predict heat illness,
+worker productivity or individual occupational risk.
+Historical P90 and P95 benchmarks are statistical reference
+values, not occupational safety limits.
+The three study locations do not represent all of Nigeria.
+
+8. TEST-PERIOD LIMITATION
+The seasonal assessment uses the 2025 holdout period.
+It provides an initial assessment of seasonal variation,
+not a multi-year independent seasonal validation.
+
+9. OUTPUTS
+Tables 12a-12i contain interpreted model performance,
+location-specific and seasonal performance, bias diagnostics,
+feature importance, model selection, decision-support summaries
+and quality checks.
+Figures 16a-20e visualise performance, location differences,
+seasonal errors, forecast bias and predictor importance.
+
+END OF REPORT

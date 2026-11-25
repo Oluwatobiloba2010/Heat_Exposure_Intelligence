@@ -1,0 +1,11 @@
+metric,value
+Raw records,131472
+Prepared records,131472
+Raw columns,13
+Prepared columns,13
+Exact duplicate rows,0
+Duplicate location-timestamp keys,0
+Missing cells,0
+Flagged records,0
+Records removed,0
+Missing values imputed,0

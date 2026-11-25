@@ -1,0 +1,10 @@
+location,indicator,observations,historical_mean,historical_median,historical_P90,historical_P95,historical_maximum
+Abuja,Air temperature,43824,27.111671686746988,26.4,33.4,34.8,39.6
+Abuja,Apparent temperature,43824,30.015213125228186,30,36.3,37.9,43.8
+Abuja,Wet-bulb temperature,43824,21.565808689302663,22.6,24.7,25.2,28.3
+Ilorin,Air temperature,43824,27.78169267981015,26.7,34.5,35.9,41.2
+Ilorin,Apparent temperature,43824,30.723724443227454,30.2,37.6,39.3,46.1
+Ilorin,Wet-bulb temperature,43824,22.341009492515518,23.3,25.2,25.6,28.1
+Lagos,Air temperature,43824,27.41847389558233,27.3,29.9,30.5,32.7
+Lagos,Apparent temperature,43824,32.26887550200803,32.4,35.4,36.5,40.7
+Lagos,Wet-bulb temperature,43824,25.228310971157356,25.3,26.7,27,28.4

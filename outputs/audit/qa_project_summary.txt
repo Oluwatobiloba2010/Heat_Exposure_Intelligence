@@ -1,0 +1,54 @@
+HEAT EXPOSURE INTELLIGENCE
+SCRIPT 11: PROJECT-WIDE QUALITY ASSURANCE
+==========================================
+
+Project root: C:/Users/User/Downloads/Heat_Exposure_Intelligence
+Date: 2026-11-23
+
+Overall status: REVIEW REQUIRED
+Checks passed: 19
+Checks requiring review: 1
+
+OUTPUT INVENTORY
+----------------
+Tables: 68
+Figures: 57
+Method reports: 6
+
+PROJECT COMPONENTS
+------------------
+R scripts: 13
+Audit CSV files: 25
+Raw API JSON files: 3
+Saved model RDS files: 6
+
+CHECK RESULTS
+-------------
+OUT_TABLES | PASS | Number of tables files
+OUT_FIGURES | PASS | Number of figures files
+OUT_REPORTS | PASS | Number of reports files
+NAME_TABLES | PASS | Unique filenames for tables
+PREFIX_TABLES | PASS | Two-digit and letter-suffix numbering for tables
+NAME_FIGURES | PASS | Unique filenames for figures
+PREFIX_FIGURES | PASS | Two-digit and letter-suffix numbering for figures
+NAME_REPORTS | PASS | Unique filenames for reports
+PREFIX_REPORTS | PASS | Two-digit and letter-suffix numbering for reports
+CSV_READ | PASS | CSV files readable
+CSV_COLUMNS | PASS | CSV files have column names
+PNG_SIZE | PASS | PNG files are non-empty
+PNG_SIGNATURE | PASS | PNG file signatures are valid
+REPORT_READ | PASS | Method reports readable
+REPORT_CONTENT | PASS | Method reports contain text
+R_SCRIPTS | PASS | Expected R scripts present
+AUDIT_FILES | PASS | Audit CSV files present
+API_RESPONSES | PASS | Raw API response files present
+MODEL_FILES | PASS | Saved RDS model files
+OUTPUT_REFERENCES | REVIEW | Literal output references resolved
+
+IMPORTANT LIMITATIONS
+---------------------
+This script performs structural and file-integrity QA.
+It does not retrain models or rerun completed analyses.
+It does not independently establish scientific validity.
+Flagged output references require manual contextual review.
+

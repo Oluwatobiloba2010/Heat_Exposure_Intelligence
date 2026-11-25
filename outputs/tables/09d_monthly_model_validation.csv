@@ -1,0 +1,649 @@
+task,frequency,location,model,month_number,month_name,observations,MAE,RMSE,bias
+Daily maximum air temperature,daily,Abuja,Multiple linear regression,1,NA,31,0.6170145051731895,0.8336564333128782,0.008004953597229303
+Daily maximum air temperature,daily,Abuja,Multiple linear regression,2,NA,28,0.522349634612762,0.6474409655388048,0.01865177064022713
+Daily maximum air temperature,daily,Abuja,Multiple linear regression,3,NA,31,0.8540391081804244,1.040138280177387,-0.009278686504738136
+Daily maximum air temperature,daily,Abuja,Multiple linear regression,4,NA,30,1.2706951709294962,1.6381900576210933,-0.3132746735902039
+Daily maximum air temperature,daily,Abuja,Multiple linear regression,5,May,31,1.5307980760943016,1.9360947249779885,-0.19484914218913899
+Daily maximum air temperature,daily,Abuja,Multiple linear regression,6,NA,30,1.1099011200636155,1.5410075475236633,0.11769756066687277
+Daily maximum air temperature,daily,Abuja,Multiple linear regression,7,NA,31,0.9816128562140001,1.1708900323063733,0.33877467500165914
+Daily maximum air temperature,daily,Abuja,Multiple linear regression,8,NA,31,1.1335612257768,1.316823020688716,0.20837594086281874
+Daily maximum air temperature,daily,Abuja,Multiple linear regression,9,NA,30,1.2218528117562735,1.5259938554330672,-0.05396045248002726
+Daily maximum air temperature,daily,Abuja,Multiple linear regression,10,NA,31,1.1663193375630658,1.3832434527183772,-0.10113762773221045
+Daily maximum air temperature,daily,Abuja,Multiple linear regression,11,NA,30,0.5784511326672788,0.7325079584785976,-0.4372609764765521
+Daily maximum air temperature,daily,Abuja,Multiple linear regression,12,NA,30,0.8049873733523973,0.9468294930317874,0.3086972072769212
+Daily maximum air temperature,daily,Abuja,Persistence baseline,1,NA,31,0.7580645161290323,0.9613498574333368,0.022580645161290415
+Daily maximum air temperature,daily,Abuja,Persistence baseline,2,NA,28,0.6714285714285708,0.8725987459471677,-0.07142857142857142
+Daily maximum air temperature,daily,Abuja,Persistence baseline,3,NA,31,1.1064516129032258,1.302479025897625,0.08064516129032258
+Daily maximum air temperature,daily,Abuja,Persistence baseline,4,NA,30,1.6533333333333333,2.0228692493584455,0.04666666666666662
+Daily maximum air temperature,daily,Abuja,Persistence baseline,5,May,31,1.9774193548387102,2.6540899661441584,0.035483870967741866
+Daily maximum air temperature,daily,Abuja,Persistence baseline,6,NA,30,1.6399999999999997,2.043689474129244,0.18000000000000008
+Daily maximum air temperature,daily,Abuja,Persistence baseline,7,NA,31,1.1290322580645162,1.4194501434278766,0.012903225806451568
+Daily maximum air temperature,daily,Abuja,Persistence baseline,8,NA,31,1.5129032258064516,1.777911061311978,-0.13225806451612906
+Daily maximum air temperature,daily,Abuja,Persistence baseline,9,NA,30,1.5633333333333332,1.9295077092357005,0.010000000000000024
+Daily maximum air temperature,daily,Abuja,Persistence baseline,10,NA,31,1.3451612903225811,1.7686335166249207,-0.09999999999999994
+Daily maximum air temperature,daily,Abuja,Persistence baseline,11,NA,30,0.5733333333333325,0.75144305617037,-0.10666666666666676
+Daily maximum air temperature,daily,Abuja,Persistence baseline,12,NA,30,0.906666666666667,1.0948363652467281,-0.013333333333333286
+Daily maximum air temperature,daily,Abuja,Random forest,1,NA,31,0.6259434408602134,0.7898359285755602,-0.06869268817203969
+Daily maximum air temperature,daily,Abuja,Random forest,2,NA,28,0.5972792857142822,0.7051856322431841,-0.1890069047619021
+Daily maximum air temperature,daily,Abuja,Random forest,3,NA,31,1.0043387096774128,1.145846791170544,-0.2469094623655831
+Daily maximum air temperature,daily,Abuja,Random forest,4,NA,30,1.36453,1.740091225150121,-0.0721575555555565
+Daily maximum air temperature,daily,Abuja,Random forest,5,May,31,1.5801937634408592,2.0560058298778627,0.05681999999999981
+Daily maximum air temperature,daily,Abuja,Random forest,6,NA,30,1.2188822222222215,1.6388614098646934,0.07461555555555262
+Daily maximum air temperature,daily,Abuja,Random forest,7,NA,31,0.9839365591397907,1.1604577036336106,0.20922989247311463
+Daily maximum air temperature,daily,Abuja,Random forest,8,NA,31,1.1367991397849504,1.317789325811583,0.1277384946236518
+Daily maximum air temperature,daily,Abuja,Random forest,9,NA,30,1.2523386666666647,1.5750227178552072,0.06814711111111009
+Daily maximum air temperature,daily,Abuja,Random forest,10,NA,31,1.1244832258064559,1.3544353328666425,-0.09625096774193455
+Daily maximum air temperature,daily,Abuja,Random forest,11,NA,30,0.5603831111111113,0.7072659572895762,-0.3525164444444454
+Daily maximum air temperature,daily,Abuja,Random forest,12,NA,30,0.7708859999999994,0.9060128477831576,0.02132911111111445
+Daily maximum air temperature,daily,Ilorin,Multiple linear regression,1,NA,31,0.7236120899334441,0.8648515804491996,0.4544109622762347
+Daily maximum air temperature,daily,Ilorin,Multiple linear regression,2,NA,28,0.6042034618243307,0.6876451019811113,0.22125044573765124
+Daily maximum air temperature,daily,Ilorin,Multiple linear regression,3,NA,31,0.8815701802652113,1.01031381810194,-0.6378488196566034
+Daily maximum air temperature,daily,Ilorin,Multiple linear regression,4,NA,30,1.021763900110683,1.250995931843838,-0.36579804802974797
+Daily maximum air temperature,daily,Ilorin,Multiple linear regression,5,May,31,1.5814128748714966,2.2736176202231726,0.008499478192622896
+Daily maximum air temperature,daily,Ilorin,Multiple linear regression,6,NA,30,1.504826392325002,2.0438370429599613,0.1857575879820299
+Daily maximum air temperature,daily,Ilorin,Multiple linear regression,7,NA,31,1.0991095149752808,1.4680491178321573,0.6355330610722519
+Daily maximum air temperature,daily,Ilorin,Multiple linear regression,8,NA,31,1.0480159963593132,1.5173417637802902,0.44008285200460556
+Daily maximum air temperature,daily,Ilorin,Multiple linear regression,9,NA,30,1.146776784458874,1.4404060588025485,0.12730048755671816
+Daily maximum air temperature,daily,Ilorin,Multiple linear regression,10,NA,31,1.3422132862013585,1.7335059845962744,-0.11511664979699876
+Daily maximum air temperature,daily,Ilorin,Multiple linear regression,11,NA,30,0.6335649965723938,0.8163883987577455,-0.2845751245422242
+Daily maximum air temperature,daily,Ilorin,Multiple linear regression,12,NA,30,0.7143279642593181,0.84511936585364,0.3775471389791207
+Daily maximum air temperature,daily,Ilorin,Persistence baseline,1,NA,31,0.6032258064516127,0.784322185280119,0.035483870967741984
+Daily maximum air temperature,daily,Ilorin,Persistence baseline,2,NA,28,0.671428571428571,0.863133825081603,-0.10000000000000016
+Daily maximum air temperature,daily,Ilorin,Persistence baseline,3,NA,31,0.7870967741935478,0.9830827090856726,0.05806451612903239
+Daily maximum air temperature,daily,Ilorin,Persistence baseline,4,NA,30,1.3300000000000003,1.5902829936838287,0.06999999999999981
+Daily maximum air temperature,daily,Ilorin,Persistence baseline,5,May,31,1.9838709677419364,2.7740153731229724,0.08064516129032258
+Daily maximum air temperature,daily,Ilorin,Persistence baseline,6,NA,30,2.2899999999999996,2.867228627089231,0.030000000000000072
+Daily maximum air temperature,daily,Ilorin,Persistence baseline,7,NA,31,1.3806451612903226,1.796053020267749,0.06451612903225806
+Daily maximum air temperature,daily,Ilorin,Persistence baseline,8,NA,31,1.3903225806451616,1.7686335166249203,-0.04838709677419355
+Daily maximum air temperature,daily,Ilorin,Persistence baseline,9,NA,30,1.7233333333333336,2.050121947592387,0.02333333333333331
+Daily maximum air temperature,daily,Ilorin,Persistence baseline,10,NA,31,1.6096774193548387,2.0269952336942865,-0.17096774193548378
+Daily maximum air temperature,daily,Ilorin,Persistence baseline,11,NA,30,0.7399999999999994,0.931307324857553,-0.060000000000000143
+Daily maximum air temperature,daily,Ilorin,Persistence baseline,12,NA,30,0.8766666666666666,1.0403525043625035,-0.009999999999999905
+Daily maximum air temperature,daily,Ilorin,Random forest,1,NA,31,0.5314606451612917,0.6884258235510224,-0.12279913978494963
+Daily maximum air temperature,daily,Ilorin,Random forest,2,NA,28,0.5983092857142781,0.8092303817207991,-0.44863071428570145
+Daily maximum air temperature,daily,Ilorin,Random forest,3,NA,31,0.7088688172043011,0.845603070576955,-0.3470791397849439
+Daily maximum air temperature,daily,Ilorin,Random forest,4,NA,30,1.0655351111111104,1.3137515970899114,-0.612501333333334
+Daily maximum air temperature,daily,Ilorin,Random forest,5,May,31,1.749435698924731,2.355856833127501,-0.35572043010752646
+Daily maximum air temperature,daily,Ilorin,Random forest,6,NA,30,1.7062017777777732,2.1684284090639308,-0.20478222222222453
+Daily maximum air temperature,daily,Ilorin,Random forest,7,NA,31,1.0664189247311857,1.3858620082516944,0.021841290322583286
+Daily maximum air temperature,daily,Ilorin,Random forest,8,NA,31,1.2150404301075255,1.5333963136200812,-0.09916645161289839
+Daily maximum air temperature,daily,Ilorin,Random forest,9,NA,30,1.2216015555555517,1.4789704191472453,-0.29546155555555537
+Daily maximum air temperature,daily,Ilorin,Random forest,10,NA,31,1.4504348387096748,1.769464657338857,-0.4784486021505354
+Daily maximum air temperature,daily,Ilorin,Random forest,11,NA,30,0.7322388888888967,0.8953421565024067,-0.5657211111111157
+Daily maximum air temperature,daily,Ilorin,Random forest,12,NA,30,0.6172217777777801,0.8233098186799566,-0.37752044444445093
+Daily maximum air temperature,daily,Lagos,Multiple linear regression,1,NA,31,0.4872712012946637,0.6274729871766819,0.26132934144792036
+Daily maximum air temperature,daily,Lagos,Multiple linear regression,2,NA,28,0.37193933062106954,0.5013796033340616,0.18224495028377077
+Daily maximum air temperature,daily,Lagos,Multiple linear regression,3,NA,31,0.30458257053753973,0.3612644002327829,-0.01040204020438181
+Daily maximum air temperature,daily,Lagos,Multiple linear regression,4,NA,30,0.544612746768366,0.7555722407997394,0.11489332332861117
+Daily maximum air temperature,daily,Lagos,Multiple linear regression,5,May,31,0.7451787149045528,0.9619758924641422,0.028577172550335206
+Daily maximum air temperature,daily,Lagos,Multiple linear regression,6,NA,30,0.593227784733583,0.8072593421567891,0.04171578418360428
+Daily maximum air temperature,daily,Lagos,Multiple linear regression,7,NA,31,0.510389623174589,0.6214039573687118,0.11920764586743772
+Daily maximum air temperature,daily,Lagos,Multiple linear regression,8,NA,31,0.39811101236426233,0.5422283478314399,0.121278850316814
+Daily maximum air temperature,daily,Lagos,Multiple linear regression,9,NA,30,0.6411567910101972,0.7920023606878898,-0.012007604924188797
+Daily maximum air temperature,daily,Lagos,Multiple linear regression,10,NA,31,0.6712303476687871,0.901379805230698,0.13283102050937318
+Daily maximum air temperature,daily,Lagos,Multiple linear regression,11,NA,30,0.4264583621122998,0.542075386710837,0.2691902898555681
+Daily maximum air temperature,daily,Lagos,Multiple linear regression,12,NA,30,0.60048001141430285,0.7519716405989086,0.5352121821921628
+Daily maximum air temperature,daily,Lagos,Persistence baseline,1,NA,31,0.5387096774193552,0.7190944125728894,0.04193548387096765
+Daily maximum air temperature,daily,Lagos,Persistence baseline,2,NA,28,0.5392857142857139,0.7028005203673168,-0.03928571428571421
+Daily maximum air temperature,daily,Lagos,Persistence baseline,3,NA,31,0.36451612903225855,0.4395745743916648,0.0225806451612903
+Daily maximum air temperature,daily,Lagos,Persistence baseline,4,NA,30,0.7200000000000002,0.8962886439832501,-0.006666666666666643
+Daily maximum air temperature,daily,Lagos,Persistence baseline,5,May,31,1.0129032258064519,1.3509853035183548,0.02580645161290325
+Daily maximum air temperature,daily,Lagos,Persistence baseline,6,NA,30,0.9833333333333333,1.2327476086639417,0.05
+Daily maximum air temperature,daily,Lagos,Persistence baseline,7,NA,31,0.5774193548387097,0.7100658760897447,0.06129032258064512
+Daily maximum air temperature,daily,Lagos,Persistence baseline,8,NA,31,0.49677419354838753,0.5588005588008387,-0.019354838709677465
+Daily maximum air temperature,daily,Lagos,Persistence baseline,9,NA,30,0.7433333333333337,0.9141480551128833,0.023333333333333428
+Daily maximum air temperature,daily,Lagos,Persistence baseline,10,NA,31,0.9354838709677417,1.2546687006485402,-0.0967741935483871
+Daily maximum air temperature,daily,Lagos,Persistence baseline,11,NA,30,0.5366666666666668,0.6968978882638882,0.0033333333333332624
+Daily maximum air temperature,daily,Lagos,Persistence baseline,12,NA,30,0.5433333333333336,0.692098258919931,-0.05666666666666664
+Daily maximum air temperature,daily,Lagos,Random forest,1,NA,31,0.4112468817204313,0.5823006538706683,-0.03518279569892017
+Daily maximum air temperature,daily,Lagos,Random forest,2,NA,28,0.4178607142857172,0.5197418176471005,-0.09697261904762058
+Daily maximum air temperature,daily,Lagos,Random forest,3,NA,31,0.2667870967741909,0.3320829008040766,-0.10988215053762722
+Daily maximum air temperature,daily,Lagos,Random forest,4,NA,30,0.574450000000003,0.7366499730285518,-0.05943933333333149
+Daily maximum air temperature,daily,Lagos,Random forest,5,May,31,0.7692092473118292,0.9795313218467555,-0.013736129032263046
+Daily maximum air temperature,daily,Lagos,Random forest,6,NA,30,0.6742759999999995,0.8650268302205892,0.04656577777778104
+Daily maximum air temperature,daily,Lagos,Random forest,7,NA,31,0.4439623655913969,0.555000457067204,0.13464838709677107
+Daily maximum air temperature,daily,Lagos,Random forest,8,NA,31,0.5025113978494556,0.6626336780651013,0.39905892473117477
+Daily maximum air temperature,daily,Lagos,Random forest,9,NA,30,0.5800768888888876,0.7460067935426928,0.015213777777784187
+Daily maximum air temperature,daily,Lagos,Random forest,10,NA,31,0.677052903225808,0.8725782664048849,-0.014238709677416998
+Daily maximum air temperature,daily,Lagos,Random forest,11,NA,30,0.3877639999999971,0.4935918907281515,-0.05291333333332962
+Daily maximum air temperature,daily,Lagos,Random forest,12,NA,30,0.44893333333333085,0.5837471393753343,-0.007473333333331548
+Daily maximum apparent temperature,daily,Abuja,Multiple linear regression,1,NA,31,0.6166751553935368,0.8190366657815463,-0.06732017655041882
+Daily maximum apparent temperature,daily,Abuja,Multiple linear regression,2,NA,28,0.8640397116574791,1.0701488696917483,-0.14889653483186244
+Daily maximum apparent temperature,daily,Abuja,Multiple linear regression,3,NA,31,0.8004809731860582,0.9852353702940801,-0.2723649791479592
+Daily maximum apparent temperature,daily,Abuja,Multiple linear regression,4,NA,30,1.3005033236042916,1.5350531341668057,-0.4651467459827269
+Daily maximum apparent temperature,daily,Abuja,Multiple linear regression,5,May,31,1.9183050056905033,2.4027484686510086,-0.3733257214706936
+Daily maximum apparent temperature,daily,Abuja,Multiple linear regression,6,NA,30,1.7571583732976659,2.296188328346551,0.188294916670462
+Daily maximum apparent temperature,daily,Abuja,Multiple linear regression,7,NA,31,1.0620475163586849,1.2830510070674623,0.3982974038261014
+Daily maximum apparent temperature,daily,Abuja,Multiple linear regression,8,NA,31,1.2987704002278506,1.5901703885711267,0.3207803320935313
+Daily maximum apparent temperature,daily,Abuja,Multiple linear regression,9,NA,30,1.8186118626041488,2.202394993705605,-0.15093828212634422
+Daily maximum apparent temperature,daily,Abuja,Multiple linear regression,10,NA,31,1.847750063304962,2.278466660713614,-0.5630678046753623
+Daily maximum apparent temperature,daily,Abuja,Multiple linear regression,11,NA,30,0.8184273547545937,0.9805984250028007,-0.4356675200168605
+Daily maximum apparent temperature,daily,Abuja,Multiple linear regression,12,NA,30,0.8848996368966373,1.0084445628673073,0.0472920153199856
+Daily maximum apparent temperature,daily,Abuja,Persistence baseline,1,NA,31,0.8741935483870971,1.0964752913386282,-0.009677419354838618
+Daily maximum apparent temperature,daily,Abuja,Persistence baseline,2,NA,28,1.085714285714286,1.2975251167401074,-0.0928571428571429
+Daily maximum apparent temperature,daily,Abuja,Persistence baseline,3,NA,31,1.0193548387096771,1.2821353156909512,-0.006451612903225898
+Daily maximum apparent temperature,daily,Abuja,Persistence baseline,4,NA,30,1.396666666666667,1.6833498349026172,0.05
+Daily maximum apparent temperature,daily,Abuja,Persistence baseline,5,May,31,2.3774193548387106,3.264619722951492,0.029032258064516082
+Daily maximum apparent temperature,daily,Abuja,Persistence baseline,6,NA,30,2.2833333333333337,2.928537746612349,0.21000000000000013
+Daily maximum apparent temperature,daily,Abuja,Persistence baseline,7,NA,31,1.3806451612903232,1.7294414537461182,0.006451612903225784
+Daily maximum apparent temperature,daily,Abuja,Persistence baseline,8,NA,31,1.6709677419354845,2.0383421473534376,-0.17419354838709683
+Daily maximum apparent temperature,daily,Abuja,Persistence baseline,9,NA,30,2.296666666666667,2.739038760830765,0.036666666666666715
+Daily maximum apparent temperature,daily,Abuja,Persistence baseline,10,NA,31,2.209677419354838,2.92514129793814,-0.11935483870967752
+Daily maximum apparent temperature,daily,Abuja,Persistence baseline,11,NA,30,0.5900000000000001,0.7876124258373103,0.05
+Daily maximum apparent temperature,daily,Abuja,Persistence baseline,12,NA,30,1.113333333333333,1.3815450288234055,-0.1
+Daily maximum apparent temperature,daily,Abuja,Random forest,1,NA,31,0.8252963440860165,1.0118457604577205,-0.37929591397848905
+Daily maximum apparent temperature,daily,Abuja,Random forest,2,NA,28,1.0027402380952353,1.2362674419004813,-0.46589785714285725
+Daily maximum apparent temperature,daily,Abuja,Random forest,3,NA,31,0.9333658064516117,1.1122072046947467,-0.5807443010752642
+Daily maximum apparent temperature,daily,Abuja,Random forest,4,NA,30,1.3712548888888854,1.6269769600531219,-0.2994277777777832
+Daily maximum apparent temperature,daily,Abuja,Random forest,5,May,31,2.0318273118279517,2.5363405245064685,-0.06108967741934795
+Daily maximum apparent temperature,daily,Abuja,Random forest,6,NA,30,1.7346613333333305,2.303675965997405,0.3159888888888929
+Daily maximum apparent temperature,daily,Abuja,Random forest,7,NA,31,1.114058494623655,1.324001549422477,0.24557677419355667
+Daily maximum apparent temperature,daily,Abuja,Random forest,8,NA,31,1.1825531182795692,1.4784530318907043,-0.12047053763440592
+Daily maximum apparent temperature,daily,Abuja,Random forest,9,NA,30,1.9030477777777766,2.2889325901978017,0.16950911111111716
+Daily maximum apparent temperature,daily,Abuja,Random forest,10,NA,31,1.6778159139784976,2.1835108205471774,-0.2126305376344095
+Daily maximum apparent temperature,daily,Abuja,Random forest,11,NA,30,0.8177244444444445,0.9848807370596253,-0.5444955555555581
+Daily maximum apparent temperature,daily,Abuja,Random forest,12,NA,30,1.238694888888894,1.5118637217612558,-1.0807660000000086
+Daily maximum apparent temperature,daily,Ilorin,Multiple linear regression,1,NA,31,0.9727847863739654,1.2428440377334848,0.1772352210664605
+Daily maximum apparent temperature,daily,Ilorin,Multiple linear regression,2,NA,28,0.952782701706399,1.1948132637301443,0.2655371714220216
+Daily maximum apparent temperature,daily,Ilorin,Multiple linear regression,3,NA,31,0.8385663157941575,0.9861696612347455,-0.5678576679298433
+Daily maximum apparent temperature,daily,Ilorin,Multiple linear regression,4,NA,30,1.2524578065027383,1.5142201299548972,-0.6628168889583977
+Daily maximum apparent temperature,daily,Ilorin,Multiple linear regression,5,May,31,1.7306211404332477,2.5059695493908265,-0.15922154193225274
+Daily maximum apparent temperature,daily,Ilorin,Multiple linear regression,6,NA,30,2.04254322484838,2.731841814314042,0.19346655651921624
+Daily maximum apparent temperature,daily,Ilorin,Multiple linear regression,7,NA,31,1.5538620535791723,1.8400791240674494,0.6335048531405866
+Daily maximum apparent temperature,daily,Ilorin,Multiple linear regression,8,NA,31,1.3399284364758202,1.9273281002677793,0.6573775875470615
+Daily maximum apparent temperature,daily,Ilorin,Multiple linear regression,9,NA,30,1.7315136902058832,2.082216930465387,-0.0748187136979915
+Daily maximum apparent temperature,daily,Ilorin,Multiple linear regression,10,NA,31,1.7195331548142672,2.1360420692815305,-0.2932097426432512
+Daily maximum apparent temperature,daily,Ilorin,Multiple linear regression,11,NA,30,0.8203871524312284,0.964023673062971,-0.12763331352130816
+Daily maximum apparent temperature,daily,Ilorin,Multiple linear regression,12,NA,30,0.7987777333952703,1.049014238281437,0.5195629619350939
+Daily maximum apparent temperature,daily,Ilorin,Persistence baseline,1,NA,31,0.903225806451612,1.1045361017187254,-0.05161290322580627
+Daily maximum apparent temperature,daily,Ilorin,Persistence baseline,2,NA,28,1.0071428571428567,1.2786711852544412,-0.07142857142857142
+Daily maximum apparent temperature,daily,Ilorin,Persistence baseline,3,NA,31,0.7322580645161282,0.882628040606299,0.016129032258064516
+Daily maximum apparent temperature,daily,Ilorin,Persistence baseline,4,NA,30,1.5999999999999994,1.9207637369893602,0.03333333333333333
+Daily maximum apparent temperature,daily,Ilorin,Persistence baseline,5,May,31,2.1709677419354834,3.144221530404317,0.08064516129032258
+Daily maximum apparent temperature,daily,Ilorin,Persistence baseline,6,NA,30,2.9333333333333327,3.7314876389986873,0.05999999999999991
+Daily maximum apparent temperature,daily,Ilorin,Persistence baseline,7,NA,31,1.9580645161290318,2.455868547496108,0.07419354838709669
+Daily maximum apparent temperature,daily,Ilorin,Persistence baseline,8,NA,31,1.8548387096774193,2.3615877655072546,-0.016129032258064516
+Daily maximum apparent temperature,daily,Ilorin,Persistence baseline,9,NA,30,2.4866666666666677,2.7996428343629844,-0.039999999999999855
+Daily maximum apparent temperature,daily,Ilorin,Persistence baseline,10,NA,31,2.2129032258064503,2.8283130729658748,-0.1419354838709677
+Daily maximum apparent temperature,daily,Ilorin,Persistence baseline,11,NA,30,0.8499999999999993,1.0290772565750341,-0.036666666666666715
+Daily maximum apparent temperature,daily,Ilorin,Persistence baseline,12,NA,30,0.806666666666667,0.9986657765906137,0.039999999999999855
+Daily maximum apparent temperature,daily,Ilorin,Random forest,1,NA,31,0.9218251612903244,1.156788223600561,-0.3812720430107539
+Daily maximum apparent temperature,daily,Ilorin,Random forest,2,NA,28,0.9962597619047584,1.1931826390718772,-0.4355516666666647
+Daily maximum apparent temperature,daily,Ilorin,Random forest,3,NA,31,0.7564834408602114,0.9183660468259465,-0.3469290322580669
+Daily maximum apparent temperature,daily,Ilorin,Random forest,4,NA,30,1.3278226666666653,1.5603927008525973,-0.7957062222222245
+Daily maximum apparent temperature,daily,Ilorin,Random forest,5,May,31,2.0363670967741956,2.717719531059808,-0.4359894623655917
+Daily maximum apparent temperature,daily,Ilorin,Random forest,6,NA,30,2.2239977777777726,2.809914427653414,0.09947777777778247
+Daily maximum apparent temperature,daily,Ilorin,Random forest,7,NA,31,1.5266518279569856,1.8344621960364107,0.3827477419354866
+Daily maximum apparent temperature,daily,Ilorin,Random forest,8,NA,31,1.32898172043011,1.8999259763150562,0.3959098924731247
+Daily maximum apparent temperature,daily,Ilorin,Random forest,9,NA,30,1.8967191111111066,2.165592837390497,-0.34802711111111295
+Daily maximum apparent temperature,daily,Ilorin,Random forest,10,NA,31,1.7634744086021497,2.2012112490937596,-0.5642959139784989
+Daily maximum apparent temperature,daily,Ilorin,Random forest,11,NA,30,0.8979224444444479,1.1131384888869313,-0.6693606666666719
+Daily maximum apparent temperature,daily,Ilorin,Random forest,12,NA,30,0.6908133333333306,0.8895529702546567,-0.379085333333326
+Daily maximum apparent temperature,daily,Lagos,Multiple linear regression,1,NA,31,0.7463520253034271,1.030605661086099,0.1389693701439245
+Daily maximum apparent temperature,daily,Lagos,Multiple linear regression,2,NA,28,0.6538984803398404,0.8816113607715482,0.06608693553562846
+Daily maximum apparent temperature,daily,Lagos,Multiple linear regression,3,NA,31,0.6342274891459276,0.7594521092243255,-0.22260559711784936
+Daily maximum apparent temperature,daily,Lagos,Multiple linear regression,4,NA,30,0.6946399253303662,1.0426041784133653,0.10140626229972441
+Daily maximum apparent temperature,daily,Lagos,Multiple linear regression,5,May,31,1.3139811603588138,1.4953086541918554,-0.0649803840001247
+Daily maximum apparent temperature,daily,Lagos,Multiple linear regression,6,NA,30,0.9222157277632755,1.1938068710876701,0.2254298964881277
+Daily maximum apparent temperature,daily,Lagos,Multiple linear regression,7,NA,31,0.9097540550794095,1.141612866369056,0.36463855784970167
+Daily maximum apparent temperature,daily,Lagos,Multiple linear regression,8,NA,31,0.7732633839767298,0.9928430327849079,0.19421996580821657
+Daily maximum apparent temperature,daily,Lagos,Multiple linear regression,9,NA,30,1.016395394030538,1.2450783756961645,-0.08326429039967849
+Daily maximum apparent temperature,daily,Lagos,Multiple linear regression,10,NA,31,1.0212725350039709,1.344029634176438,9.951398694699636e-4
+Daily maximum apparent temperature,daily,Lagos,Multiple linear regression,11,NA,30,0.7342567938102573,0.9407216629075345,0.04919056631481856
+Daily maximum apparent temperature,daily,Lagos,Multiple linear regression,12,NA,30,0.9287907257864686,1.149295590552864,0.49610335474394346
+Daily maximum apparent temperature,daily,Lagos,Persistence baseline,1,NA,31,0.9774193548387096,1.2782296224630127,0.022580645161290415
+Daily maximum apparent temperature,daily,Lagos,Persistence baseline,2,NA,28,0.7821428571428578,1.0455688813819422,-0.046428571428571326
+Daily maximum apparent temperature,daily,Lagos,Persistence baseline,3,NA,31,0.5903225806451614,0.7977791755261766,0.06129032258064512
+Daily maximum apparent temperature,daily,Lagos,Persistence baseline,4,NA,30,1.0933333333333326,1.3875638123464205,-0.013333333333333286
+Daily maximum apparent temperature,daily,Lagos,Persistence baseline,5,May,31,1.7838709677419349,2.1794494717703365,0.035483870967741755
+Daily maximum apparent temperature,daily,Lagos,Persistence baseline,6,NA,30,1.4900000000000004,1.8260156990927905,0.10333333333333337
+Daily maximum apparent temperature,daily,Lagos,Persistence baseline,7,NA,31,0.9903225806451617,1.2817578655137847,0.08064516129032258
+Daily maximum apparent temperature,daily,Lagos,Persistence baseline,8,NA,31,0.9548387096774191,1.1528366137768677,-0.03225806451612903
+Daily maximum apparent temperature,daily,Lagos,Persistence baseline,9,NA,30,1.3466666666666667,1.6689317940926562,0
+Daily maximum apparent temperature,daily,Lagos,Persistence baseline,10,NA,31,1.4838709677419344,1.8555931144654556,-0.16774193548387084
+Daily maximum apparent temperature,daily,Lagos,Persistence baseline,11,NA,30,0.9933333333333337,1.3579396157414365,0.02666666666666657
+Daily maximum apparent temperature,daily,Lagos,Persistence baseline,12,NA,30,1.2566666666666675,1.4844752159152637,-0.07000000000000005
+Daily maximum apparent temperature,daily,Lagos,Random forest,1,NA,31,0.8615415053763414,1.0556356109661056,-0.16574408602150217
+Daily maximum apparent temperature,daily,Lagos,Random forest,2,NA,28,0.5956221428571459,0.8051152026874315,-0.2390478571428594
+Daily maximum apparent temperature,daily,Lagos,Random forest,3,NA,31,0.6147791397849484,0.732426412362967,-0.15462215053762615
+Daily maximum apparent temperature,daily,Lagos,Random forest,4,NA,30,0.7902713333333319,1.104520141371273,-0.03430866666666456
+Daily maximum apparent temperature,daily,Lagos,Random forest,5,May,31,1.3246750537634393,1.5463137965063716,-0.028339569892474006
+Daily maximum apparent temperature,daily,Lagos,Random forest,6,NA,30,1.020607777777778,1.279708107128487,0.23912288888889296
+Daily maximum apparent temperature,daily,Lagos,Random forest,7,NA,31,0.9178253763440813,1.1589823328850941,0.6028799999999956
+Daily maximum apparent temperature,daily,Lagos,Random forest,8,NA,31,0.9054402150537584,1.179460252356509,0.505004516129028
+Daily maximum apparent temperature,daily,Lagos,Random forest,9,NA,30,0.9725440000000045,1.177234251990345,-0.03208755555555752
+Daily maximum apparent temperature,daily,Lagos,Random forest,10,NA,31,1.0498556989247325,1.3299073435916773,0.02080580645161876
+Daily maximum apparent temperature,daily,Lagos,Random forest,11,NA,30,0.7735311111111131,1.0620149879768226,-0.056287111111116415
+Daily maximum apparent temperature,daily,Lagos,Random forest,12,NA,30,0.8525568888888903,1.0889330911812833,0.21465422222221994
+Daily maximum wet-bulb temperature,daily,Abuja,Multiple linear regression,1,NA,31,0.7639981182758003,0.945349640264398,-0.12266984710653032
+Daily maximum wet-bulb temperature,daily,Abuja,Multiple linear regression,2,NA,28,0.7951101214970828,1.063944610146737,-0.23773646556199615
+Daily maximum wet-bulb temperature,daily,Abuja,Multiple linear regression,3,NA,31,0.43983932833475076,0.5327664389265196,-0.07414644233867845
+Daily maximum wet-bulb temperature,daily,Abuja,Multiple linear regression,4,NA,30,0.40474189037835406,0.536228591358938,-0.024073472805955613
+Daily maximum wet-bulb temperature,daily,Abuja,Multiple linear regression,5,May,31,0.5958418392955265,0.7513700524269369,-0.12502712080557885
+Daily maximum wet-bulb temperature,daily,Abuja,Multiple linear regression,6,NA,30,0.7426073765096636,0.9327570519526489,0.08268876168028746
+Daily maximum wet-bulb temperature,daily,Abuja,Multiple linear regression,7,NA,31,0.36230706222000786,0.4388804046501854,0.03610973651650612
+Daily maximum wet-bulb temperature,daily,Abuja,Multiple linear regression,8,NA,31,0.4197761458881577,0.5004249834935481,0.09939090504529587
+Daily maximum wet-bulb temperature,daily,Abuja,Multiple linear regression,9,NA,30,0.6808394231429197,0.7852873414015846,0.0035690709905896512
+Daily maximum wet-bulb temperature,daily,Abuja,Multiple linear regression,10,NA,31,0.616660927144055,0.8369261480587014,0.005022179842240558
+Daily maximum wet-bulb temperature,daily,Abuja,Multiple linear regression,11,NA,30,0.6477888441274725,0.8675667259490087,0.05280530842980002
+Daily maximum wet-bulb temperature,daily,Abuja,Multiple linear regression,12,NA,30,0.8001609814105367,0.9154096022061522,-0.2488504163060675
+Daily maximum wet-bulb temperature,daily,Abuja,Persistence baseline,1,NA,31,0.9870967741935487,1.3600284627002621,0.019354838709677465
+Daily maximum wet-bulb temperature,daily,Abuja,Persistence baseline,2,NA,28,0.9000000000000002,1.0767013115463893,-0.10000000000000002
+Daily maximum wet-bulb temperature,daily,Abuja,Persistence baseline,3,NA,31,0.5290322580645158,0.6734600115053407,-0.06451612903225806
+Daily maximum wet-bulb temperature,daily,Abuja,Persistence baseline,4,NA,30,0.5333333333333333,0.676264248155507,0.013333333333333286
+Daily maximum wet-bulb temperature,daily,Abuja,Persistence baseline,5,May,31,0.7645161290322579,0.9633610518019873,-0.0032258064516128343
+Daily maximum wet-bulb temperature,daily,Abuja,Persistence baseline,6,NA,30,0.8300000000000002,1.072846680565308,0.08333333333333333
+Daily maximum wet-bulb temperature,daily,Abuja,Persistence baseline,7,NA,31,0.44516129032258067,0.6096006096009143,-0.006451612903225784
+Daily maximum wet-bulb temperature,daily,Abuja,Persistence baseline,8,NA,31,0.5225806451612904,0.6127673873238867,-0.0516129032258065
+Daily maximum wet-bulb temperature,daily,Abuja,Persistence baseline,9,NA,30,0.8599999999999995,0.9882644720249057,0.006666666666666643
+Daily maximum wet-bulb temperature,daily,Abuja,Persistence baseline,10,NA,31,0.7774193548387099,1.0642277224171957,0.003225806451612949
+Daily maximum wet-bulb temperature,daily,Abuja,Persistence baseline,11,NA,30,0.6199999999999998,0.9262828941527529,0.07999999999999995
+Daily maximum wet-bulb temperature,daily,Abuja,Persistence baseline,12,NA,30,0.8633333333333335,1.0653637876331261,-0.08333333333333333
+Daily maximum wet-bulb temperature,daily,Abuja,Random forest,1,NA,31,0.8358086021505373,1.0597448437624029,-0.4054292473118254
+Daily maximum wet-bulb temperature,daily,Abuja,Random forest,2,NA,28,0.9453857142857123,1.167724592409295,-0.505488095238093
+Daily maximum wet-bulb temperature,daily,Abuja,Random forest,3,NA,31,0.3950081720430149,0.478920344206245,-0.15694021505377093
+Daily maximum wet-bulb temperature,daily,Abuja,Random forest,4,NA,30,0.38240022222222325,0.5027085173721649,0.03328599999999575
+Daily maximum wet-bulb temperature,daily,Abuja,Random forest,5,May,31,0.609461075268819,0.7687624665180298,-0.139669247311824
+Daily maximum wet-bulb temperature,daily,Abuja,Random forest,6,NA,30,0.6485784444444425,0.8211601597063073,0.039334000000002096
+Daily maximum wet-bulb temperature,daily,Abuja,Random forest,7,NA,31,0.3953421505376329,0.4868561761453736,-0.04816924731183257
+Daily maximum wet-bulb temperature,daily,Abuja,Random forest,8,NA,31,0.3643926881720453,0.44267284837308585,-0.06480817204301158
+Daily maximum wet-bulb temperature,daily,Abuja,Random forest,9,NA,30,0.6689100000000019,0.774999481675336,0.07168244444444566
+Daily maximum wet-bulb temperature,daily,Abuja,Random forest,10,NA,31,0.5636251612903225,0.757884760072285,0.02697741935483864
+Daily maximum wet-bulb temperature,daily,Abuja,Random forest,11,NA,30,0.6514519999999994,0.854810143822721,0.043835555555557806
+Daily maximum wet-bulb temperature,daily,Abuja,Random forest,12,NA,30,0.9939002222222243,1.1862871513342557,-0.7508482222222229
+Daily maximum wet-bulb temperature,daily,Ilorin,Multiple linear regression,1,NA,31,1.0449098194675417,1.240205242369572,0.070699583395239185
+Daily maximum wet-bulb temperature,daily,Ilorin,Multiple linear regression,2,NA,28,1.061598709056478,1.4570162595989997,0.11237734338784008
+Daily maximum wet-bulb temperature,daily,Ilorin,Multiple linear regression,3,NA,31,0.32415784374578654,0.4687732523091336,-0.11500035254988208
+Daily maximum wet-bulb temperature,daily,Ilorin,Multiple linear regression,4,NA,30,0.3978946362374526,0.4988648228324747,-0.052634724482718435
+Daily maximum wet-bulb temperature,daily,Ilorin,Multiple linear regression,5,May,31,0.4957261272034974,0.6496035179040089,-0.010554065102618158
+Daily maximum wet-bulb temperature,daily,Ilorin,Multiple linear regression,6,NA,30,0.5045554483465741,0.767753676724011,0.15606937739166823
+Daily maximum wet-bulb temperature,daily,Ilorin,Multiple linear regression,7,NA,31,0.5233087882449973,0.6323134410180347,0.10385718613050775
+Daily maximum wet-bulb temperature,daily,Ilorin,Multiple linear regression,8,NA,31,0.38921178925987465,0.5557461846199312,0.18393378449293526
+Daily maximum wet-bulb temperature,daily,Ilorin,Multiple linear regression,9,NA,30,0.51957870724285,0.6375964454366038,-0.031341275220627435
+Daily maximum wet-bulb temperature,daily,Ilorin,Multiple linear regression,10,NA,31,0.4916336050167486,0.6124309288471798,0.009331316533797188
+Daily maximum wet-bulb temperature,daily,Ilorin,Multiple linear regression,11,NA,30,0.3358927430990241,0.39662483301332047,-0.007161399528068912
+Daily maximum wet-bulb temperature,daily,Ilorin,Multiple linear regression,12,NA,30,0.4022138459121687,0.5041160483928613,-0.07485232531582635
+Daily maximum wet-bulb temperature,daily,Ilorin,Persistence baseline,1,NA,31,1.1064516129032258,1.4461294280183374,-0.09354838709677427
+Daily maximum wet-bulb temperature,daily,Ilorin,Persistence baseline,2,NA,28,1.1857142857142855,1.6696877381286426,0.014285714285714362
+Daily maximum wet-bulb temperature,daily,Ilorin,Persistence baseline,3,NA,31,0.3806451612903223,0.513055363924414,-0.06451612903225806
+Daily maximum wet-bulb temperature,daily,Ilorin,Persistence baseline,4,NA,30,0.4666666666666669,0.6000000000000004,0.013333333333333286
+Daily maximum wet-bulb temperature,daily,Ilorin,Persistence baseline,5,May,31,0.6161290322580645,0.7969700686491182,-0.009677419354838733
+Daily maximum wet-bulb temperature,daily,Ilorin,Persistence baseline,6,NA,30,0.6333333333333336,0.8362615220930196,0.02666666666666669
+Daily maximum wet-bulb temperature,daily,Ilorin,Persistence baseline,7,NA,31,0.7258064516129032,0.8161672820311192,0.035483870967741984
+Daily maximum wet-bulb temperature,daily,Ilorin,Persistence baseline,8,NA,31,0.5290322580645159,0.6796583581998884,0.006451612903225784
+Daily maximum wet-bulb temperature,daily,Ilorin,Persistence baseline,9,NA,30,0.6400000000000001,0.7567474259399015,-0.02000000000000005
+Daily maximum wet-bulb temperature,daily,Ilorin,Persistence baseline,10,NA,31,0.6161290322580634,0.7613654965618268,-0.016129032258064516
+Daily maximum wet-bulb temperature,daily,Ilorin,Persistence baseline,11,NA,30,0.36000000000000015,0.4816637831516918,0.006666666666666762
+Daily maximum wet-bulb temperature,daily,Ilorin,Persistence baseline,12,NA,30,0.5066666666666666,0.6628222486710396,-0.013333333333333404
+Daily maximum wet-bulb temperature,daily,Ilorin,Random forest,1,NA,31,0.9217333333333294,1.123386325002605,-0.0948245161290333
+Daily maximum wet-bulb temperature,daily,Ilorin,Random forest,2,NA,28,0.9362723809523829,1.3836130393010249,0.041329047619047925
+Daily maximum wet-bulb temperature,daily,Ilorin,Random forest,3,NA,31,0.2994135483870962,0.4440896339131369,-0.12882946236559617
+Daily maximum wet-bulb temperature,daily,Ilorin,Random forest,4,NA,30,0.35207000000000016,0.45687486725295795,-0.07265622222222241
+Daily maximum wet-bulb temperature,daily,Ilorin,Random forest,5,May,31,0.6091679569892464,0.7422893195646728,-0.1739425806451594
+Daily maximum wet-bulb temperature,daily,Ilorin,Random forest,6,NA,30,0.5171966666666655,0.678072556291401,0.024410444444446
+Daily maximum wet-bulb temperature,daily,Ilorin,Random forest,7,NA,31,0.5191187096774209,0.6117883304251939,0.04223569892472916
+Daily maximum wet-bulb temperature,daily,Ilorin,Random forest,8,NA,31,0.4205879569892463,0.5870217871772636,0.14990451612902975
+Daily maximum wet-bulb temperature,daily,Ilorin,Random forest,9,NA,30,0.5420253333333327,0.636227603583404,-0.05379333333333195
+Daily maximum wet-bulb temperature,daily,Ilorin,Random forest,10,NA,31,0.4945522580645186,0.6365180170236348,-0.07589935483870758
+Daily maximum wet-bulb temperature,daily,Ilorin,Random forest,11,NA,30,0.3841577777777765,0.4764768268897887,-0.047802222222221975
+Daily maximum wet-bulb temperature,daily,Ilorin,Random forest,12,NA,30,0.5596015555555603,0.677729172314378,-0.3599908888888932
+Daily maximum wet-bulb temperature,daily,Lagos,Multiple linear regression,1,NA,31,0.2575525976102086,0.3331291562785731,0.0407063737250743
+Daily maximum wet-bulb temperature,daily,Lagos,Multiple linear regression,2,NA,28,0.22600868026568907,0.3001687682994094,0.0025722041548572605
+Daily maximum wet-bulb temperature,daily,Lagos,Multiple linear regression,3,NA,31,0.25750580474748197,0.3255524972839306,-0.2278189070252373
+Daily maximum wet-bulb temperature,daily,Lagos,Multiple linear regression,4,NA,30,0.3311173167375102,0.4273612219211281,-0.014426215651482959
+Daily maximum wet-bulb temperature,daily,Lagos,Multiple linear regression,5,May,31,0.44788642178173876,0.5343471108481125,0.06608625599954446
+Daily maximum wet-bulb temperature,daily,Lagos,Multiple linear regression,6,NA,30,0.3690571923904077,0.48882409421277817,0.1631800100407625
+Daily maximum wet-bulb temperature,daily,Lagos,Multiple linear regression,7,NA,31,0.26238444773538594,0.3125765022652192,0.1373617542197205
+Daily maximum wet-bulb temperature,daily,Lagos,Multiple linear regression,8,NA,31,0.2718924079923688,0.35697416397299847,0.21106996198929
+Daily maximum wet-bulb temperature,daily,Lagos,Multiple linear regression,9,NA,30,0.3235158719738704,0.4219316092024087,0.07008253697183235
+Daily maximum wet-bulb temperature,daily,Lagos,Multiple linear regression,10,NA,31,0.4004949965330172,0.5122333220769412,-0.012679356665071369
+Daily maximum wet-bulb temperature,daily,Lagos,Multiple linear regression,11,NA,30,0.26206503154561744,0.3344902479142824,-0.0396431524919881
+Daily maximum wet-bulb temperature,daily,Lagos,Multiple linear regression,12,NA,30,0.35901568019973973,0.43408055945905605,-0.03144442341541852
+Daily maximum wet-bulb temperature,daily,Lagos,Persistence baseline,1,NA,31,0.42903225806451567,0.5420986697474317,-0.0225806451612903
+Daily maximum wet-bulb temperature,daily,Lagos,Persistence baseline,2,NA,28,0.26785714285714246,0.3322004558352421,-0.024999999999999974
+Daily maximum wet-bulb temperature,daily,Lagos,Persistence baseline,3,NA,31,0.1967741935483869,0.2442896218729699,0.016129032258064516
+Daily maximum wet-bulb temperature,daily,Lagos,Persistence baseline,4,NA,30,0.3733333333333333,0.5085928299402843,0.019999999999999928
+Daily maximum wet-bulb temperature,daily,Lagos,Persistence baseline,5,May,31,0.4935483870967741,0.6234658590647565,-0.009677419354838618
+Daily maximum wet-bulb temperature,daily,Lagos,Persistence baseline,6,NA,30,0.4899999999999994,0.6177917664283542,0.04333333333333324
+Daily maximum wet-bulb temperature,daily,Lagos,Persistence baseline,7,NA,31,0.3032258064516124,0.37674325988790763,0.03870967741935493
+Daily maximum wet-bulb temperature,daily,Lagos,Persistence baseline,8,NA,31,0.2612903225806452,0.32478280583759667,0.009677419354838618
+Daily maximum wet-bulb temperature,daily,Lagos,Persistence baseline,9,NA,30,0.38333333333333336,0.4875106836436169,-0.029999999999999954
+Daily maximum wet-bulb temperature,daily,Lagos,Persistence baseline,10,NA,31,0.46451612903225825,0.6000000000000003,-0.06451612903225806
+Daily maximum wet-bulb temperature,daily,Lagos,Persistence baseline,11,NA,30,0.29999999999999954,0.4219004621945796,0
+Daily maximum wet-bulb temperature,daily,Lagos,Persistence baseline,12,NA,30,0.41666666666666713,0.5307227776030227,-0.016666666666666666
+Daily maximum wet-bulb temperature,daily,Lagos,Random forest,1,NA,31,0.2847797849462406,0.3618891840602445,-0.02170537634408227
+Daily maximum wet-bulb temperature,daily,Lagos,Random forest,2,NA,28,0.2501469047619039,0.30521449863885186,-0.013363095238086637
+Daily maximum wet-bulb temperature,daily,Lagos,Random forest,3,NA,31,0.186204086021503,0.24296370703206546,-0.15988279569891584
+Daily maximum wet-bulb temperature,daily,Lagos,Random forest,4,NA,30,0.3365486666666674,0.4165593722886149,-0.08627177777777414
+Daily maximum wet-bulb temperature,daily,Lagos,Random forest,5,May,31,0.40813999999999984,0.5064822617181411,-0.06272322580645599
+Daily maximum wet-bulb temperature,daily,Lagos,Random forest,6,NA,30,0.36092044444444354,0.4511114784782285,-0.019523555555559468
+Daily maximum wet-bulb temperature,daily,Lagos,Random forest,7,NA,31,0.25233333333333585,0.3090337834427852,0.11462580645161095
+Daily maximum wet-bulb temperature,daily,Lagos,Random forest,8,NA,31,0.2532116129032231,0.31353832311252094,0.1319354838709636
+Daily maximum wet-bulb temperature,daily,Lagos,Random forest,9,NA,30,0.3261077777777774,0.3811420739382174,-0.09020199999999695
+Daily maximum wet-bulb temperature,daily,Lagos,Random forest,10,NA,31,0.4223199999999981,0.4959833488388969,-0.1562417204301077
+Daily maximum wet-bulb temperature,daily,Lagos,Random forest,11,NA,30,0.2860515555555543,0.3575052532905937,-0.17641777777777523
+Daily maximum wet-bulb temperature,daily,Lagos,Random forest,12,NA,30,0.3657002222222209,0.44248177228496677,-0.10093844444443564
+Hourly air temperature,hourly,Abuja,Multiple linear regression,1,NA,744,0.7200205945727935,0.990650969504849,-3.2592397709903947e-4
+Hourly air temperature,hourly,Abuja,Multiple linear regression,2,NA,672,0.6669577923739687,0.9273299928487714,-0.051494736681580326
+Hourly air temperature,hourly,Abuja,Multiple linear regression,3,NA,744,0.6177171615547887,0.8159623380152399,-0.09212149607182195
+Hourly air temperature,hourly,Abuja,Multiple linear regression,4,NA,720,0.5813815064323602,0.8053928048717294,-0.03735816946073209
+Hourly air temperature,hourly,Abuja,Multiple linear regression,5,May,744,0.5446237979831854,0.7739643677690567,-0.005006491690976819
+Hourly air temperature,hourly,Abuja,Multiple linear regression,6,NA,720,0.4304216251594751,0.5763425891674883,0.035055764509135286
+Hourly air temperature,hourly,Abuja,Multiple linear regression,7,NA,744,0.42847841666321207,0.6037226897400876,0.07429362443607739
+Hourly air temperature,hourly,Abuja,Multiple linear regression,8,NA,744,0.3927749947335706,0.5412170030672103,0.06930051012459948
+Hourly air temperature,hourly,Abuja,Multiple linear regression,9,NA,720,0.4352665720505145,0.5954833501811059,0.0401405907758492
+Hourly air temperature,hourly,Abuja,Multiple linear regression,10,NA,744,0.4764066114238042,0.6479193493176277,0.04725175604203049
+Hourly air temperature,hourly,Abuja,Multiple linear regression,11,NA,720,0.6516029872345867,0.8786194550928498,-0.008637828163758608
+Hourly air temperature,hourly,Abuja,Multiple linear regression,12,NA,743,0.6773688196649105,0.9336110825579923,-0.009728602083955313
+Hourly air temperature,hourly,Abuja,Persistence baseline,1,NA,744,1.2081989247311828,1.6982320028440963,-1.3440860215053468e-4
+Hourly air temperature,hourly,Abuja,Persistence baseline,2,NA,672,1.15625,1.5957719433672517,-0.006845238095238098
+Hourly air temperature,hourly,Abuja,Persistence baseline,3,NA,744,0.9978494623655914,1.3004445063048613,-0.001075268817204302
+Hourly air temperature,hourly,Abuja,Persistence baseline,4,NA,720,0.8575,1.166059365746206,0.005277777777777779
+Hourly air temperature,hourly,Abuja,Persistence baseline,5,May,744,0.7405913978494624,1.0292104709671328,-0.0032258064516129015
+Hourly air temperature,hourly,Abuja,Persistence baseline,6,NA,720,0.6556944444444445,0.8675396244552752,0.004583333333333334
+Hourly air temperature,hourly,Abuja,Persistence baseline,7,NA,744,0.5029569892473118,0.7422357970986199,0.002150537634408599
+Hourly air temperature,hourly,Abuja,Persistence baseline,8,NA,744,0.4556451612903225,0.640501315754988,-0.0013440860215053762
+Hourly air temperature,hourly,Abuja,Persistence baseline,9,NA,720,0.5948611111111112,0.8415676509414506,4.1666666666666767e-4
+Hourly air temperature,hourly,Abuja,Persistence baseline,10,NA,744,0.7212365591397849,0.9831237246982274,-0.0016129032258064507
+Hourly air temperature,hourly,Abuja,Persistence baseline,11,NA,720,1.1180555555555556,1.4875875324385677,0.0013888888888888887
+Hourly air temperature,hourly,Abuja,Persistence baseline,12,NA,743,1.117900403768506,1.5185262388542482,-0.004845222072678333
+Hourly air temperature,hourly,Abuja,Random forest,1,NA,744,0.5830737724014337,0.8007112252161552,-0.06214567204300955
+Hourly air temperature,hourly,Abuja,Random forest,2,NA,672,0.568060654761905,0.7845811320387398,-0.0037671825396825196
+Hourly air temperature,hourly,Abuja,Random forest,3,NA,744,0.5688308512544799,0.7408715204256652,-0.1811496863799292
+Hourly air temperature,hourly,Abuja,Random forest,4,NA,720,0.5238705648148146,0.7340616619288637,-0.06218686111111145
+Hourly air temperature,hourly,Abuja,Random forest,5,May,744,0.487266442652329,0.7068901918691974,-0.06411905913978412
+Hourly air temperature,hourly,Abuja,Random forest,6,NA,720,0.39822624074074014,0.548484277675338,-0.035855111111110054
+Hourly air temperature,hourly,Abuja,Random forest,7,NA,744,0.37081926523297437,0.5211484513105118,0.026715913978494512
+Hourly air temperature,hourly,Abuja,Random forest,8,NA,744,0.33536715053763466,0.4601132160392212,0.07748813620071701
+Hourly air temperature,hourly,Abuja,Random forest,9,NA,720,0.3779210648148147,0.5389495548728033,0.049871361111111234
+Hourly air temperature,hourly,Abuja,Random forest,10,NA,744,0.3976893817204303,0.5493192579502544,0.058504901433691345
+Hourly air temperature,hourly,Abuja,Random forest,11,NA,720,0.5457972129629642,0.7328215408871463,-0.032570101851852086
+Hourly air temperature,hourly,Abuja,Random forest,12,NA,743,0.5802041004934951,0.7957384903961553,-0.15726294302377763
+Hourly air temperature,hourly,Ilorin,Multiple linear regression,1,NA,744,0.7455524276227657,0.9907163443129112,0.017820950406604967
+Hourly air temperature,hourly,Ilorin,Multiple linear regression,2,NA,672,0.6985221955481891,0.961277360038873,-0.009169764937072137
+Hourly air temperature,hourly,Ilorin,Multiple linear regression,3,NA,744,0.6571091131583536,0.8272597926651544,-0.02225675213522751
+Hourly air temperature,hourly,Ilorin,Multiple linear regression,4,NA,720,0.6225160443490796,0.8803769223892851,0.014869885086190074
+Hourly air temperature,hourly,Ilorin,Multiple linear regression,5,May,744,0.5714254906067118,0.7714500111292402,0.024100190113442645
+Hourly air temperature,hourly,Ilorin,Multiple linear regression,6,NA,720,0.48710204099813964,0.6623477323324186,0.04258989204050748
+Hourly air temperature,hourly,Ilorin,Multiple linear regression,7,NA,744,0.3998399699240159,0.5740315833108985,0.053248835519297544
+Hourly air temperature,hourly,Ilorin,Multiple linear regression,8,NA,744,0.37373265835950065,0.5101767322009116,0.04920597943860587
+Hourly air temperature,hourly,Ilorin,Multiple linear regression,9,NA,720,0.4427543881143753,0.6258862478969877,0.023592228272761556
+Hourly air temperature,hourly,Ilorin,Multiple linear regression,10,NA,744,0.4689629182969024,0.6295360941150496,0.040995629225469475
+Hourly air temperature,hourly,Ilorin,Multiple linear regression,11,NA,720,0.5243102583720063,0.6677289458963478,-0.027311874192530693
+Hourly air temperature,hourly,Ilorin,Multiple linear regression,12,NA,743,0.5697324341053295,0.7635152190584379,-0.018836225921833857
+Hourly air temperature,hourly,Ilorin,Persistence baseline,1,NA,744,1.286290322580645,1.7307388564561992,2.6881720430107424e-4
+Hourly air temperature,hourly,Ilorin,Persistence baseline,2,NA,672,1.175595238095238,1.6476082954507405,-0.0011904761904761917
+Hourly air temperature,hourly,Ilorin,Persistence baseline,3,NA,744,1.10497311827957,1.4815577750665732,-6.720430107526881e-4
+Hourly air temperature,hourly,Ilorin,Persistence baseline,4,NA,720,1.0059722222222223,1.4242688182596244,0.0029166666666666685
+Hourly air temperature,hourly,Ilorin,Persistence baseline,5,May,744,0.850268817204301,1.179689224612426,-0.002956989247311827
+Hourly air temperature,hourly,Ilorin,Persistence baseline,6,NA,720,0.7175,1.0149849478905806,0.002777777777777778
+Hourly air temperature,hourly,Ilorin,Persistence baseline,7,NA,744,0.5387096774193548,0.8027506475553524,0.0026881720430107525
+Hourly air temperature,hourly,Ilorin,Persistence baseline,8,NA,744,0.5094086021505376,0.7137098292934654,-2.688172043010791e-4
+Hourly air temperature,hourly,Ilorin,Persistence baseline,9,NA,720,0.6477777777777778,0.9349836599879404,-0.0016666666666666657
+Hourly air temperature,hourly,Ilorin,Persistence baseline,10,NA,744,0.7653225806451613,1.0821623116784305,-2.688172043010743e-4
+Hourly air temperature,hourly,Ilorin,Persistence baseline,11,NA,720,1.0355555555555556,1.385710808373971,2.7777777777777675e-4
+Hourly air temperature,hourly,Ilorin,Persistence baseline,12,NA,743,1.0386271870794077,1.432618474380369,-0.0033647375504710633
+Hourly air temperature,hourly,Ilorin,Random forest,1,NA,744,0.4614190053763441,0.6014898831161658,-0.002703324372760456
+Hourly air temperature,hourly,Ilorin,Random forest,2,NA,672,0.5011119146825391,0.6989375263244653,-0.07439217261904821
+Hourly air temperature,hourly,Ilorin,Random forest,3,NA,744,0.44239945340501735,0.6103510048609949,-0.03239782258064584
+Hourly air temperature,hourly,Ilorin,Random forest,4,NA,720,0.46688476851851834,0.7374907959141496,-0.009082101851851852
+Hourly air temperature,hourly,Ilorin,Random forest,5,May,744,0.466045940860215,0.6665701111761918,-0.008486460573476733
+Hourly air temperature,hourly,Ilorin,Random forest,6,NA,720,0.4305767962962965,0.60939932798121,0.01078666666666612
+Hourly air temperature,hourly,Ilorin,Random forest,7,NA,744,0.32844010752688224,0.48079922344839343,0.04796010752688324
+Hourly air temperature,hourly,Ilorin,Random forest,8,NA,744,0.3041852598566305,0.4255231451677063,0.06591844982078876
+Hourly air temperature,hourly,Ilorin,Random forest,9,NA,720,0.3643296574074076,0.5288609136560841,1.9636111111174503e-4
+Hourly air temperature,hourly,Ilorin,Random forest,10,NA,744,0.3930762813620072,0.5340226719383222,0.006115439068100548
+Hourly air temperature,hourly,Ilorin,Random forest,11,NA,720,0.4179245740740749,0.5518788353784215,-0.07275283333333404
+Hourly air temperature,hourly,Ilorin,Random forest,12,NA,743,0.5165068461193363,0.7135109716030976,-0.24226939434724348
+Hourly air temperature,hourly,Lagos,Multiple linear regression,1,NA,744,0.3603819449304965,0.47619531341729643,0.03477479015222878
+Hourly air temperature,hourly,Lagos,Multiple linear regression,2,NA,672,0.3598681479685706,0.4705560198868287,0.05593571861220346
+Hourly air temperature,hourly,Lagos,Multiple linear regression,3,NA,744,0.36352247180906505,0.4830889543255591,0.049631254171891466
+Hourly air temperature,hourly,Lagos,Multiple linear regression,4,NA,720,0.3560200183800874,0.49214160267132634,0.045312010441826985
+Hourly air temperature,hourly,Lagos,Multiple linear regression,5,May,744,0.38615353858370294,0.5000206445291329,0.01848308683499204
+Hourly air temperature,hourly,Lagos,Multiple linear regression,6,NA,720,0.39470501060052804,0.538132336369013,0.017616977592895842
+Hourly air temperature,hourly,Lagos,Multiple linear regression,7,NA,744,0.3402374674078451,0.44803800046414816,0.015173797457172507
+Hourly air temperature,hourly,Lagos,Multiple linear regression,8,NA,744,0.32106092535812464,0.4147770641723929,0.023629095395612004
+Hourly air temperature,hourly,Lagos,Multiple linear regression,9,NA,720,0.33378858457623894,0.43491191443403565,-0.012584681136234652
+Hourly air temperature,hourly,Lagos,Multiple linear regression,10,NA,744,0.3370900807977911,0.44712445499088377,0.007636855253875469
+Hourly air temperature,hourly,Lagos,Multiple linear regression,11,NA,720,0.30273438720726,0.39381637393733804,0.02201156501112847
+Hourly air temperature,hourly,Lagos,Multiple linear regression,12,NA,743,0.33130614090070487,0.4329952122027724,0.0706263896629827
+Hourly air temperature,hourly,Lagos,Persistence baseline,1,NA,744,0.4213709677419355,0.6299321520045094,-4.032258064516138e-4
+Hourly air temperature,hourly,Lagos,Persistence baseline,2,NA,672,0.353125,0.5423027400859799,-4.464285714285725e-4
+Hourly air temperature,hourly,Lagos,Persistence baseline,3,NA,744,0.34112903225806446,0.5217320203660771,0
+Hourly air temperature,hourly,Lagos,Persistence baseline,4,NA,720,0.3520833333333333,0.52589870169496,1.3888888888889087e-4
+Hourly air temperature,hourly,Lagos,Persistence baseline,5,May,744,0.34274193548387094,0.5003224766539689,0
+Hourly air temperature,hourly,Lagos,Persistence baseline,6,NA,720,0.34541666666666665,0.49299256248615625,0.0029166666666666638
+Hourly air temperature,hourly,Lagos,Persistence baseline,7,NA,744,0.23400537634408602,0.3550518665730252,0.0012096774193548416
+Hourly air temperature,hourly,Lagos,Persistence baseline,8,NA,744,0.2137096774193548,0.3158450007774842,0.0010752688172042972
+Hourly air temperature,hourly,Lagos,Persistence baseline,9,NA,720,0.27652777777777776,0.3926936889400355,-0.0029166666666666638
+Hourly air temperature,hourly,Lagos,Persistence baseline,10,NA,744,0.3237903225806451,0.4508206376285673,-9.408602150537625e-4
+Hourly air temperature,hourly,Lagos,Persistence baseline,11,NA,720,0.3294444444444444,0.4660412475784138,-5.555555555555585e-4
+Hourly air temperature,hourly,Lagos,Persistence baseline,12,NA,743,0.3253028263795424,0.46403636094593503,-4.0376850605652854e-4
+Hourly air temperature,hourly,Lagos,Random forest,1,NA,744,0.2384536021505372,0.31808090108775466,-0.01261840501792217
+Hourly air temperature,hourly,Lagos,Random forest,2,NA,672,0.21660777777777845,0.2947119407248716,-0.0287898611111111
+Hourly air temperature,hourly,Lagos,Random forest,3,NA,744,0.24315570788530488,0.32903292046904586,-0.05533979390681292
+Hourly air temperature,hourly,Lagos,Random forest,4,NA,720,0.2755924166666667,0.38505715364863413,-0.02515636111111285
+Hourly air temperature,hourly,Lagos,Random forest,5,May,744,0.280688360215054,0.39434762676378526,-0.018161299283154467
+Hourly air temperature,hourly,Lagos,Random forest,6,NA,720,0.29724721296296275,0.4088041851861856,0.009810842592593754
+Hourly air temperature,hourly,Lagos,Random forest,7,NA,744,0.19738112903225807,0.27386339433642337,0.023311200716845743
+Hourly air temperature,hourly,Lagos,Random forest,8,NA,744,0.18292870071684628,0.27217969690772575,0.08612610215053663
+Hourly air temperature,hourly,Lagos,Random forest,9,NA,720,0.2055538055555555,0.28150161103271215,0.01736358333333327
+Hourly air temperature,hourly,Lagos,Random forest,10,NA,744,0.2522139964157709,0.34515995803307026,0.018290645161291037
+Hourly air temperature,hourly,Lagos,Random forest,11,NA,720,0.24359757407407406,0.32817879367582303,0.008241037037038223
+Hourly air temperature,hourly,Lagos,Random forest,12,NA,743,0.23532246747420324,0.3035706516367933,-0.015904970838940248
+Hourly apparent temperature,hourly,Abuja,Multiple linear regression,1,NA,744,0.794674521318138,1.1020063141895735,0.04115261157276629
+Hourly apparent temperature,hourly,Abuja,Multiple linear regression,2,NA,672,0.7664727652187692,1.0378356642708737,0.009289622925098284
+Hourly apparent temperature,hourly,Abuja,Multiple linear regression,3,NA,744,0.7308225864640958,0.9381847295679275,-0.07813920069037258
+Hourly apparent temperature,hourly,Abuja,Multiple linear regression,4,NA,720,0.7341049214967703,0.9803732310828187,-0.03885899595505217
+Hourly apparent temperature,hourly,Abuja,Multiple linear regression,5,May,744,0.6933506174866072,0.97145043796744035,-0.022411877872719126
+Hourly apparent temperature,hourly,Abuja,Multiple linear regression,6,NA,720,0.5675659031073162,0.7532425004979695,0.02489639556308539
+Hourly apparent temperature,hourly,Abuja,Multiple linear regression,7,NA,744,0.5350303658461605,0.7459343031651593,0.10165914987242897
+Hourly apparent temperature,hourly,Abuja,Multiple linear regression,8,NA,744,0.511747668764033,0.6977771157515082,0.0988195742370887
+Hourly apparent temperature,hourly,Abuja,Multiple linear regression,9,NA,720,0.5785942383200724,0.7910126372043085,0.01794249674149342
+Hourly apparent temperature,hourly,Abuja,Multiple linear regression,10,NA,744,0.6315319916523345,0.8560440339083558,0.01951457971520541
+Hourly apparent temperature,hourly,Abuja,Multiple linear regression,11,NA,720,0.7156482782042694,0.9868679925533882,0.009153678160538792
+Hourly apparent temperature,hourly,Abuja,Multiple linear regression,12,NA,743,0.8118017285294357,1.1146410812488017,0.038343211457268156
+Hourly apparent temperature,hourly,Abuja,Persistence baseline,1,NA,744,1.4643817204301075,1.989235142363241,-0.0014784946236559159
+Hourly apparent temperature,hourly,Abuja,Persistence baseline,2,NA,672,1.393154761904762,1.8892710864498081,-0.005357142857142854
+Hourly apparent temperature,hourly,Abuja,Persistence baseline,3,NA,744,1.1125,1.472138193314423,-0.007123655913978496
+Hourly apparent temperature,hourly,Abuja,Persistence baseline,4,NA,720,0.9875,1.383363453487349,0.005833333333333333
+Hourly apparent temperature,hourly,Abuja,Persistence baseline,5,May,744,0.8903225806451613,1.2649854434115086,-0.006451612903225807
+Hourly apparent temperature,hourly,Abuja,Persistence baseline,6,NA,720,0.7504166666666666,1.0378061797207927,0.005694444444444446
+Hourly apparent temperature,hourly,Abuja,Persistence baseline,7,NA,744,0.580510752688172,0.8498813958999067,0.002553763440860213
+Hourly apparent temperature,hourly,Abuja,Persistence baseline,8,NA,744,0.5493279569892474,0.7734071386731168,-0.001478494623655911
+Hourly apparent temperature,hourly,Abuja,Persistence baseline,9,NA,720,0.7163888888888889,1.0317191693694774,2.7777777777777675e-4
+Hourly apparent temperature,hourly,Abuja,Persistence baseline,10,NA,744,0.8873655913978494,1.2294329491046212,0
+Hourly apparent temperature,hourly,Abuja,Persistence baseline,11,NA,720,1.21125,1.6348080077557188,0.004305555555555557
+Hourly apparent temperature,hourly,Abuja,Persistence baseline,12,NA,743,1.289636608344549,1.7666797869782067,-0.005921938088829074
+Hourly apparent temperature,hourly,Abuja,Random forest,1,NA,744,0.6064754390681002,0.8262731491335246,-0.0699737186379929
+Hourly apparent temperature,hourly,Abuja,Random forest,2,NA,672,0.6517792956349208,0.8721514437390283,-0.10240506944444501
+Hourly apparent temperature,hourly,Abuja,Random forest,3,NA,744,0.6536117114695348,0.8488787929611911,-0.2083140770609335
+Hourly apparent temperature,hourly,Abuja,Random forest,4,NA,720,0.6478475277777775,0.8720434350592512,-0.14098460185185221
+Hourly apparent temperature,hourly,Abuja,Random forest,5,May,744,0.6332024999999999,0.9066687916344287,-0.0810488261648749
+Hourly apparent temperature,hourly,Abuja,Random forest,6,NA,720,0.5218865833333337,0.7171501726737489,-0.03687232407407403
+Hourly apparent temperature,hourly,Abuja,Random forest,7,NA,744,0.46502276881720356,0.6367069182419928,0.010362750896057276
+Hourly apparent temperature,hourly,Abuja,Random forest,8,NA,744,0.43857363799283144,0.6054078596465887,0.06643797491039423
+Hourly apparent temperature,hourly,Abuja,Random forest,9,NA,720,0.5134071574074076,0.7310856673689377,0.03562162037037143
+Hourly apparent temperature,hourly,Abuja,Random forest,10,NA,744,0.5583482347670252,0.7545003358827963,0.053589507168458624
+Hourly apparent temperature,hourly,Abuja,Random forest,11,NA,720,0.6413454629629621,0.8710521669210043,-0.09476553703703727
+Hourly apparent temperature,hourly,Abuja,Random forest,12,NA,743,0.7222143831314491,0.9736205706157129,-0.2543519336025129
+Hourly apparent temperature,hourly,Ilorin,Multiple linear regression,1,NA,744,0.8170730189399976,1.0967637681308307,0.0456819686419683
+Hourly apparent temperature,hourly,Ilorin,Multiple linear regression,2,NA,672,0.8103507950660082,1.0816432756680263,0.022383823493911225
+Hourly apparent temperature,hourly,Ilorin,Multiple linear regression,3,NA,744,0.7765343722487312,0.9805974788285031,-0.024712037871534195
+Hourly apparent temperature,hourly,Ilorin,Multiple linear regression,4,NA,720,0.7478027147169967,1.0133095187233234,0.01933484179680551
+Hourly apparent temperature,hourly,Ilorin,Multiple linear regression,5,May,744,0.7095531790451872,0.9369975194324422,0.017423136030415964
+Hourly apparent temperature,hourly,Ilorin,Multiple linear regression,6,NA,720,0.6228028489016165,0.8380295432296253,0.055645434937437455
+Hourly apparent temperature,hourly,Ilorin,Multiple linear regression,7,NA,744,0.49789026663080527,0.6942066781263816,0.10292975549282496
+Hourly apparent temperature,hourly,Ilorin,Multiple linear regression,8,NA,744,0.44640426106889675,0.593653444546468,0.10222967768120791
+Hourly apparent temperature,hourly,Ilorin,Multiple linear regression,9,NA,720,0.5579173012061303,0.7639261716227801,0.030980622593403423
+Hourly apparent temperature,hourly,Ilorin,Multiple linear regression,10,NA,744,0.6335348452734549,0.8408714780635242,0.027215814006439642
+Hourly apparent temperature,hourly,Ilorin,Multiple linear regression,11,NA,720,0.600460252446989,0.7841267257707583,-0.009730432988509301
+Hourly apparent temperature,hourly,Ilorin,Multiple linear regression,12,NA,743,0.7124495391609108,0.9359513783253907,0.02352281082393483
+Hourly apparent temperature,hourly,Ilorin,Persistence baseline,1,NA,744,1.3579301075268817,1.84901528573501,6.720430107526881e-4
+Hourly apparent temperature,hourly,Ilorin,Persistence baseline,2,NA,672,1.2360119047619047,1.6965037577323547,-0.008928571428571428
+Hourly apparent temperature,hourly,Ilorin,Persistence baseline,3,NA,744,1.1763440860215053,1.6370130811807795,-5.376344086021486e-4
+Hourly apparent temperature,hourly,Ilorin,Persistence baseline,4,NA,720,1.1275,1.6279161867587384,0.003611111111111108
+Hourly apparent temperature,hourly,Ilorin,Persistence baseline,5,May,744,0.9802419354838711,1.3935672103965684,-0.004704301075268812
+Hourly apparent temperature,hourly,Ilorin,Persistence baseline,6,NA,720,0.8505555555555555,1.2209172326119773,0.0047222222222222205
+Hourly apparent temperature,hourly,Ilorin,Persistence baseline,7,NA,744,0.6466397849462365,0.9591312713591006,0.002553763440860213
+Hourly apparent temperature,hourly,Ilorin,Persistence baseline,8,NA,744,0.5877688172043012,0.8264690407201091,1.3440860215053959e-4
+Hourly apparent temperature,hourly,Ilorin,Persistence baseline,9,NA,720,0.7969444444444445,1.134252078586492,-0.003333333333333336
+Hourly apparent temperature,hourly,Ilorin,Persistence baseline,10,NA,744,0.9469086021505376,1.3607250202172227,-6.720430107526881e-4
+Hourly apparent temperature,hourly,Ilorin,Persistence baseline,11,NA,720,1.0544444444444445,1.4339727256045625,0.00388888888888889
+Hourly apparent temperature,hourly,Ilorin,Persistence baseline,12,NA,743,1.0597577388963662,1.4603139469606365,-5.383580080753681e-4
+Hourly apparent temperature,hourly,Ilorin,Random forest,1,NA,744,0.5304035215053768,0.7028301546487407,-0.02741110215053721
+Hourly apparent temperature,hourly,Ilorin,Random forest,2,NA,672,0.5999456051587302,0.8180315614343446,-0.11248243055555567
+Hourly apparent temperature,hourly,Ilorin,Random forest,3,NA,744,0.5380749014336919,0.7093972665454376,-0.07523706989247264
+Hourly apparent temperature,hourly,Ilorin,Random forest,4,NA,720,0.5796690648148146,0.8389790940317194,-0.03822325000000036
+Hourly apparent temperature,hourly,Ilorin,Random forest,5,May,744,0.5559747222222224,0.7955152334905177,-0.0018122849462371708
+Hourly apparent temperature,hourly,Ilorin,Random forest,6,NA,720,0.5439035370370378,0.7599510922322168,0.04035662962963045
+Hourly apparent temperature,hourly,Ilorin,Random forest,7,NA,744,0.4350124372759859,0.6197851477233631,0.11921756272401485
+Hourly apparent temperature,hourly,Ilorin,Random forest,8,NA,744,0.4013451881720424,0.5499667871991564,0.11862936379928223
+Hourly apparent temperature,hourly,Ilorin,Random forest,9,NA,720,0.47707287037037005,0.6702505099351993,0.002002388888888282
+Hourly apparent temperature,hourly,Ilorin,Random forest,10,NA,744,0.5230959139784948,0.7261403188141577,0.00800304659498139
+Hourly apparent temperature,hourly,Ilorin,Random forest,11,NA,720,0.529408055555556,0.6863753595660205,-0.10464988888889037
+Hourly apparent temperature,hourly,Ilorin,Random forest,12,NA,743,0.5973540331987438,0.7820091096141306,-0.237689304620905
+Hourly apparent temperature,hourly,Lagos,Multiple linear regression,1,NA,744,0.4501574346036192,0.6069635880999814,0.031839422276833645
+Hourly apparent temperature,hourly,Lagos,Multiple linear regression,2,NA,672,0.4342023610807984,0.5750085792729756,0.05066847196907794
+Hourly apparent temperature,hourly,Lagos,Multiple linear regression,3,NA,744,0.44595305955721587,0.617272083716631,0.03732005849032539
+Hourly apparent temperature,hourly,Lagos,Multiple linear regression,4,NA,720,0.47723849559455384,0.6595968952949434,0.0413240774075465
+Hourly apparent temperature,hourly,Lagos,Multiple linear regression,5,May,744,0.5049982514151194,0.6709212618838961,0.007903075416671002
+Hourly apparent temperature,hourly,Lagos,Multiple linear regression,6,NA,720,0.523985681690104,0.7284684148185291,0.030867657911712875
+Hourly apparent temperature,hourly,Lagos,Multiple linear regression,7,NA,744,0.4475122741381549,0.6111927697232972,0.07325192523702073
+Hourly apparent temperature,hourly,Lagos,Multiple linear regression,8,NA,744,0.40046705342900657,0.5588076419596305,0.09311827973530093
+Hourly apparent temperature,hourly,Lagos,Multiple linear regression,9,NA,720,0.4235415958845181,0.5891172796339641,0.024745848989581976
+Hourly apparent temperature,hourly,Lagos,Multiple linear regression,10,NA,744,0.4527153584318113,0.6235283910764364,0.03464635796889544
+Hourly apparent temperature,hourly,Lagos,Multiple linear regression,11,NA,720,0.39235601165689904,0.5487447244874529,0.04944143121716425
+Hourly apparent temperature,hourly,Lagos,Multiple linear regression,12,NA,743,0.41182429433405854,0.5604100602110019,0.1093801349554505
+Hourly apparent temperature,hourly,Lagos,Persistence baseline,1,NA,744,0.5780913978494624,0.806900681420842,-4.0322580645161865e-4
+Hourly apparent temperature,hourly,Lagos,Persistence baseline,2,NA,672,0.5186011904761905,0.7415897498906366,-0.0010416666666666604
+Hourly apparent temperature,hourly,Lagos,Persistence baseline,3,NA,744,0.5064516129032257,0.7662750285340367,0.002150537634408604
+Hourly apparent temperature,hourly,Lagos,Persistence baseline,4,NA,720,0.5108333333333334,0.7450764315752371,-0.0019444444444444524
+Hourly apparent temperature,hourly,Lagos,Persistence baseline,5,May,744,0.49905913978494615,0.7263937289530834,9.408602150537673e-4
+Hourly apparent temperature,hourly,Lagos,Persistence baseline,6,NA,720,0.4822222222222222,0.682295960546285,0.004444444444444444
+Hourly apparent temperature,hourly,Lagos,Persistence baseline,7,NA,744,0.31088709677419346,0.46052506265493665,0.0012096774193548416
+Hourly apparent temperature,hourly,Lagos,Persistence baseline,8,NA,744,0.293010752688172,0.43672165786873096,0.0013440860215053765
+Hourly apparent temperature,hourly,Lagos,Persistence baseline,9,NA,720,0.3884722222222223,0.5670219474490286,-0.004305555555555557
+Hourly apparent temperature,hourly,Lagos,Persistence baseline,10,NA,744,0.47486559139784945,0.6689845458459,-0.0014784946236559159
+Hourly apparent temperature,hourly,Lagos,Persistence baseline,11,NA,720,0.5086111111111111,0.7218417801399111,-5.555555555555536e-4
+Hourly apparent temperature,hourly,Lagos,Persistence baseline,12,NA,743,0.45827725437415884,0.6379539130335182,1.3458950201884445e-4
+Hourly apparent temperature,hourly,Lagos,Random forest,1,NA,744,0.36679276881720346,0.49596562251569704,0.013071227598566843
+Hourly apparent temperature,hourly,Lagos,Random forest,2,NA,672,0.336287043650794,0.4568168115664771,-0.014809940476191013
+Hourly apparent temperature,hourly,Lagos,Random forest,3,NA,744,0.35226793906810044,0.49717755146527154,0.021771899641575124
+Hourly apparent temperature,hourly,Lagos,Random forest,4,NA,720,0.41136713888888915,0.5631150749782119,0.004787009259256624
+Hourly apparent temperature,hourly,Lagos,Random forest,5,May,744,0.41101022401433746,0.5863198452722166,-0.03186475806451651
+Hourly apparent temperature,hourly,Lagos,Random forest,6,NA,720,0.4260193148148145,0.5803850443119526,0.015867259259258356
+Hourly apparent temperature,hourly,Lagos,Random forest,7,NA,744,0.30011209677419276,0.4131089885710927,0.09337172043010696
+Hourly apparent temperature,hourly,Lagos,Random forest,8,NA,744,0.29633904121863736,0.4260777862053711,0.12935647849462342
+Hourly apparent temperature,hourly,Lagos,Random forest,9,NA,720,0.3129063981481474,0.44909267711680406,0.025751564814813825
+Hourly apparent temperature,hourly,Lagos,Random forest,10,NA,744,0.3758342025089605,0.5268897605855103,0.024124793906809848
+Hourly apparent temperature,hourly,Lagos,Random forest,11,NA,720,0.36487932407407475,0.496586185264445,0.015038435185184421
+Hourly apparent temperature,hourly,Lagos,Random forest,12,NA,743,0.34639393449977596,0.4561447243128099,0.027882853297442983
+Hourly wet-bulb temperature,hourly,Abuja,Multiple linear regression,1,NA,744,0.5014039447514053,0.7319206388349118,0.037330714096973874
+Hourly wet-bulb temperature,hourly,Abuja,Multiple linear regression,2,NA,672,0.5384164895283822,0.7420088646067939,0.028546499395375572
+Hourly wet-bulb temperature,hourly,Abuja,Multiple linear regression,3,NA,744,0.45681212143239064,0.6233800220582816,-0.01409296797501812
+Hourly wet-bulb temperature,hourly,Abuja,Multiple linear regression,4,NA,720,0.34899364629176277,0.48151392314592883,-0.007286444042101032
+Hourly wet-bulb temperature,hourly,Abuja,Multiple linear regression,5,May,744,0.3276151762908142,0.4554109085095632,-0.01948105980342824
+Hourly wet-bulb temperature,hourly,Abuja,Multiple linear regression,6,NA,720,0.2702209246169243,0.363360394875229,-0.0016514502714349572
+Hourly wet-bulb temperature,hourly,Abuja,Multiple linear regression,7,NA,744,0.23771396607770504,0.324320672736289,0.0436138108733056
+Hourly wet-bulb temperature,hourly,Abuja,Multiple linear regression,8,NA,744,0.23169977932568497,0.30722378803104655,0.03961774625278155
+Hourly wet-bulb temperature,hourly,Abuja,Multiple linear regression,9,NA,720,0.2664133427533992,0.3611037672930691,-0.002762984576825284
+Hourly wet-bulb temperature,hourly,Abuja,Multiple linear regression,10,NA,744,0.3103747002377455,0.41885620745645036,0.015894917920490963
+Hourly wet-bulb temperature,hourly,Abuja,Multiple linear regression,11,NA,720,0.4585242744621691,0.6442749367165821,0.048694380910472256
+Hourly wet-bulb temperature,hourly,Abuja,Multiple linear regression,12,NA,743,0.5078802746133522,0.7221177712075603,0.0356528268956367
+Hourly wet-bulb temperature,hourly,Abuja,Persistence baseline,1,NA,744,0.7200268817204301,0.986692367436269,-6.720430107526881e-4
+Hourly wet-bulb temperature,hourly,Abuja,Persistence baseline,2,NA,672,0.7275297619047619,0.9959815091991752,-0.0019345238095238107
+Hourly wet-bulb temperature,hourly,Abuja,Persistence baseline,3,NA,744,0.5223118279569893,0.7081704430037208,-0.009677419354838708
+Hourly wet-bulb temperature,hourly,Abuja,Persistence baseline,4,NA,720,0.3749999999999999,0.5283096734975719,0.00388888888888889
+Hourly wet-bulb temperature,hourly,Abuja,Persistence baseline,5,May,744,0.3463709677419355,0.49882927456324205,-0.004166666666666668
+Hourly wet-bulb temperature,hourly,Abuja,Persistence baseline,6,NA,720,0.3075,0.4277849927241489,0.002777777777777778
+Hourly wet-bulb temperature,hourly,Abuja,Persistence baseline,7,NA,744,0.2501344086021506,0.362988639888595,0.0014784946236559159
+Hourly wet-bulb temperature,hourly,Abuja,Persistence baseline,8,NA,744,0.24690860215053761,0.3365503365505048,-4.032258064516139e-4
+Hourly wet-bulb temperature,hourly,Abuja,Persistence baseline,9,NA,720,0.2931944444444444,0.4120578438358705,-4.1666666666666767e-4
+Hourly wet-bulb temperature,hourly,Abuja,Persistence baseline,10,NA,744,0.3470430107526882,0.47801111248161793,0.0013440860215053762
+Hourly wet-bulb temperature,hourly,Abuja,Persistence baseline,11,NA,720,0.5433333333333333,0.764580494999273,0.004444444444444444
+Hourly wet-bulb temperature,hourly,Abuja,Persistence baseline,12,NA,743,0.6433378196500673,0.897806508993362,-0.0032301480484522188
+Hourly wet-bulb temperature,hourly,Abuja,Random forest,1,NA,744,0.42300986559139814,0.5708405606644481,-0.03226183691756268
+Hourly wet-bulb temperature,hourly,Abuja,Random forest,2,NA,672,0.5055614583333333,0.6858690199290814,-0.09463616071428523
+Hourly wet-bulb temperature,hourly,Abuja,Random forest,3,NA,744,0.4235859408602147,0.5746338682917954,-0.06604694444444496
+Hourly wet-bulb temperature,hourly,Abuja,Random forest,4,NA,720,0.3310886481481481,0.45606757991673913,-0.027258129629628883
+Hourly wet-bulb temperature,hourly,Abuja,Random forest,5,May,744,0.3014000537634411,0.433706013223075,-0.021700125448027952
+Hourly wet-bulb temperature,hourly,Abuja,Random forest,6,NA,720,0.26216644444444487,0.35529946662457007,-0.004211703703703352
+Hourly wet-bulb temperature,hourly,Abuja,Random forest,7,NA,744,0.21634680107526938,0.3025705094738842,-0.001291998207885349
+Hourly wet-bulb temperature,hourly,Abuja,Random forest,8,NA,744,0.22087201612903248,0.2967485481187289,0.01826172939068161
+Hourly wet-bulb temperature,hourly,Abuja,Random forest,9,NA,720,0.2518533425925929,0.34707918090895684,0.04039493518518557
+Hourly wet-bulb temperature,hourly,Abuja,Random forest,10,NA,744,0.28139422939068126,0.38551078959451596,0.04774686379928366
+Hourly wet-bulb temperature,hourly,Abuja,Random forest,11,NA,720,0.4228597129629624,0.5741889865709026,-0.02599349074074043
+Hourly wet-bulb temperature,hourly,Abuja,Random forest,12,NA,743,0.48560813817855475,0.6635219264031185,-0.1338386989681472
+Hourly wet-bulb temperature,hourly,Ilorin,Multiple linear regression,1,NA,744,0.4909104018478574,0.678592532978016,0.011775118319825405
+Hourly wet-bulb temperature,hourly,Ilorin,Multiple linear regression,2,NA,672,0.5375834422289676,0.766636113649387,0.020789608081005828
+Hourly wet-bulb temperature,hourly,Ilorin,Multiple linear regression,3,NA,744,0.3864433821771395,0.5778268035042267,-0.013676657355114958
+Hourly wet-bulb temperature,hourly,Ilorin,Multiple linear regression,4,NA,720,0.2950045981463325,0.41122702493078295,0.020827593739357293
+Hourly wet-bulb temperature,hourly,Ilorin,Multiple linear regression,5,May,744,0.2623349641689944,0.3608195416286562,0.013835626640108912
+Hourly wet-bulb temperature,hourly,Ilorin,Multiple linear regression,6,NA,720,0.25838725920178923,0.3491764067141183,0.04015461234041053
+Hourly wet-bulb temperature,hourly,Ilorin,Multiple linear regression,7,NA,744,0.2158004141481768,0.2962759347518191,0.05717054245239649
+Hourly wet-bulb temperature,hourly,Ilorin,Multiple linear regression,8,NA,744,0.19382560181374253,0.25403207241882486,0.0680367658155273
+Hourly wet-bulb temperature,hourly,Ilorin,Multiple linear regression,9,NA,720,0.22818423288807277,0.31432121348802083,0.03624445251310711
+Hourly wet-bulb temperature,hourly,Ilorin,Multiple linear regression,10,NA,744,0.29855123661427424,0.40459808510586004,0.02605082034514373
+Hourly wet-bulb temperature,hourly,Ilorin,Multiple linear regression,11,NA,720,0.36685883138714814,0.5010316701587649,-0.0033683077359448186
+Hourly wet-bulb temperature,hourly,Ilorin,Multiple linear regression,12,NA,743,0.4348609921266986,0.6212737956399954,0.0012058980429199922
+Hourly wet-bulb temperature,hourly,Ilorin,Persistence baseline,1,NA,744,0.6349462365591397,0.8599043457681602,2.6881720430107906e-4
+Hourly wet-bulb temperature,hourly,Ilorin,Persistence baseline,2,NA,672,0.6239583333333333,0.8933201180614557,-0.01086309523809524
+Hourly wet-bulb temperature,hourly,Ilorin,Persistence baseline,3,NA,744,0.42204301075268813,0.6316687235759628,-0.002150537634408604
+Hourly wet-bulb temperature,hourly,Ilorin,Persistence baseline,4,NA,720,0.326111111111111,0.464429159769759,0.002777777777777778
+Hourly wet-bulb temperature,hourly,Ilorin,Persistence baseline,5,May,744,0.28279569892473105,0.4092676385936224,-0.002688172043010753
+Hourly wet-bulb temperature,hourly,Ilorin,Persistence baseline,6,NA,720,0.27402777777777787,0.3964600302118179,0.0023611111111111103
+Hourly wet-bulb temperature,hourly,Ilorin,Persistence baseline,7,NA,744,0.2259408602150538,0.3441719062841545,0.0012096774193548416
+Hourly wet-bulb temperature,hourly,Ilorin,Persistence baseline,8,NA,744,0.20739247311827952,0.2935919558828882,0.0012096774193548368
+Hourly wet-bulb temperature,hourly,Ilorin,Persistence baseline,9,NA,720,0.2656944444444445,0.37481476906748373,-0.002638888888888887
+Hourly wet-bulb temperature,hourly,Ilorin,Persistence baseline,10,NA,744,0.31868279569892477,0.4631733691529266,-6.720430107526881e-4
+Hourly wet-bulb temperature,hourly,Ilorin,Persistence baseline,11,NA,720,0.44625000000000004,0.6140371867132045,0.005138888888888888
+Hourly wet-bulb temperature,hourly,Ilorin,Persistence baseline,12,NA,743,0.528263795423957,0.7424541894410546,0.0033647375504710633
+Hourly wet-bulb temperature,hourly,Ilorin,Random forest,1,NA,744,0.41505129928315415,0.5620276195774736,-8.441845878118936e-4
+Hourly wet-bulb temperature,hourly,Ilorin,Random forest,2,NA,672,0.46492584325396785,0.6517196765544727,-0.010614216269839962
+Hourly wet-bulb temperature,hourly,Ilorin,Random forest,3,NA,744,0.33667231182795654,0.4923005675447659,-0.07071274193548417
+Hourly wet-bulb temperature,hourly,Ilorin,Random forest,4,NA,720,0.266559101851852,0.36735267143869826,-0.050228657407407874
+Hourly wet-bulb temperature,hourly,Ilorin,Random forest,5,May,744,0.24311963261648725,0.33706775263263383,-0.04752203405017882
+Hourly wet-bulb temperature,hourly,Ilorin,Random forest,6,NA,720,0.2375497870370377,0.32589049679955284,5.972314814824791e-4
+Hourly wet-bulb temperature,hourly,Ilorin,Random forest,7,NA,744,0.19445243727598618,0.2778693301562051,0.024836362007169384
+Hourly wet-bulb temperature,hourly,Ilorin,Random forest,8,NA,744,0.17206595878136238,0.23256305082266476,0.03503031362007336
+Hourly wet-bulb temperature,hourly,Ilorin,Random forest,9,NA,720,0.21145277777777846,0.28946574192876573,8.908148148140833e-4
+Hourly wet-bulb temperature,hourly,Ilorin,Random forest,10,NA,744,0.26409157706093156,0.362433024999976,0.004504587813619246
+Hourly wet-bulb temperature,hourly,Ilorin,Random forest,11,NA,720,0.35204179629629606,0.4722174131829639,-0.026927962962962383
+Hourly wet-bulb temperature,hourly,Ilorin,Random forest,12,NA,743,0.4031011664423511,0.5445106126826197,-0.07991846567967807
+Hourly wet-bulb temperature,hourly,Lagos,Multiple linear regression,1,NA,744,0.20116567850127104,0.2798070098387197,-0.004621221995711222
+Hourly wet-bulb temperature,hourly,Lagos,Multiple linear regression,2,NA,672,0.17169011770183318,0.22670068335644827,0.016707379131537567
+Hourly wet-bulb temperature,hourly,Lagos,Multiple linear regression,3,NA,744,0.1632031360662919,0.22553092073637412,0.013772069938752013
+Hourly wet-bulb temperature,hourly,Lagos,Multiple linear regression,4,NA,720,0.17610372878609223,0.2382181277230403,0.034012407760869626
+Hourly wet-bulb temperature,hourly,Lagos,Multiple linear regression,5,May,744,0.18553341852410915,0.25213983097788584,0.02752914226958113
+Hourly wet-bulb temperature,hourly,Lagos,Multiple linear regression,6,NA,720,0.2122404726126397,0.2879364212345268,0.03198009244279806
+Hourly wet-bulb temperature,hourly,Lagos,Multiple linear regression,7,NA,744,0.16143083617894033,0.2114731890212972,0.022118908644360752
+Hourly wet-bulb temperature,hourly,Lagos,Multiple linear regression,8,NA,744,0.1449871314584418,0.19819734572163772,0.059063837937894735
+Hourly wet-bulb temperature,hourly,Lagos,Multiple linear regression,9,NA,720,0.15638522298530033,0.2103674260633158,0.030306764537670717
+Hourly wet-bulb temperature,hourly,Lagos,Multiple linear regression,10,NA,744,0.18860996117072082,0.2627480238862507,0.04252451545971394
+Hourly wet-bulb temperature,hourly,Lagos,Multiple linear regression,11,NA,720,0.1752579809357608,0.23933015731552526,0.05671335699854684
+Hourly wet-bulb temperature,hourly,Lagos,Multiple linear regression,12,NA,743,0.17761010898631632,0.23286161745732187,0.07329863177102154
+Hourly wet-bulb temperature,hourly,Lagos,Persistence baseline,1,NA,744,0.20779569892473124,0.3025429854822553,-2.688172043010743e-4
+Hourly wet-bulb temperature,hourly,Lagos,Persistence baseline,2,NA,672,0.16562499999999997,0.22890136158033947,-1.4880952380952065e-4
+Hourly wet-bulb temperature,hourly,Lagos,Persistence baseline,3,NA,744,0.17325268817204298,0.2562393454380838,1.3440860215053476e-4
+Hourly wet-bulb temperature,hourly,Lagos,Persistence baseline,4,NA,720,0.1761111111111111,0.258306450214125,2.777777777777768e-4
+Hourly wet-bulb temperature,hourly,Lagos,Persistence baseline,5,May,744,0.17862903225806456,0.25796453036169753,4.032258064516139e-4
+Hourly wet-bulb temperature,hourly,Lagos,Persistence baseline,6,NA,720,0.20083333333333334,0.28693785622209794,0.0016666666666666657
+Hourly wet-bulb temperature,hourly,Lagos,Persistence baseline,7,NA,744,0.13306451612903217,0.19211611632171208,0.001075268817204302
+Hourly wet-bulb temperature,hourly,Lagos,Persistence baseline,8,NA,744,0.12217741935483874,0.17601472323558312,0.0012096774193548416
+Hourly wet-bulb temperature,hourly,Lagos,Persistence baseline,9,NA,720,0.15847222222222224,0.22438186696393767,-0.0029166666666666685
+Hourly wet-bulb temperature,hourly,Lagos,Persistence baseline,10,NA,744,0.19932795698924727,0.2765717546747516,-4.032258064516139e-4
+Hourly wet-bulb temperature,hourly,Lagos,Persistence baseline,11,NA,720,0.20458333333333342,0.28074800879871703,-9.722222222222212e-4
+Hourly wet-bulb temperature,hourly,Lagos,Persistence baseline,12,NA,743,0.18613728129205925,0.24563483823563612,1.3458950201884445e-4
+Hourly wet-bulb temperature,hourly,Lagos,Random forest,1,NA,744,0.18584671146953424,0.2560860650876553,-0.010721586021504692
+Hourly wet-bulb temperature,hourly,Lagos,Random forest,2,NA,672,0.16121648809523811,0.2152600596288788,-0.01788037698412574
+Hourly wet-bulb temperature,hourly,Lagos,Random forest,3,NA,744,0.16589240143369022,0.2283070304267772,-0.030745430107526964
+Hourly wet-bulb temperature,hourly,Lagos,Random forest,4,NA,720,0.16798499074074116,0.23126803525814035,-0.01675082407407384
+Hourly wet-bulb temperature,hourly,Lagos,Random forest,5,May,744,0.17511327060931925,0.24002662250676968,-0.0067422132616487005
+Hourly wet-bulb temperature,hourly,Lagos,Random forest,6,NA,720,0.1925283518518516,0.25859920099821165,-0.004526000000000746
+Hourly wet-bulb temperature,hourly,Lagos,Random forest,7,NA,744,0.125726164874552,0.1682526880898554,0.0054566845878123915
+Hourly wet-bulb temperature,hourly,Lagos,Random forest,8,NA,744,0.1189821415770613,0.16177034004593835,0.02553771505376444
+Hourly wet-bulb temperature,hourly,Lagos,Random forest,9,NA,720,0.14274883333333355,0.1899107111984502,0.0023891481481495744
+Hourly wet-bulb temperature,hourly,Lagos,Random forest,10,NA,744,0.18966134408602145,0.2564403989599876,0.006105734767024902
+Hourly wet-bulb temperature,hourly,Lagos,Random forest,11,NA,720,0.1812113981481479,0.24455810475563222,-0.01235891666666697
+Hourly wet-bulb temperature,hourly,Lagos,Random forest,12,NA,743,0.16708805742485405,0.21806462563646187,-0.030770551816957918

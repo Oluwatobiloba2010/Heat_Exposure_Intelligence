@@ -1,0 +1,217 @@
+task,frequency,location,model,quarter,observations,MAE,RMSE,bias
+Daily maximum air temperature,daily,Abuja,Multiple linear regression,Q1,90,0.6692050198124374,0.8616523268925618,0.005364042864373175
+Daily maximum air temperature,daily,Abuja,Multiple linear regression,Q2,91,1.3062926273485351,1.7159672699148152,-0.13085315159959607
+Daily maximum air temperature,daily,Abuja,Multiple linear regression,Q3,92,1.111151966243511,1.343725005054734,0.16677016866736952
+Daily maximum air temperature,daily,Abuja,Multiple linear regression,Q4,91,0.853396204890608,1.0603019260932673,-0.07683713775480716
+Daily maximum air temperature,daily,Abuja,Persistence baseline,Q1,90,0.8511111111111109,1.0674996747332315,0.013333333333333365
+Daily maximum air temperature,daily,Abuja,Persistence baseline,Q2,91,1.7593406593406595,2.2639797692568715,0.0868131868131868
+Daily maximum air temperature,daily,Abuja,Persistence baseline,Q3,92,1.4,1.7198963568369083,-0.03695652173913046
+Daily maximum air temperature,daily,Abuja,Persistence baseline,Q4,91,0.9461538461538461,1.2833250082980059,-0.07362637362637361
+Daily maximum air temperature,daily,Abuja,Random forest,Q1,90,0.747361851851848,0.9065502699542204,-0.16750955555555072
+Daily maximum air temperature,daily,Abuja,Random forest,Q2,91,1.389982124542124,1.8230980904839569,0.020166593406592062
+Daily maximum air temperature,daily,Abuja,Random forest,Q3,92,1.12296702898551,1.3593518728819765,0.13576557971014197
+Daily maximum air temperature,daily,Abuja,Random forest,Q4,91,0.8219456410256424,1.029786490401972,-0.14197142857142747
+Daily maximum air temperature,daily,Ilorin,Multiple linear regression,Q1,90,0.7408705256359953,0.8696725584357106,0.005649321131808923
+Daily maximum air temperature,daily,Ilorin,Multiple linear regression,Q2,91,1.3716649219130432,1.9115532777443558,-0.05645857118088167
+Daily maximum air temperature,daily,Ilorin,Multiple linear regression,Q3,92,1.0974368954906373,1.4759868102167906,0.4039468253487405
+Daily maximum air temperature,daily,Ilorin,Multiple linear regression,Q4,91,0.901597809859269,1.2160909982695676,-0.008565447369231517
+Daily maximum air temperature,daily,Ilorin,Persistence baseline,Q1,90,0.6877777777777775,0.8812238963825001,0.001111111111111127
+Daily maximum air temperature,daily,Ilorin,Persistence baseline,Q2,91,1.8692307692307695,2.483019253929501,0.0604395604395604
+Daily maximum air temperature,daily,Ilorin,Persistence baseline,Q3,92,1.4956521739130435,1.8739054776403306,0.013043478260869558
+Daily maximum air temperature,daily,Ilorin,Persistence baseline,Q4,91,1.081318681318681,1.4291317582425986,-0.08131868131868131
+Daily maximum air temperature,daily,Ilorin,Random forest,Q1,90,0.6133652592592573,0.7831143054932315,-0.30142096296295934
+Daily maximum air temperature,daily,Ilorin,Random forest,Q2,91,1.5097210256410238,2.002450846378541,-0.39061362637362723
+Daily maximum air temperature,daily,Ilorin,Random forest,Q3,92,1.1671009420289846,1.4672143659436403,-0.1224013768115916
+Daily maximum air temperature,daily,Ilorin,Random forest,Q4,91,0.9389813186813211,1.2467340165190772,-0.47394673992674285
+Daily maximum air temperature,daily,Lagos,Multiple linear regression,Q1,90,0.38846409093542505,0.5087014623067813,0.1431289438499475
+Daily maximum air temperature,daily,Lagos,Multiple linear regression,Q2,91,0.6289643528252704,0.8475176282334308,0.061364456861833575
+Daily maximum air temperature,daily,Lagos,Multiple linear regression,Q3,92,0.5151980807827208,0.6585790073616542,0.07711796993463195
+Daily maximum air temperature,daily,Lagos,Multiple linear regression,Q4,91,0.5672119998190163,0.7483774709101266,0.310437756013434
+Daily maximum air temperature,daily,Lagos,Persistence baseline,Q1,90,0.4788888888888891,0.6311365409587165,0.009999999999999985
+Daily maximum air temperature,daily,Lagos,Persistence baseline,Q2,91,0.9065934065934067,1.1779568827348554,0.023076923076923092
+Daily maximum air temperature,daily,Lagos,Persistence baseline,Q3,92,0.6043478260869568,0.7400058754173335,0.021739130434782608
+Daily maximum air temperature,daily,Lagos,Persistence baseline,Q4,91,0.6747252747252748,0.9242757782641035,-0.050549450549450564
+Daily maximum air temperature,daily,Lagos,Random forest,Q1,90,0.3635461481481485,0.48869019765941163,-0.0801360740740705
+Daily maximum air temperature,daily,Lagos,Random forest,Q2,91,0.6737062271062284,0.8674306376791008,-0.008923369963369978
+Daily maximum air temperature,daily,Lagos,Random forest,Q3,92,0.5080760144927506,0.6581938390524966,0.18479717391304182
+Daily maximum air temperature,daily,Lagos,Random forest,Q4,91,0.5064786813186801,0.6723338724560666,-0.024758241758239145
+Daily maximum apparent temperature,daily,Abuja,Multiple linear regression,Q1,90,0.7569439101375206,0.9600516451989894,-0.16332603113268743
+Daily maximum apparent temperature,daily,Abuja,Multiple linear regression,Q2,91,1.6615088580600474,2.117004090976586,-0.21844672796658735
+Daily maximum apparent temperature,daily,Abuja,Multiple linear regression,Q3,92,1.3885186010033377,1.7287122171770097,0.19307892771432922
+Daily maximum apparent temperature,daily,Abuja,Multiple linear regression,Q4,91,1.1909896891427554,1.555881190089366,-0.31985018775651075
+Daily maximum apparent temperature,daily,Abuja,Persistence baseline,Q1,90,0.9900000000000002,1.226422077064463,-0.03444444444444446
+Daily maximum apparent temperature,daily,Abuja,Persistence baseline,Q2,91,2.0230769230769234,2.7188596510665652,0.09560439560439564
+Daily maximum apparent temperature,daily,Abuja,Persistence baseline,Q3,92,1.7771739130434787,2.2032337893275837,-0.04456521739130436
+Daily maximum apparent temperature,daily,Abuja,Persistence baseline,Q4,91,1.314285714285714,1.9361227824111331,-0.057142857142857176
+Daily maximum apparent temperature,daily,Abuja,Random forest,Q1,90,0.917725037037034,1.1199203307197774,-0.47562651851851506
+Daily maximum apparent temperature,daily,Abuja,Random forest,Q2,91,1.7160893772893735,2.19400539555168,-0.015351062271060376
+Daily maximum apparent temperature,daily,Abuja,Random forest,Q3,92,1.3944173188405788,1.7423100596867096,0.09743007246377378
+Daily maximum apparent temperature,daily,Abuja,Random forest,Q4,91,1.2495041025641054,1.6424016319888,-0.6082350915750956
+Daily maximum apparent temperature,daily,Ilorin,Multiple linear regression,Q1,90,0.9203311090554553,1.1450626066054626,-0.05193616725498068
+Daily maximum apparent temperature,daily,Ilorin,Multiple linear regression,Q2,91,1.6758163329007059,2.31419663954203,-0.2089711843195086
+Daily maximum apparent temperature,daily,Ilorin,Multiple linear regression,Q3,92,1.5397056075856659,1.9509859514729724,0.4105738505475799
+Daily maximum apparent temperature,daily,Ilorin,Multiple linear regression,Q4,91,1.1195656524619477,1.4911317436664477,0.029322938796404217
+Daily maximum apparent temperature,daily,Ilorin,Persistence baseline,Q1,90,0.8766666666666659,1.094176504144656,-0.03444444444444438
+Daily maximum apparent temperature,daily,Ilorin,Persistence baseline,Q2,91,2.2340659340659337,3.0289264772185547,0.05824175824175821
+Daily maximum apparent temperature,daily,Ilorin,Persistence baseline,Q3,92,2.095652173913044,2.543106624651791,0.006521739130434798
+Daily maximum apparent temperature,daily,Ilorin,Persistence baseline,Q4,91,1.2999999999999994,1.844713265786049,-0.0472527472527473
+Daily maximum apparent temperature,daily,Ilorin,Random forest,Q1,90,0.8880315555555538,1.0928626302922888,-0.38632977777777844
+Daily maximum apparent temperature,daily,Ilorin,Random forest,Q2,91,1.864637289377288,2.4334647597971495,-0.3780497435897429
+Daily maximum apparent temperature,daily,Ilorin,Random forest,Q3,92,1.5807197101449257,1.9696552564989909,0.14888666666666914
+Daily maximum apparent temperature,daily,Ilorin,Random forest,Q4,91,1.1245030769230768,1.5231427650473182,-0.5378742124542133
+Daily maximum apparent temperature,daily,Lagos,Multiple linear regression,Q1,90,0.6789680266382837,0.8979548500235204,-0.008247653791045275
+Daily maximum apparent temperature,daily,Lagos,Multiple linear regression,Q2,91,0.980649291911346,1.2609099132942028,0.08561200944650217
+Daily maximum apparent temperature,daily,Lagos,Multiple linear regression,Q3,92,0.8985369829527875,1.12995834285212,0.16115962523266425
+Daily maximum apparent temperature,daily,Lagos,Multiple linear regression,Q4,91,0.8961634524508227,1.1586939096028217,0.18010623041446627
+Daily maximum apparent temperature,daily,Lagos,Persistence baseline,Q1,90,0.7833333333333335,1.0592974611085932,0.014444444444444492
+Daily maximum apparent temperature,daily,Lagos,Persistence baseline,Q2,91,1.459340659340659,1.830870807044536,0.04175824175824173
+Daily maximum apparent temperature,daily,Lagos,Persistence baseline,Q3,92,1.0945652173913043,1.3819095169523503,0.016304347826086956
+Daily maximum apparent temperature,daily,Lagos,Persistence baseline,Q4,91,1.2472527472527473,1.5834653887479313,-0.07142857142857142
+Daily maximum apparent temperature,daily,Lagos,Random forest,Q1,90,0.6938151111111119,0.877655706232503,-0.1847188148148116
+Daily maximum apparent temperature,daily,Lagos,Random forest,Q2,91,1.048256043956043,1.3253745252958873,0.05786703296703471
+Daily maximum apparent temperature,daily,Lagos,Random forest,Q3,92,0.9314951449275345,1.1718703793020384,0.36284557971014136
+Daily maximum apparent temperature,daily,Lagos,Random forest,Q4,91,0.8937161172161188,1.1684393327902112,0.05929663003662953
+Daily maximum wet-bulb temperature,daily,Abuja,Multiple linear regression,Q1,90,0.6620227138538378,0.8704959913208918,-0.14175473342819295
+Daily maximum wet-bulb temperature,daily,Abuja,Multiple linear regression,Q2,91,0.5812260991736466,0.7575884979381995,-0.02326793493124163
+Daily maximum wet-bulb temperature,daily,Abuja,Multiple linear regression,Q3,92,0.48554089288739916,0.5919254014522948,0.04682165237101686
+Daily maximum wet-bulb temperature,daily,Abuja,Multiple linear regression,Q4,91,0.6874174011824833,0.8735000305703894,-0.06291940287009415
+Daily maximum wet-bulb temperature,daily,Abuja,Persistence baseline,Q1,90,0.8022222222222223,1.0742439201596627,-0.04666666666666666
+Daily maximum wet-bulb temperature,daily,Abuja,Persistence baseline,Q2,91,0.7098901098901099,0.9199856663957466,0.030769230769230778
+Daily maximum wet-bulb temperature,daily,Abuja,Persistence baseline,Q3,92,0.6065217391304347,0.7551274007108651,-0.0173913043478261
+Daily maximum wet-bulb temperature,daily,Abuja,Persistence baseline,Q4,91,0.7538461538461539,1.0212037714663726,0
+Daily maximum wet-bulb temperature,daily,Abuja,Random forest,Q1,90,0.7180680000000007,0.9434299066781873,-0.350968000000001
+Daily maximum wet-bulb temperature,daily,Abuja,Random forest,Q2,91,0.5475016849816853,0.7119966004020865,-0.023638974358973722
+Daily maximum wet-bulb temperature,daily,Abuja,Random forest,Q3,92,0.47412043478260957,0.5845972200637646,-0.014693768115943468
+Daily maximum wet-bulb temperature,daily,Abuja,Random forest,Q4,91,0.7344279853479858,0.9489461836900598,-0.22389098901098853
+Daily maximum wet-bulb temperature,daily,Ilorin,Multiple linear regression,Q1,90,0.8018429045910506,1.1251403775348265,0.019702686345173248
+Daily maximum wet-bulb temperature,daily,Ilorin,Multiple linear regression,Q2,91,0.46638475253658485,0.648166316603821,0.030503995264695948
+Daily maximum wet-bulb temperature,daily,Ilorin,Multiple linear regression,Q3,92,0.4769075991297449,0.6093900568598132,0.08675306339899903
+Daily maximum wet-bulb temperature,daily,Ilorin,Multiple linear regression,Q4,91,0.41081142226214273,0.5132373909657981,-0.023858691568891702
+Daily maximum wet-bulb temperature,daily,Ilorin,Persistence baseline,Q1,90,0.881111111111111,1.2955050495205849,-0.05
+Daily maximum wet-bulb temperature,daily,Ilorin,Persistence baseline,Q2,91,0.5725274725274727,0.752066749434115,0.009890109890109874
+Daily maximum wet-bulb temperature,daily,Ilorin,Persistence baseline,Q3,92,0.6315217391304347,0.7528929712030499,0.0076086956521739055
+Daily maximum wet-bulb temperature,daily,Ilorin,Persistence baseline,Q4,91,0.4956043956043953,0.6471407951838675,-0.007692307692307685
+Daily maximum wet-bulb temperature,daily,Ilorin,Random forest,Q1,90,0.711901999999999,1.0479523248983005,-0.06417844444444636
+Daily maximum wet-bulb temperature,daily,Ilorin,Random forest,Q2,91,0.49409018315018255,0.6388202341320349,-0.07516036630036521
+Daily maximum wet-bulb temperature,daily,Ilorin,Random forest,Q3,92,0.4933876811594202,0.6117405019843923,0.047201594202897476
+Daily maximum wet-bulb temperature,daily,Ilorin,Random forest,Q4,91,0.4796032967032987,0.6035628711930396,-0.16029311355311418
+Daily maximum wet-bulb temperature,daily,Lagos,Multiple linear regression,Q1,90,0.24772281689475226,0.3205651167290833,-0.06364963128854499
+Daily maximum wet-bulb temperature,daily,Lagos,Multiple linear regression,Q2,91,0.3834034543854004,0.4860575888817634,0.07155261283147543
+Daily maximum wet-bulb temperature,daily,Lagos,Multiple linear regression,Q3,92,0.28552237703017946,0.3659407444045682,0.14025934034385104
+Daily maximum wet-bulb temperature,daily,Lagos,Multiple linear regression,Q4,91,0.3411842444492774,0.4340350166296875,-0.027754805866367152
+Daily maximum wet-bulb temperature,daily,Lagos,Persistence baseline,Q1,90,0.29888888888888854,0.39510898637098957,-0.009999999999999985
+Daily maximum wet-bulb temperature,daily,Lagos,Persistence baseline,Q2,91,0.4527472527472525,0.5861027926195911,0.017582417582417558
+Daily maximum wet-bulb temperature,daily,Lagos,Persistence baseline,Q3,92,0.31521739130434767,0.4010854836782195,0.006521739130434798
+Daily maximum wet-bulb temperature,daily,Lagos,Persistence baseline,Q4,91,0.39450549450549455,0.5236180136089901,-0.027472527472527472
+Daily maximum wet-bulb temperature,daily,Lagos,Random forest,Q1,90,0.24005125925925958,0.3072858676963951,-0.0667044444444374
+Daily maximum wet-bulb temperature,daily,Lagos,Random forest,Q2,91,0.36897157509157497,0.4600877964970056,-0.05624483516483675
+Daily maximum wet-bulb temperature,daily,Lagos,Random forest,Q3,92,0.2766861594202896,0.33567147753197873,0.05366673913043373
+Daily maximum wet-bulb temperature,daily,Lagos,Random forest,Q4,91,0.3587304761904747,0.4364440185409198,-0.144661318681315
+Hourly air temperature,hourly,Abuja,Multiple linear regression,Q1,2160,0.6682743180714019,0.9137289041886383,-0.04786358498445333
+Hourly air temperature,hourly,Abuja,Multiple linear regression,Q2,2184,0.5190926558816902,0.726231403095928,-0.0024645427578921493
+Hourly air temperature,hourly,Abuja,Multiple linear regression,Q3,2208,0.4186614447262576,0.5806416751832597,0.06147430320278759
+Hourly air temperature,hourly,Abuja,Multiple linear regression,Q4,2207,0.6012169020023748,0.8287350659905821,0.009835849057084591
+Hourly air temperature,hourly,Abuja,Persistence baseline,Q1,2160,1.1195833333333334,1.5388713396512392,-0.002546296296296296
+Hourly air temperature,hourly,Abuja,Persistence baseline,Q2,2184,0.7511446886446886,1.0282123788258417,0.0021520146520146535
+Hourly air temperature,hourly,Abuja,Persistence baseline,Q3,2208,0.516983695652174,0.7448585849637519,4.0760869565217324e-4
+Hourly air temperature,hourly,Abuja,Persistence baseline,Q4,2207,0.9842319891255097,1.3505775837383132,-0.0017217942908926147
+Hourly air temperature,hourly,Abuja,Random forest,Q1,2160,0.5734971296296295,0.7755055185128396,-0.08497374691358013
+Hourly air temperature,hourly,Abuja,Random forest,Q2,2184,0.46997982295482243,0.6686130620632984,-0.05416428571428519
+Hourly air temperature,hourly,Abuja,Random forest,Q3,2208,0.36118924818840564,0.5075119934021273,0.051374634661835804
+Hourly air temperature,hourly,Abuja,Random forest,Q4,2207,0.5074519891255103,0.7000648464554504,-0.04384648542516263
+Hourly air temperature,hourly,Ilorin,Multiple linear regression,Q1,2160,0.7004569915507111,0.9280548558067008,-0.00438070302028132
+Hourly air temperature,hourly,Ilorin,Multiple linear regression,Q2,2184,0.5604695908706004,0.7764545374197636,0.027152738541952184
+Hourly air temperature,hourly,Ilorin,Multiple linear regression,Q3,2208,0.4050367730458725,0.5713787398215261,0.04221593599867231
+Hourly air temperature,hourly,Ilorin,Multiple linear regression,Q4,2207,0.5209438132220207,0.6894293476269084,-0.0014314078544609707
+Hourly air temperature,hourly,Ilorin,Persistence baseline,Q1,2160,1.1893981481481481,1.622459552654549,-5.0925925925926e-4
+Hourly air temperature,hourly,Ilorin,Persistence baseline,Q2,2184,0.8578296703296704,1.2175626436486917,8.699633699633709e-4
+Hourly air temperature,hourly,Ilorin,Persistence baseline,Q3,2208,0.5644021739130435,0.8208779322835673,2.7173913043478164e-4
+Hourly air temperature,hourly,Ilorin,Persistence baseline,Q4,2207,0.945491617580426,1.3084975490907267,-0.001132759401903036
+Hourly air temperature,hourly,Ilorin,Random forest,Q1,2160,0.46721673148148113,0.6363284784792227,-0.0352346265432105
+Hourly air temperature,hourly,Ilorin,Random forest,Q2,2184,0.4546293528693529,0.6731228971648993,-0.002329047619047809
+Hourly air temperature,hourly,Ilorin,Random forest,Q3,2208,0.3319703925120774,0.479698603636069,0.03843615338164331
+Hourly air temperature,hourly,Ilorin,Random forest,Q4,2207,0.44273630871469605,0.6057137708955856,-0.10323439661682629
+Hourly air temperature,hourly,Lagos,Multiple linear regression,Q1,2160,0.3613038340227376,0.47684247857383305,0.046475416613215824
+Hourly air temperature,hourly,Lagos,Multiple linear regression,Q2,2184,0.3790385776430028,0.5103794435191712,0.02704225640578503
+Hourly air temperature,hourly,Lagos,Multiple linear regression,Q3,2208,0.3316729099242634,0.43276877985304213,0.008971187438579133
+Hourly air temperature,hourly,Lagos,Multiple linear regression,Q4,2207,0.32393486252469755,0.4255691014068689,0.03353219512301404
+Hourly air temperature,hourly,Lagos,Persistence baseline,Q1,2160,0.3725,0.5673933249388692,-2.7777777777777843e-4
+Hourly air temperature,hourly,Lagos,Persistence baseline,Q2,2184,0.3467032967032967,0.5065324190761057,0.001007326007326007
+Hourly air temperature,hourly,Lagos,Persistence baseline,Q3,2208,0.24103260869565216,0.3554951639533271,-1.8115942028985442e-4
+Hourly air temperature,hourly,Lagos,Persistence baseline,Q4,2207,0.326144086995922,0.4602849730946347,-6.34345265065701e-4
+Hourly air temperature,hourly,Lagos,Random forest,Q1,2160,0.23327673765432114,0.3148990204675457,-0.032364669753087764
+Hourly air temperature,hourly,Lagos,Random forest,Q2,2184,0.2844673412698413,0.3961699570740503,-0.011245778388278697
+Hourly air temperature,hourly,Lagos,Random forest,Q3,2208,0.19517629227053152,0.2758162991678969,0.04253765096618317
+Hourly air temperature,hourly,Lagos,Random forest,Q4,2207,0.24371638423198907,0.32607075389429585,0.003499951668933144
+Hourly apparent temperature,hourly,Abuja,Multiple linear regression,Q1,2160,0.7639071974152754,1.0278983080455641,-0.009849720230478259
+Hourly apparent temperature,hourly,Abuja,Multiple linear regression,Q2,2184,0.6653186140682135,0.9085090591433704,-0.012237870613332927
+Hourly apparent temperature,hourly,Abuja,Multiple linear regression,Q3,2208,0.5413907198099801,0.7453746307231511,0.07340342771347663
+Hourly apparent temperature,hourly,Abuja,Multiple linear regression,Q4,2207,0.7196625493401819,0.9914787205162794,0.022473267646783413
+Hourly apparent temperature,hourly,Abuja,Persistence baseline,Q1,2160,1.3210185185185186,1.7944152044401336,-0.004629629629629629
+Hourly apparent temperature,hourly,Abuja,Persistence baseline,Q2,2184,0.8762362637362637,1.2373665614222842,0.0016025641025641025
+Hourly apparent temperature,hourly,Abuja,Persistence baseline,Q3,2208,0.6143115942028985,0.8899651922846539,4.528985507246377e-4
+Hourly apparent temperature,hourly,Abuja,Persistence baseline,Q4,2207,1.1284549161758042,1.5595489803792904,-5.89034888989579e-4
+Hourly apparent temperature,hourly,Abuja,Random forest,Q1,2160,0.6368057993827163,0.848535641420734,-0.12771404012345752
+Hourly apparent temperature,hourly,Abuja,Random forest,Q2,2184,0.6013329761904762,0.8368335197079385,-0.0862441910866913
+Hourly apparent temperature,hourly,Abuja,Random forest,Q3,2208,0.47188807971014474,0.6590831350130997,0.03749425120772978
+Hourly apparent temperature,hourly,Abuja,Random forest,Q4,2207,0.640591348738861,0.8709534165738693,-0.09847942002718654
+Hourly apparent temperature,hourly,Ilorin,Multiple linear regression,Q1,2160,0.8010183487633202,1.053338546706455,0.014186832352366353
+Hourly apparent temperature,hourly,Ilorin,Multiple linear regression,Q2,2184,0.6935639061424088,0.9322640866235244,0.030654126582089932
+Hourly apparent temperature,hourly,Ilorin,Multiple linear regression,Q3,2208,0.500115754292116,0.6866131665187785,0.07923218593692523
+Hourly apparent temperature,hourly,Ilorin,Multiple linear regression,Q4,2207,0.6493118777715629,0.8566547896170745,0.013919393888195731
+Hourly apparent temperature,hourly,Ilorin,Persistence baseline,Q1,2160,1.2574537037037037,1.730915782019577,-0.002731481481481481
+Hourly apparent temperature,hourly,Ilorin,Persistence baseline,Q2,2184,0.9860347985347986,1.4236056091498552,0.0011446886446886445
+Hourly apparent temperature,hourly,Ilorin,Persistence baseline,Q3,2208,0.6758152173913043,0.9796202310596945,-1.8115942028985602e-4
+Hourly apparent temperature,hourly,Ilorin,Persistence baseline,Q4,2207,1.0199818758495696,1.4187797969980163,8.608971454463082e-4
+Hourly apparent temperature,hourly,Ilorin,Random forest,Q1,2160,0.5546812006172842,0.7427469566422036,-0.0703511265432096
+Hourly apparent temperature,hourly,Ilorin,Random forest,Q2,2184,0.5598065323565327,0.7987664017294596,8.594017094011445e-5
+Hourly apparent temperature,hourly,Ilorin,Random forest,Q3,2208,0.4373833967391302,0.6146895855812763,0.08079702596618324
+Hourly apparent temperature,hourly,Ilorin,Random forest,Q4,2207,0.5501546020238637,0.7330223318414119,-0.11146207823591633
+Hourly apparent temperature,hourly,Lagos,Multiple linear regression,Q1,2160,0.44374546032498047,0.6008336297337971,0.03958512354351236
+Hourly apparent temperature,hourly,Lagos,Multiple linear regression,Q2,2184,0.5021062759605323,0.6868163885928322,0.026491729642797605
+Hourly apparent temperature,hourly,Lagos,Multiple linear regression,Q3,2208,0.42384355468606033,0.5867400277177216,0.06412882417205903
+Hourly apparent temperature,hourly,Lagos,Multiple linear regression,Q4,2207,0.41925781864813794,0.5788177300363975,0.06463260583466977
+Hourly apparent temperature,hourly,Lagos,Persistence baseline,Q1,2160,0.5349074074074074,0.7730531101490448,2.7777777777777843e-4
+Hourly apparent temperature,hourly,Lagos,Persistence baseline,Q2,2184,0.4973901098901099,0.7184926478271612,0.001144688644688643
+Hourly apparent temperature,hourly,Lagos,Persistence baseline,Q3,2208,0.33016304347826086,0.4904800221965345,-5.434782608695649e-4
+Hourly apparent temperature,hourly,Lagos,Persistence baseline,Q4,2207,0.4802899864068872,0.6766612241915613,-6.343452650656995e-4
+Hourly apparent temperature,hourly,Lagos,Random forest,Q1,2160,0.3522991018518517,0.48455334174409526,0.007393984567900585
+Hourly apparent temperature,hourly,Lagos,Random forest,Q2,2184,0.4160759401709403,0.5767973477101981,-0.004045927960929257
+Hourly apparent temperature,hourly,Lagos,Random forest,Q3,2208,0.3030127958937191,0.429468425037823,0.08344696859903322
+Hourly apparent temperature,hourly,Lagos,Random forest,Q4,2207,0.36234909530282466,0.4940465287103999,0.022425681921159693
+Hourly wet-bulb temperature,hourly,Abuja,Multiple linear regression,Q1,2160,0.4975595528721375,0.6997601574937606,0.016885245698346048
+Hourly wet-bulb temperature,hourly,Abuja,Multiple linear regression,Q2,2184,0.315741841673361,0.43659477786908607,-0.009582963552883022
+Hourly wet-bulb temperature,hourly,Abuja,Multiple linear regression,Q3,2208,0.2450459390229029,0.3313109487518388,0.027144442756564597
+Hourly wet-bulb temperature,hourly,Abuja,Multiple linear regression,Q4,2207,0.4251976885488741,0.6083667762012336,0.03324686160935359
+Hourly wet-bulb temperature,hourly,Abuja,Persistence baseline,Q1,2160,0.6542592592592592,0.9037114829659101,-0.004166666666666667
+Hourly wet-bulb temperature,hourly,Abuja,Persistence baseline,Q2,2184,0.34299450549450544,0.48694024875831105,7.783882783882781e-4
+Hourly wet-bulb temperature,hourly,Abuja,Persistence baseline,Q3,2208,0.263088768115942,0.3713896250882467,2.2644927536231884e-4
+Hourly wet-bulb temperature,hourly,Abuja,Persistence baseline,Q4,2207,0.510829179882193,0.7342362389270178,8.15586769370186e-4
+Hourly wet-bulb temperature,hourly,Abuja,Random forest,Q1,2160,0.44889100925925923,0.6101876817547925,-0.06330427469135803
+Hourly wet-bulb temperature,hourly,Abuja,Random forest,Q2,2184,0.29825334554334576,0.4174515637643438,-0.01776702075702015
+Hourly wet-bulb temperature,hourly,Abuja,Random forest,Q3,2208,0.22944982185990373,0.3159145758408815,0.018890323067633163
+Hourly wet-bulb temperature,hourly,Abuja,Random forest,Q4,2207,0.39629503700347346,0.5530593539801495,-0.03744168554598978
+Hourly wet-bulb temperature,hourly,Ilorin,Multiple linear regression,Q1,2160,0.4694478187465111,0.6756230615887053,0.005812903513046522
+Hourly wet-bulb temperature,hourly,Ilorin,Multiple linear regression,Q2,2184,0.2718037319745327,0.3745600769229327,0.02481725943116935
+Hourly wet-bulb temperature,hourly,Ilorin,Multiple linear regression,Q3,2208,0.21243405958110526,0.2890313316230677,0.054008262301074465
+Hourly wet-bulb temperature,hourly,Ilorin,Multiple linear regression,Q4,2207,0.36672505473035966,0.5167428127871778,0.008089085189305038
+Hourly wet-bulb temperature,hourly,Ilorin,Persistence baseline,Q1,2160,0.5581944444444444,0.8002516965166508,-0.004027777777777778
+Hourly wet-bulb temperature,hourly,Ilorin,Persistence baseline,Q2,2184,0.29418498168498164,0.42424788006101305,7.783882783882781e-4
+Hourly wet-bulb temperature,hourly,Ilorin,Persistence baseline,Q3,2208,0.2326539855072464,0.33877576911451396,-4.52898550724628e-5
+Hourly wet-bulb temperature,hourly,Ilorin,Persistence baseline,Q4,2207,0.43085636610783873,0.6171723231674561,0.0025826914363389214
+Hourly wet-bulb temperature,hourly,Ilorin,Random forest,Q1,2160,0.40357061728395033,0.5695803596000293,-0.02794958641975219
+Hourly wet-bulb temperature,hourly,Ilorin,Random forest,Q2,2184,0.24901071733821753,0.34380918550354295,-0.03255083333333302
+Hourly wet-bulb temperature,hourly,Ilorin,Random forest,Q3,2208,0.1924527566425126,0.2675150854592867,0.020462949879227692
+Hourly wet-bulb temperature,hourly,Ilorin,Random forest,Q4,2207,0.33958241655339066,0.4656656592965596,-0.0341713366560947
+Hourly wet-bulb temperature,hourly,Lagos,Multiple linear regression,Q1,2160,0.17891951719161978,0.2459189234780755,0.008349810021303515
+Hourly wet-bulb temperature,hourly,Lagos,Multiple linear regression,Q2,2184,0.19122925292537737,0.2601873183386777,0.031133828752385115
+Hourly wet-bulb temperature,hourly,Lagos,Multiple linear regression,Q3,2208,0.15424471398171583,0.2067273367463842,0.03723769652369611
+Hourly wet-bulb temperature,hourly,Lagos,Multiple linear regression,Q4,2207,0.1805509145272302,0.24538589977368291,0.057513701833642905
+Hourly wet-bulb temperature,hourly,Lagos,Persistence baseline,Q1,2160,0.18277777777777776,0.2654137231652584,-9.259259259259226e-5
+Hourly wet-bulb temperature,hourly,Lagos,Persistence baseline,Q2,2184,0.18511904761904763,0.26797128215278604,7.783882783882781e-4
+Hourly wet-bulb temperature,hourly,Lagos,Persistence baseline,Q3,2208,0.13768115942028983,0.19822582642246583,-1.8115942028985442e-4
+Hourly wet-bulb temperature,hourly,Lagos,Persistence baseline,Q4,2207,0.19660172179429092,0.2679783854027128,-4.0779338468509226e-4
+Hourly wet-bulb temperature,hourly,Lagos,Random forest,Q1,2160,0.1713108240740736,0.23443223068856606,-0.019845867283950023
+Hourly wet-bulb temperature,hourly,Lagos,Random forest,Q2,2184,0.17850452380952395,0.24352605951996917,-0.009311135531135684
+Hourly wet-bulb temperature,hourly,Lagos,Random forest,Q3,2208,0.12900459239130455,0.17354423242224146,0.011222835144927924
+Hourly wet-bulb temperature,hourly,Lagos,Random forest,Q4,2207,0.17930524392085773,0.24018588839958138,-0.012332702008760047

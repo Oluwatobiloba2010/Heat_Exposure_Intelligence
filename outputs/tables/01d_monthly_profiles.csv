@@ -1,0 +1,253 @@
+location,variable,variable_label,month_number,month_label,observations,mean_value,median_value,ninetieth_percentile
+Abuja,apparent_temperature,Apparent temperature (°C),1,Jan,3720,26.678844086021506,26.7,34.8
+Abuja,apparent_temperature,Apparent temperature (°C),2,Feb,3384,28.470390070921987,28.9,36.6
+Abuja,apparent_temperature,Apparent temperature (°C),3,Mar,3720,33.36548387096774,33.2,39.5
+Abuja,apparent_temperature,Apparent temperature (°C),4,Apr,3600,33.56641666666667,32.9,39.4
+Abuja,apparent_temperature,Apparent temperature (°C),5,May,3720,32.376424731182794,31.8,37.6
+Abuja,apparent_temperature,Apparent temperature (°C),6,Jun,3600,30.326805555555556,29.8,34.6
+Abuja,apparent_temperature,Apparent temperature (°C),7,Jul,3720,29.23564516129032,28.8,32.7
+Abuja,apparent_temperature,Apparent temperature (°C),8,Aug,3720,28.63948924731183,28.2,31.9
+Abuja,apparent_temperature,Apparent temperature (°C),9,Sep,3600,29.479277777777778,28.8,33.8
+Abuja,apparent_temperature,Apparent temperature (°C),10,Oct,3720,30.845752688172045,30.1,36.2
+Abuja,apparent_temperature,Apparent temperature (°C),11,Nov,3600,29.898222222222223,30,36.5
+Abuja,apparent_temperature,Apparent temperature (°C),12,Dec,3720,27.263817204301077,27.6,35.3
+Abuja,relative_humidity_2m,Relative humidity (%),1,Jan,3720,35.92741935483871,35,52
+Abuja,relative_humidity_2m,Relative humidity (%),2,Feb,3384,32.328605200945624,30,49
+Abuja,relative_humidity_2m,Relative humidity (%),3,Mar,3720,50.20618279569892,49,76
+Abuja,relative_humidity_2m,Relative humidity (%),4,Apr,3600,61.73027777777778,63,82
+Abuja,relative_humidity_2m,Relative humidity (%),5,May,3720,73.64543010752688,76,88
+Abuja,relative_humidity_2m,Relative humidity (%),6,Jun,3600,80.85916666666667,83,94
+Abuja,relative_humidity_2m,Relative humidity (%),7,Jul,3720,85.64731182795698,88,96
+Abuja,relative_humidity_2m,Relative humidity (%),8,Aug,3720,86.23145161290323,89,96
+Abuja,relative_humidity_2m,Relative humidity (%),9,Sep,3600,84.79277777777777,88,96
+Abuja,relative_humidity_2m,Relative humidity (%),10,Oct,3720,79.6005376344086,83,95
+Abuja,relative_humidity_2m,Relative humidity (%),11,Nov,3600,56.91888888888889,57,83.09999999999991
+Abuja,relative_humidity_2m,Relative humidity (%),12,Dec,3720,41.168279569892476,41,59
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),1,Jan,3720,258.2983870967742,3.5,848
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),2,Feb,3384,274.0664893617021,7,891
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),3,Mar,3720,271.6768817204301,13,871.0999999999999
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),4,Apr,3600,263.5986111111111,19,843
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),5,May,3720,240.86962365591398,24,751.0999999999999
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),6,Jun,3600,203.05305555555555,24,621
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),7,Jul,3720,167.6467741935484,18,530
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),8,Aug,3720,160.23709677419356,13,524.0999999999999
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),9,Sep,3600,185.22861111111112,10,607.0999999999999
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),10,Oct,3720,223.03118279569892,3,730.0999999999999
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),11,Nov,3600,252.91333333333333,4.5,822
+Abuja,shortwave_radiation,Incoming solar radiation (W/m²),12,Dec,3720,249.51801075268818,3,830
+Abuja,temperature_2m,Air temperature (°C),1,Jan,3720,27.14037634408602,26.8,34
+Abuja,temperature_2m,Air temperature (°C),2,Feb,3384,28.839952718676123,28.5,35.5
+Abuja,temperature_2m,Air temperature (°C),3,Mar,3720,30.670053763440862,30.2,36.2
+Abuja,temperature_2m,Air temperature (°C),4,Apr,3600,29.732027777777777,29.1,35
+Abuja,temperature_2m,Air temperature (°C),5,May,3720,27.83314516129032,27.3,32.2
+Abuja,temperature_2m,Air temperature (°C),6,Jun,3600,25.93188888888889,25.4,29.7
+Abuja,temperature_2m,Air temperature (°C),7,Jul,3720,24.92322580645161,24.4,28.1
+Abuja,temperature_2m,Air temperature (°C),8,Aug,3720,24.54010752688172,24,27.8
+Abuja,temperature_2m,Air temperature (°C),9,Sep,3600,25.026138888888887,24.4,28.9
+Abuja,temperature_2m,Air temperature (°C),10,Oct,3720,26.203924731182795,25.4,30.9
+Abuja,temperature_2m,Air temperature (°C),11,Nov,3600,27.547416666666667,27,33.6
+Abuja,temperature_2m,Air temperature (°C),12,Dec,3720,27.101155913978495,26.9,34
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),1,Jan,3720,16.981881720430106,17.2,21
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),2,Feb,3384,17.609929078014183,17.7,22.4
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),3,Mar,3720,22.42489247311828,23,25
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),4,Apr,3600,23.7005,23.9,25.5
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),5,May,3720,23.978682795698926,24,25.6
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),6,Jun,3600,23.25625,23.2,24.8
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),7,Jul,3720,22.975752688172044,22.9,24.3
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),8,Aug,3720,22.679059139784947,22.6,23.9
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),9,Sep,3600,22.940305555555554,22.8,24.5
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),10,Oct,3720,23.268763440860216,23.2,24.9
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),11,Nov,3600,20.86052777777778,21.4,24.1
+Abuja,wet_bulb_temperature_2m,Wet-bulb temperature (°C),12,Dec,3720,17.900833333333335,18.3,21.8
+Abuja,wind_direction_10m,Wind direction (degrees),1,Jan,3720,110.27956989247312,90,233
+Abuja,wind_direction_10m,Wind direction (degrees),2,Feb,3384,123.91578014184397,114,252
+Abuja,wind_direction_10m,Wind direction (degrees),3,Mar,3720,186.2725806451613,204,263
+Abuja,wind_direction_10m,Wind direction (degrees),4,Apr,3600,209.4775,215,266
+Abuja,wind_direction_10m,Wind direction (degrees),5,May,3720,207.73655913978496,210,266
+Abuja,wind_direction_10m,Wind direction (degrees),6,Jun,3600,203.81472222222223,208,273
+Abuja,wind_direction_10m,Wind direction (degrees),7,Jul,3720,216.82096774193548,223,274
+Abuja,wind_direction_10m,Wind direction (degrees),8,Aug,3720,223.34327956989247,228,290
+Abuja,wind_direction_10m,Wind direction (degrees),9,Sep,3600,197.28527777777776,206,307
+Abuja,wind_direction_10m,Wind direction (degrees),10,Oct,3720,186.41639784946236,188,311
+Abuja,wind_direction_10m,Wind direction (degrees),11,Nov,3600,143.94027777777777,136,270
+Abuja,wind_direction_10m,Wind direction (degrees),12,Dec,3720,108.65645161290323,90,239
+Abuja,wind_speed_10m,Wind speed (km/h),1,Jan,3720,6.584408602150537,6.2,11.1
+Abuja,wind_speed_10m,Wind speed (km/h),2,Feb,3384,6.676595744680851,6.2,11.4
+Abuja,wind_speed_10m,Wind speed (km/h),3,Mar,3720,6.111747311827957,6,9.8
+Abuja,wind_speed_10m,Wind speed (km/h),4,Apr,3600,6.690777777777778,6.6,10.3
+Abuja,wind_speed_10m,Wind speed (km/h),5,May,3720,6.123870967741936,6.1,9.3
+Abuja,wind_speed_10m,Wind speed (km/h),6,Jun,3600,5.41625,5.2,8.7
+Abuja,wind_speed_10m,Wind speed (km/h),7,Jul,3720,5.609274193548387,5.4,9.2
+Abuja,wind_speed_10m,Wind speed (km/h),8,Aug,3720,6.033763440860215,5.6,10.20999999999999
+Abuja,wind_speed_10m,Wind speed (km/h),9,Sep,3600,4.6395277777777775,4.3,7.9
+Abuja,wind_speed_10m,Wind speed (km/h),10,Oct,3720,4.042688172043011,3.8,6.8
+Abuja,wind_speed_10m,Wind speed (km/h),11,Nov,3600,5.2492222222222225,4.8,9.4
+Abuja,wind_speed_10m,Wind speed (km/h),12,Dec,3720,6.278951612903226,6,10.7
+Ilorin,apparent_temperature,Apparent temperature (°C),1,Jan,3720,27.447177419354837,27.2,36
+Ilorin,apparent_temperature,Apparent temperature (°C),2,Feb,3384,30.537647754137115,30.4,38.7
+Ilorin,apparent_temperature,Apparent temperature (°C),3,Mar,3720,33.965564516129035,32.7,41
+Ilorin,apparent_temperature,Apparent temperature (°C),4,Apr,3600,33.59036111111111,32.2,40.7
+Ilorin,apparent_temperature,Apparent temperature (°C),5,May,3720,32.75637096774194,31.6,39.3
+Ilorin,apparent_temperature,Apparent temperature (°C),6,Jun,3600,30.95463888888889,30,36.6
+Ilorin,apparent_temperature,Apparent temperature (°C),7,Jul,3720,29.83962365591398,29.1,34
+Ilorin,apparent_temperature,Apparent temperature (°C),8,Aug,3720,29.090618279569892,28.4,33.1
+Ilorin,apparent_temperature,Apparent temperature (°C),9,Sep,3600,30.12025,29.2,35
+Ilorin,apparent_temperature,Apparent temperature (°C),10,Oct,3720,31.318602150537636,30,37.5
+Ilorin,apparent_temperature,Apparent temperature (°C),11,Nov,3600,30.9785,30.1,37.8
+Ilorin,apparent_temperature,Apparent temperature (°C),12,Dec,3720,28.157204301075268,28.5,36.2
+Ilorin,relative_humidity_2m,Relative humidity (%),1,Jan,3720,38.03037634408602,30,80
+Ilorin,relative_humidity_2m,Relative humidity (%),2,Feb,3384,42.6436170212766,31,87
+Ilorin,relative_humidity_2m,Relative humidity (%),3,Mar,3720,61.11263440860215,66,88
+Ilorin,relative_humidity_2m,Relative humidity (%),4,Apr,3600,67.01361111111112,71,89
+Ilorin,relative_humidity_2m,Relative humidity (%),5,May,3720,72.66532258064517,76,92
+Ilorin,relative_humidity_2m,Relative humidity (%),6,Jun,3600,77.53194444444445,82,94
+Ilorin,relative_humidity_2m,Relative humidity (%),7,Jul,3720,80.40510752688172,83,94
+Ilorin,relative_humidity_2m,Relative humidity (%),8,Aug,3720,83.275,87,96
+Ilorin,relative_humidity_2m,Relative humidity (%),9,Sep,3600,83.53194444444445,87,96
+Ilorin,relative_humidity_2m,Relative humidity (%),10,Oct,3720,80.21666666666667,85,96
+Ilorin,relative_humidity_2m,Relative humidity (%),11,Nov,3600,62.405,60,95
+Ilorin,relative_humidity_2m,Relative humidity (%),12,Dec,3720,42.67661290322581,35,87
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),1,Jan,3720,255.5779569892473,7,833.0999999999999
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),2,Feb,3384,264.40632387706853,6.5,869
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),3,Mar,3720,257.3489247311828,8.5,846.0999999999999
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),4,Apr,3600,257.49944444444446,13,847
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),5,May,3720,244.48709677419356,16.5,790
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),6,Jun,3600,217.44944444444445,16.5,704
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),7,Jul,3720,185.5204301075269,9.5,588
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),8,Aug,3720,170.41639784946236,6,558
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),9,Sep,3600,188.42555555555555,8,619.0999999999999
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),10,Oct,3720,219.98467741935485,6,747.0999999999999
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),11,Nov,3600,242.25,4,796
+Ilorin,shortwave_radiation,Incoming solar radiation (W/m²),12,Dec,3720,245.41021505376344,3,816
+Ilorin,temperature_2m,Air temperature (°C),1,Jan,3720,27.793333333333333,26.8,35.1
+Ilorin,temperature_2m,Air temperature (°C),2,Feb,3384,29.700591016548465,28.8,36.8
+Ilorin,temperature_2m,Air temperature (°C),3,Mar,3720,30.56940860215054,29.2,37.30999999999999
+Ilorin,temperature_2m,Air temperature (°C),4,Apr,3600,29.725805555555556,28.6,36
+Ilorin,temperature_2m,Air temperature (°C),5,May,3720,28.608736559139786,27.5,34.2
+Ilorin,temperature_2m,Air temperature (°C),6,Jun,3600,26.94461111111111,26.1,31.9
+Ilorin,temperature_2m,Air temperature (°C),7,Jul,3720,26.101155913978495,25.4,29.8
+Ilorin,temperature_2m,Air temperature (°C),8,Aug,3720,25.407258064516128,24.7,29
+Ilorin,temperature_2m,Air temperature (°C),9,Sep,3600,25.8055,25,29.8
+Ilorin,temperature_2m,Air temperature (°C),10,Oct,3720,26.76319892473118,25.7,32
+Ilorin,temperature_2m,Air temperature (°C),11,Nov,3600,28.187722222222224,27.2,34.7
+Ilorin,temperature_2m,Air temperature (°C),12,Dec,3720,27.931370967741934,27,35.2
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),1,Jan,3720,17.510188172043012,17.2,22.8
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),2,Feb,3384,19.698995271867613,20.5,24.4
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),3,Mar,3720,23.976424731182796,24.2,25.7
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),4,Apr,3600,24.417527777777778,24.5,26
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),5,May,3720,24.4047311827957,24.4,25.9
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),6,Jun,3600,23.63613888888889,23.6,25.1
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),7,Jul,3720,23.324596774193548,23.3,24.7
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),8,Aug,3720,23.069301075268818,23,24.3
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),9,Sep,3600,23.480722222222223,23.4,25
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),10,Oct,3720,23.845967741935485,23.8,25.5
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),11,Nov,3600,22.108888888888888,22.9,24.6
+Ilorin,wet_bulb_temperature_2m,Wet-bulb temperature (°C),12,Dec,3720,18.518037634408604,18.4,23.7
+Ilorin,wind_direction_10m,Wind direction (degrees),1,Jan,3720,105.6970430107527,47,241
+Ilorin,wind_direction_10m,Wind direction (degrees),2,Feb,3384,129.35933806146573,92.5,236
+Ilorin,wind_direction_10m,Wind direction (degrees),3,Mar,3720,183.34381720430108,206,225
+Ilorin,wind_direction_10m,Wind direction (degrees),4,Apr,3600,198.7525,206,224
+Ilorin,wind_direction_10m,Wind direction (degrees),5,May,3720,202.15698924731183,206,224
+Ilorin,wind_direction_10m,Wind direction (degrees),6,Jun,3600,203.01833333333335,207,229
+Ilorin,wind_direction_10m,Wind direction (degrees),7,Jul,3720,214.847311827957,215,235
+Ilorin,wind_direction_10m,Wind direction (degrees),8,Aug,3720,211.79059139784945,213,237
+Ilorin,wind_direction_10m,Wind direction (degrees),9,Sep,3600,202.9427777777778,208,238.0999999999999
+Ilorin,wind_direction_10m,Wind direction (degrees),10,Oct,3720,183.4016129032258,202,226
+Ilorin,wind_direction_10m,Wind direction (degrees),11,Nov,3600,150.32805555555555,194,229
+Ilorin,wind_direction_10m,Wind direction (degrees),12,Dec,3720,105.29139784946237,48,240
+Ilorin,wind_speed_10m,Wind speed (km/h),1,Jan,3720,7.416747311827957,7.6,10.6
+Ilorin,wind_speed_10m,Wind speed (km/h),2,Feb,3384,7.304816784869977,7.5,10.9
+Ilorin,wind_speed_10m,Wind speed (km/h),3,Mar,3720,9.547956989247313,10.1,14.6
+Ilorin,wind_speed_10m,Wind speed (km/h),4,Apr,3600,10.333722222222223,10.9,15
+Ilorin,wind_speed_10m,Wind speed (km/h),5,May,3720,9.861854838709677,10.2,13.8
+Ilorin,wind_speed_10m,Wind speed (km/h),6,Jun,3600,8.66238888888889,8.7,12.4
+Ilorin,wind_speed_10m,Wind speed (km/h),7,Jul,3720,9.61747311827957,9.7,13.3
+Ilorin,wind_speed_10m,Wind speed (km/h),8,Aug,3720,9.546720430107527,9.7,13.6
+Ilorin,wind_speed_10m,Wind speed (km/h),9,Sep,3600,7.284805555555556,7.4,11
+Ilorin,wind_speed_10m,Wind speed (km/h),10,Oct,3720,6.843655913978495,6.9,10.5
+Ilorin,wind_speed_10m,Wind speed (km/h),11,Nov,3600,7.215861111111111,7.3,10.6
+Ilorin,wind_speed_10m,Wind speed (km/h),12,Dec,3720,7.481478494623656,7.7,10.4
+Lagos,apparent_temperature,Apparent temperature (°C),1,Jan,3720,32.95720430107527,32.9,35.7
+Lagos,apparent_temperature,Apparent temperature (°C),2,Feb,3384,33.879078014184394,33.7,36.6
+Lagos,apparent_temperature,Apparent temperature (°C),3,Mar,3720,33.99301075268817,33.7,36.709999999999994
+Lagos,apparent_temperature,Apparent temperature (°C),4,Apr,3600,33.88766666666667,33.7,36.30999999999999
+Lagos,apparent_temperature,Apparent temperature (°C),5,May,3720,33.5116935483871,33.4,35.9
+Lagos,apparent_temperature,Apparent temperature (°C),6,Jun,3600,31.65972222222222,31.6,33.9
+Lagos,apparent_temperature,Apparent temperature (°C),7,Jul,3720,29.68201612903226,29.5,31.5
+Lagos,apparent_temperature,Apparent temperature (°C),8,Aug,3720,29.03970430107527,29,30.8
+Lagos,apparent_temperature,Apparent temperature (°C),9,Sep,3600,30.296,30.2,32.3
+Lagos,apparent_temperature,Apparent temperature (°C),10,Oct,3720,32.08747311827957,31.9,34.4
+Lagos,apparent_temperature,Apparent temperature (°C),11,Nov,3600,33.38261111111111,33.1,36
+Lagos,apparent_temperature,Apparent temperature (°C),12,Dec,3720,33.00061827956989,32.9,35.9
+Lagos,relative_humidity_2m,Relative humidity (%),1,Jan,3720,80.6766129032258,85,92
+Lagos,relative_humidity_2m,Relative humidity (%),2,Feb,3384,81.93321513002364,85,92
+Lagos,relative_humidity_2m,Relative humidity (%),3,Mar,3720,83.19462365591397,85,90
+Lagos,relative_humidity_2m,Relative humidity (%),4,Apr,3600,83.35111111111111,85,89
+Lagos,relative_humidity_2m,Relative humidity (%),5,May,3720,84.26236559139785,85,90
+Lagos,relative_humidity_2m,Relative humidity (%),6,Jun,3600,86.39416666666666,87,91
+Lagos,relative_humidity_2m,Relative humidity (%),7,Jul,3720,86.99247311827958,88,91
+Lagos,relative_humidity_2m,Relative humidity (%),8,Aug,3720,87.66586021505377,88,92
+Lagos,relative_humidity_2m,Relative humidity (%),9,Sep,3600,87.26277777777777,88,92
+Lagos,relative_humidity_2m,Relative humidity (%),10,Oct,3720,86.05887096774194,87,91
+Lagos,relative_humidity_2m,Relative humidity (%),11,Nov,3600,84.56666666666666,86,90
+Lagos,relative_humidity_2m,Relative humidity (%),12,Dec,3720,79.70752688172043,84,91
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),1,Jan,3720,226.96586021505377,9,744
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),2,Feb,3384,232.64982269503545,6.5,751.7000000000003
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),3,Mar,3720,225.6287634408602,7,725.0999999999999
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),4,Apr,3600,217.15416666666667,9,685
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),5,May,3720,200.40430107526882,11,643
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),6,Jun,3600,166.32777777777778,10,558
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),7,Jul,3720,169.91155913978494,5.5,544.0999999999999
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),8,Aug,3720,173.44327956989247,5,557.1999999999998
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),9,Sep,3600,175.945,7,590.0999999999999
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),10,Oct,3720,185.9529569892473,7,615
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),11,Nov,3600,202.51222222222222,5,664
+Lagos,shortwave_radiation,Incoming solar radiation (W/m²),12,Dec,3720,220.9994623655914,4.5,715.0999999999999
+Lagos,temperature_2m,Air temperature (°C),1,Jan,3720,27.98569892473118,27.8,30.3
+Lagos,temperature_2m,Air temperature (°C),2,Feb,3384,28.558067375886523,28.3,30.7
+Lagos,temperature_2m,Air temperature (°C),3,Mar,3720,28.701586021505378,28.5,30.7
+Lagos,temperature_2m,Air temperature (°C),4,Apr,3600,28.530055555555556,28.4,30.5
+Lagos,temperature_2m,Air temperature (°C),5,May,3720,28.11241935483871,28,30.00999999999999
+Lagos,temperature_2m,Air temperature (°C),6,Jun,3600,26.82086111111111,26.7,28.6
+Lagos,temperature_2m,Air temperature (°C),7,Jul,3720,25.955430107526883,25.8,27.3
+Lagos,temperature_2m,Air temperature (°C),8,Aug,3720,25.524301075268816,25.4,26.8
+Lagos,temperature_2m,Air temperature (°C),9,Sep,3600,26.053444444444445,25.9,27.6
+Lagos,temperature_2m,Air temperature (°C),10,Oct,3720,26.970779569892475,26.8,28.8
+Lagos,temperature_2m,Air temperature (°C),11,Nov,3600,27.866138888888887,27.7,29.8
+Lagos,temperature_2m,Air temperature (°C),12,Dec,3720,28.03282258064516,27.8,30.5
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),1,Jan,3720,25.197016129032257,25.6,26.6
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),2,Feb,3384,25.95466903073286,26.3,27.1
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),3,Mar,3720,26.323682795698925,26.4,27.3
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),4,Apr,3600,26.176666666666666,26.2,27.2
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),5,May,3720,25.90989247311828,26,26.9
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),6,Jun,3600,24.96325,25,26
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),7,Jul,3720,24.205725806451614,24.2,25
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),8,Aug,3720,23.878387096774194,23.9,24.7
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),9,Sep,3600,24.33791666666667,24.3,25.2
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),10,Oct,3720,25.05989247311828,25.1,26
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),11,Nov,3600,25.709,25.8,26.6
+Lagos,wet_bulb_temperature_2m,Wet-bulb temperature (°C),12,Dec,3720,25.098064516129032,25.5,26.5
+Lagos,wind_direction_10m,Wind direction (degrees),1,Jan,3720,222.2266129032258,218,304
+Lagos,wind_direction_10m,Wind direction (degrees),2,Feb,3384,226.4078014184397,221,281
+Lagos,wind_direction_10m,Wind direction (degrees),3,Mar,3720,221.49462365591398,220,246.0999999999999
+Lagos,wind_direction_10m,Wind direction (degrees),4,Apr,3600,216.9261111111111,217,250
+Lagos,wind_direction_10m,Wind direction (degrees),5,May,3720,213.78548387096774,216,253.0999999999999
+Lagos,wind_direction_10m,Wind direction (degrees),6,Jun,3600,225.6486111111111,227,270
+Lagos,wind_direction_10m,Wind direction (degrees),7,Jul,3720,237.1284946236559,236,254
+Lagos,wind_direction_10m,Wind direction (degrees),8,Aug,3720,233.56102150537635,232,251
+Lagos,wind_direction_10m,Wind direction (degrees),9,Sep,3600,235.46138888888888,234,264
+Lagos,wind_direction_10m,Wind direction (degrees),10,Oct,3720,226.64193548387098,227,277
+Lagos,wind_direction_10m,Wind direction (degrees),11,Nov,3600,225.38611111111112,222,278
+Lagos,wind_direction_10m,Wind direction (degrees),12,Dec,3720,219.93897849462365,219,308
+Lagos,wind_speed_10m,Wind speed (km/h),1,Jan,3720,10.291666666666666,10.2,15.4
+Lagos,wind_speed_10m,Wind speed (km/h),2,Feb,3384,11.67937352245863,12.1,16.6
+Lagos,wind_speed_10m,Wind speed (km/h),3,Mar,3720,13.61736559139785,14,17.8
+Lagos,wind_speed_10m,Wind speed (km/h),4,Apr,3600,12.284083333333333,12.7,17
+Lagos,wind_speed_10m,Wind speed (km/h),5,May,3720,10.706935483870968,11,15.3
+Lagos,wind_speed_10m,Wind speed (km/h),6,Jun,3600,10.456055555555556,10.5,15.6
+Lagos,wind_speed_10m,Wind speed (km/h),7,Jul,3720,14.918844086021505,15,19.5
+Lagos,wind_speed_10m,Wind speed (km/h),8,Aug,3720,15.190779569892474,15.3,19.7
+Lagos,wind_speed_10m,Wind speed (km/h),9,Sep,3600,12.230361111111112,12.5,16.6
+Lagos,wind_speed_10m,Wind speed (km/h),10,Oct,3720,9.194408602150538,9.2,13.8
+Lagos,wind_speed_10m,Wind speed (km/h),11,Nov,3600,9.243333333333334,9.2,13.7
+Lagos,wind_speed_10m,Wind speed (km/h),12,Dec,3720,9.455376344086021,9.4,14.2

@@ -1,0 +1,37 @@
+feature_group,feature_name,description,role
+Temporal,hour,Local clock hour of observation.,Predictor
+Temporal,month,Calendar month.,Predictor
+Temporal,quarter,Calendar quarter.,Predictor
+Temporal,day_of_year,Day number within the year.,Predictor
+Temporal,day_of_week,Day of the week.,Predictor
+Temporal,is_weekend,Indicates Saturday or Sunday.,Predictor
+Temporal,hour_sin / hour_cos,Circular encoding of the hour of day.,Predictor
+Temporal,day_of_year_sin / day_of_year_cos,Circular encoding of annual position.,Predictor
+Wind direction,wind_direction_sin,Sine transformation of wind direction.,Predictor
+Wind direction,wind_direction_cos,Cosine transformation of wind direction.,Predictor
+Wind direction,wind_u_component,East-west wind movement component.,Predictor
+Wind direction,wind_v_component,North-south wind movement component.,Predictor
+Hourly historical,lag_1h,Value recorded one hour earlier.,Predictor
+Hourly historical,lag_3h,Value recorded three hours earlier.,Predictor
+Hourly historical,lag_6h,Value recorded six hours earlier.,Predictor
+Hourly historical,lag_20h,Value recorded 24 hours earlier.,Predictor
+Hourly rolling,prior_3h_mean,Mean of the preceding three hourly observations.,Predictor
+Hourly rolling,prior_6h_mean,Mean of the preceding six hourly observations.,Predictor
+Hourly rolling,prior_20h_mean,Mean of the preceding 24 hourly observations.,Predictor
+Prediction targets,next_hour_apparent_temperature,Apparent temperature in the following hour.,Target
+Prediction targets,next_hour_wet_bulb_temperature,Wet-bulb temperature in the following hour.,Target
+Prediction targets,next_hour_air_temperature,Air temperature in the following hour.,Target
+Daily derived,daily maximum temperature,Highest hourly air temperature of the day.,Daily analytical feature
+Daily derived,daily temperature variability,Standard deviation of hourly air temperature.,Daily analytical feature
+Daily derived,daily temperature percentile,90th percentile of hourly air temperature.,Daily analytical feature
+Daily derived,daily solar energy,Accumulated daily incoming solar energy.,Daily analytical feature
+Daily derived,daily wet-bulb percentile,90th percentile of hourly wet-bulb temperature.,Daily analytical feature
+Daily derived,daily apparent-temperature percentile,90th percentile of hourly apparent temperature.,Daily analytical feature
+Daily historical,lag_1d,Daily value one day earlier.,Predictor
+Daily historical,lag_3d,Daily value three days earlier.,Predictor
+Daily historical,lag_7d,Daily value seven days earlier.,Predictor
+Daily rolling,prior_3d_mean,Mean of the preceding three daily values.,Predictor
+Daily rolling,prior_7d_mean,Mean of the preceding seven daily values.,Predictor
+Daily prediction targets,next_day_maximum_temperature,Maximum air temperature on the following day.,Target
+Daily prediction targets,next_day_maximum_wet_bulb_temperature,Maximum wet-bulb temperature on the following day.,Target
+Daily prediction targets,next_day_maximum_apparent_temperature,Maximum apparent temperature on the following day.,Target

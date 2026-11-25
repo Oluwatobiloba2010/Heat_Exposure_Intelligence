@@ -1,0 +1,4 @@
+location,total_records,unique_timestamps,first_timestamp,last_timestamp,missing_timestamps
+Abuja,43824,43824,2020-12-31T23:00:00Z,2025-12-31T22:00:00Z,0
+Ilorin,43824,43824,2020-12-31T23:00:00Z,2025-12-31T22:00:00Z,0
+Lagos,43824,43824,2020-12-31T23:00:00Z,2025-12-31T22:00:00Z,0

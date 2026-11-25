@@ -1,0 +1,48 @@
+HEAT EXPOSURE INTELLIGENCE
+SCRIPT 05: STATISTICAL ANALYSIS
+
+DATA SOURCE
+Open-Meteo Historical Weather API, ERA5 reanalysis.
+
+ANALYTICAL APPROACH
+Hourly observations were aggregated into daily summaries
+for the main location comparisons and correlation analyses.
+
+DESCRIPTIVE STATISTICS
+Means, standard deviations, medians, percentiles, minima
+and maxima were calculated for environmental variables.
+
+LOCATION COMPARISONS
+Daily values were matched by calendar date across locations.
+Mean paired differences were calculated as the first
+location minus the second location.
+
+UNCERTAINTY ESTIMATION
+95% percentile confidence intervals were estimated using
+a circular moving-block bootstrap with seven-day blocks
+and 1,000 bootstrap replications.
+
+CORRELATION ANALYSIS
+Spearman rank correlations were calculated using daily
+environmental summaries. Confidence intervals were
+estimated using the same block-bootstrap approach.
+
+INTERPRETATION LIMITATIONS
+The block-bootstrap approach approximates temporal
+dependence but does not guarantee that all forms of
+seasonality or long-range dependence have been removed.
+
+The three locations are specific study locations and
+should not be treated as a representative sample of
+all Nigerian locations.
+
+ERA5 data represent gridded reanalysis estimates rather
+than direct measurements at individual workplaces.
+
+Wet-bulb temperature is not WBGT.
+The analysis does not measure actual worker exposure,
+heat illness, productivity, or workplace safety.
+
+Correlations do not establish causation.
+Statistical differences should be interpreted alongside
+their magnitude and practical relevance.
